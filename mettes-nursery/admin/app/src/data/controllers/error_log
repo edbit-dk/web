@@ -1,0 +1,225 @@
+[20-Sep-2020 00:49:29 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/beskeder.php on line 3
+[20-Sep-2020 00:49:34 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/create.php on line 3
+[20-Sep-2020 00:49:37 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/delete.php on line 3
+[20-Sep-2020 00:49:41 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/error.php on line 9
+[20-Sep-2020 00:49:44 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[20-Sep-2020 00:49:49 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/kunder.php on line 3
+[20-Sep-2020 00:49:54 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/opret.php on line 3
+[20-Sep-2020 00:49:58 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/ordrer.php on line 3
+[20-Sep-2020 00:50:02 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/produkter.php on line 3
+[20-Sep-2020 00:50:06 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/rediger.php on line 3
+[20-Sep-2020 00:50:10 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/update.php on line 3
+[22-Feb-2021 08:31:39 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/beskeder.php on line 3
+[22-Feb-2021 08:31:44 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/create.php on line 3
+[22-Feb-2021 08:31:52 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/delete.php on line 3
+[22-Feb-2021 08:32:00 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/error.php on line 9
+[22-Feb-2021 08:32:08 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[22-Feb-2021 08:32:16 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/kunder.php on line 3
+[22-Feb-2021 08:32:22 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/opret.php on line 3
+[22-Feb-2021 08:32:34 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/ordrer.php on line 3
+[22-Feb-2021 08:32:40 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/produkter.php on line 3
+[22-Feb-2021 08:32:47 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/rediger.php on line 3
+[22-Feb-2021 08:32:52 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/update.php on line 3
+[22-Jul-2021 06:04:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/beskeder.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/beskeder.php on line 3
+[22-Jul-2021 06:04:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/create.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/create.php on line 3
+[22-Jul-2021 06:04:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/delete.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/delete.php on line 3
+[22-Jul-2021 06:04:43 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/error.php on line 9
+[22-Jul-2021 06:04:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[22-Jul-2021 06:04:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/kunder.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/kunder.php on line 3
+[22-Jul-2021 06:04:56 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/opret.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/opret.php on line 3
+[22-Jul-2021 06:04:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/ordrer.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/ordrer.php on line 3
+[22-Jul-2021 06:05:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/produkter.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/produkter.php on line 3
+[22-Jul-2021 06:05:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/rediger.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/rediger.php on line 3
+[22-Jul-2021 06:05:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/update.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/update.php on line 3
+[29-Dec-2021 14:27:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/beskeder.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/beskeder.php on line 3
+[29-Dec-2021 14:27:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/create.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/create.php on line 3
+[29-Dec-2021 14:27:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/delete.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/delete.php on line 3
+[29-Dec-2021 14:27:12 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/error.php on line 9
+[29-Dec-2021 14:27:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[29-Dec-2021 14:27:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/kunder.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/kunder.php on line 3
+[29-Dec-2021 14:27:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/opret.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/opret.php on line 3
+[29-Dec-2021 14:27:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/ordrer.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/ordrer.php on line 3
+[29-Dec-2021 14:27:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/produkter.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/produkter.php on line 3
+[29-Dec-2021 14:27:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/rediger.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/rediger.php on line 3
+[29-Dec-2021 14:27:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/update.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/update.php on line 3
+[17-Aug-2022 20:47:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/create.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/create.php on line 3
+[17-Aug-2022 20:47:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/delete.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/delete.php on line 3
+[17-Aug-2022 20:47:48 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/error.php on line 9
+[17-Aug-2022 20:47:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[17-Aug-2022 20:47:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/kunder.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/kunder.php on line 3
+[17-Aug-2022 20:47:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/opret.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/opret.php on line 3
+[17-Aug-2022 20:47:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/ordrer.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/ordrer.php on line 3
+[17-Aug-2022 20:47:56 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/produkter.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/produkter.php on line 3
+[17-Aug-2022 20:47:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/rediger.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/rediger.php on line 3
+[17-Aug-2022 20:47:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/update.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/update.php on line 3
+[16-Oct-2022 18:23:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/beskeder.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/beskeder.php on line 3
+[20-Feb-2024 17:42:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[20-Feb-2024 18:05:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[23-Jul-2024 11:44:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[20-Aug-2024 17:20:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[27-Aug-2024 22:01:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[13-Sep-2024 18:11:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[25-Sep-2024 05:19:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[04-Oct-2024 08:48:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[05-Oct-2024 02:35:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[18-Oct-2024 19:03:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[27-Oct-2024 19:55:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[18-Nov-2024 22:41:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[28-Nov-2024 23:36:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[01-Dec-2024 06:53:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[30-Dec-2024 02:14:32 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[03-Jan-2025 23:19:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[28-Jan-2025 00:54:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[18-Feb-2025 16:32:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[28-Feb-2025 15:15:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3
+[04-Mar-2025 04:07:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/controllers/index.php on line 3

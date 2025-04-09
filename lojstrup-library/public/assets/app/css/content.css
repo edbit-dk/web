@@ -1,0 +1,122 @@
+.clearfix:before,
+.clearfix:after {
+    content: " "; /* 1 */
+    display: table; /* 2 */
+}
+
+.clearfix:after {
+    clear: both;
+}
+
+body {
+    color: #636363;
+
+}
+
+.active{
+    background: orange;
+}
+
+.content {
+    width: 960px;
+}
+
+.container{
+    border: 1px solid #ccc;
+    max-width: 758px;
+    padding: 0px;
+}
+
+.content > .box {
+    border-bottom: 1px solid #ccc;
+    max-width: 60%;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    padding-bottom: 20px;
+    padding-top: 10px;
+
+}
+
+
+.content > .boxi {
+    border-bottom: 1px solid #ccc;
+    min-width: 60%;
+    margin-bottom: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    float: left;
+    padding-bottom: 20px;
+    padding-top: 10px;
+
+}
+
+.content > .box:last-child, .content > .boxi:last-child {
+    border: none;
+
+}
+
+.content > .box:nth-child(odd) .text, .content > .boxi:nth-child(odd) .text {
+    float: left;
+    max-width: 50%;
+    margin-left: 10px;
+
+}
+
+.content > .box:nth-child(even) .text, .content > .boxi:nth-child(even) .text {
+    float: right;
+    max-width: 50%;
+
+
+}
+
+.content > .box .text .title, .content > .boxi .text .title {
+    margin-top: 0;
+
+}
+
+.content > .box:nth-child(odd) img, .content > .boxi:nth-child(odd) img  {
+    border: 2px solid #ccc;
+    float: right;
+    max-width: 100%;
+    height: auto;
+
+}
+
+.content > .box:nth-child(even) img, .content > .boxi:nth-child(even) img {
+    border: 2px solid #ccc;
+    float: left;
+    max-width: 100%;
+    height: auto;
+
+}
+
+.content > .box .read-more a {
+    color: #636363;
+    float: right;
+    text-decoration: none;
+    padding-bottom: 3px;
+    border-bottom: 1px solid transparent;
+    transition: ease border 0.2s;
+
+}
+
+.content > .box .read-more a:hover {
+    border-bottom: 1px solid;
+
+}
+
+
+
+.container .content .no-border{
+    border: none;
+}
+
+.box img{
+    width: 35%;
+}
+
+.header .logo img {
+    width: 100%;
+}

@@ -1,0 +1,36 @@
+[18-Sep-2020 00:09:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/public/api/departments.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/public/api/departments.php on line 20
+[18-Sep-2020 00:10:04 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/public/api/feed.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/public/api/feed.php on line 20
+[18-Sep-2020 00:10:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/public/api/openinghours.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/public/api/openinghours.php on line 20
+[07-Dec-2020 06:40:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/public/api/departments.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/public/api/departments.php on line 20
+[07-Dec-2020 06:40:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/public/api/feed.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/public/api/feed.php on line 20
+[07-Dec-2020 06:40:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/public/api/openinghours.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/public/api/openinghours.php on line 20
+[25-Feb-2021 04:59:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/public/api/departments.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/public/api/departments.php on line 20
+[25-Feb-2021 04:59:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/public/api/feed.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/public/api/feed.php on line 20
+[25-Feb-2021 04:59:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/public/api/openinghours.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/public/api/openinghours.php on line 20

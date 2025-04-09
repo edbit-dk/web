@@ -1,0 +1,151 @@
+html, body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, abbr, address, cite, code, del, dfn, em, img, ins, kbd, q, samp, small, strong, sub, sup, var, b, i, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, canvas, details, figcaption, figure, footer, header, hgroup, menu, nav, section, summary, time, mark, audio, video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  outline: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent; }
+
+body {
+  line-height: 1; }
+
+article, aside, details, figcaption, figure, footer, header, hgroup, menu, nav, section {
+  display: block; }
+
+nav ul {
+  list-style: none; }
+
+blockquote, q {
+  quotes: none; }
+
+blockquote:before, blockquote:after, q:before, q:after {
+  content: none; }
+
+a {
+  margin: 0;
+  padding: 0;
+  font-size: 100%;
+  vertical-align: baseline;
+  background: transparent; }
+
+ins {
+  background-color: #ff9;
+  color: #000;
+  text-decoration: none; }
+
+mark {
+  background-color: #ff9;
+  color: #000;
+  font-style: italic;
+  font-weight: bold; }
+
+del {
+  text-decoration: line-through; }
+
+abbr[title], dfn[title] {
+  border-bottom: 1px dotted;
+  cursor: help; }
+
+table {
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+hr {
+  display: block;
+  height: 1px;
+  border: 0;
+  border-top: 1px solid #ccc;
+  margin: 1em 0;
+  padding: 0; }
+
+input, select {
+  vertical-align: middle; }
+
+header, header nav, header nav ul li, header nav ul li a, .campaign, .campaign .box, .campaign .box h2, .campaign .box p, .campaign .box input, .campaign .box select, .campaign .image {
+  float: left; }
+
+header, header nav, header nav ul li a, .campaign, .campaign .image img {
+  width: 100%; }
+
+html, body {
+  width: 100%;
+  height: 100%; }
+
+body {
+  font-family: "Lato", sans-serif;
+  background: #fff;
+  margin: 0;
+  padding: 0; }
+
+header {
+  height: 100%;
+  background: #090909; }
+  header nav {
+    height: 40px;
+    border-bottom: solid 1px #fff; }
+    header nav ul {
+      margin: 0 auto;
+      width: 100%;
+      background: blue;
+      list-style-type: none; }
+      header nav ul li {
+        width: 20%;
+        height: 100%; }
+        header nav ul li a {
+          height: 40px;
+          line-height: 40px;
+          text-align: center;
+          text-decoration: none;
+          color: #fff;
+          font-style: italic;
+          font-weight: 300; }
+
+header ul li a:hover {
+  font-weight: 400; }
+
+.campaign {
+  height: calc(100% - 40px); }
+  .campaign .box {
+    width: 400px;
+    height: 450px;
+    background: #fff;
+    margin: 90px 50px 0 180px;
+    -webkit-box-shadow: 0px 30px 49px -12px rgba(255, 255, 255, 0.18);
+    -moz-box-shadow: 0px 30px 49px -12px rgba(255, 255, 255, 0.18);
+    box-shadow: 0px 30px 49px -12px rgba(255, 255, 255, 0.18); }
+    .campaign .box h2, .campaign .box p, .campaign .box input, .campaign .box select {
+      width: 90%;
+      padding: 5%;
+      font-size: 120%; }
+    .campaign .box p {
+      font-size: 110%; }
+    .campaign .box input, .campaign .box select {
+      width: 90%;
+      font-size: 100%;
+      border: none;
+      outline: none; }
+    .campaign .box select {
+      border-top: solid 1px #ccc; }
+    .campaign .box input[type=text] {
+      border-top: solid 1px #ccc; }
+    .campaign .box input[type=email] {
+      border-top: solid 1px #ccc;
+      border-bottom: solid 1px #ccc; }
+    .campaign .box select, .campaign .box input[type=submit] {
+      width: 100%; }
+    .campaign .box input[type=submit] {
+      font-weight: 700;
+      margin-top: 29px; }
+    .campaign .box input[type=submit]:hover {
+      background: #090909;
+      color: #fff;
+      cursor: pointer; }
+  .campaign .image {
+    width: 450px;
+    height: auto;
+    margin: 100px 50px 0 50px; }
+    .campaign .image img {
+      height: 100%; }
+
+/*# sourceMappingURL=core.css.map */

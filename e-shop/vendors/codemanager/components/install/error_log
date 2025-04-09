@@ -1,0 +1,6 @@
+[19-Sep-2020 02:49:38 Europe/Copenhagen] PHP Warning:  mkdir(): Permission denied in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/vendors/codemanager/components/install/process.php on line 90
+[19-Sep-2020 02:49:38 Europe/Copenhagen] PHP Warning:  fopen(/data/projects.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/vendors/codemanager/components/install/process.php on line 28
+[08-Dec-2020 12:23:05 Europe/Copenhagen] PHP Warning:  mkdir(): Permission denied in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/vendors/codemanager/components/install/process.php on line 90
+[08-Dec-2020 12:23:05 Europe/Copenhagen] PHP Warning:  fopen(/data/projects.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/vendors/codemanager/components/install/process.php on line 28
+[26-Feb-2021 05:27:59 Europe/Copenhagen] PHP Warning:  mkdir(): Permission denied in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/vendors/codemanager/components/install/process.php on line 90
+[26-Feb-2021 05:27:59 Europe/Copenhagen] PHP Warning:  fopen(/data/projects.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/vendors/codemanager/components/install/process.php on line 28

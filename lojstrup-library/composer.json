@@ -1,0 +1,25 @@
+{
+    "name": "WebSupport/CMS",
+    "type": "project",
+    "description": "A full-feature user authentication / login system embedded into a simple but powerful MVC framework structure",
+    "keywords": ["login", "auth", "user", "authentication", "mvc", "membership"],
+    "homepage": "https://websupport.dk",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "": [
+                "src/libs/interfaces/",
+                "src/libs/helpers/",
+                "src/libs/data/",
+                "src/libs/storage/",
+                "src/models/",
+                "src/models/cms/",
+                "src/models/image/",
+                "src/models/upload/",
+                "src/models/language/",
+                "src/models/user/",
+                "src/models/calc/"
+            ]
+        }
+    }
+}

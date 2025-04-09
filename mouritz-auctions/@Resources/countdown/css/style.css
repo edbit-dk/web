@@ -1,0 +1,130 @@
+/* timer general */
+#timer {
+	position:relative;
+}
+
+hr {
+	position:absolute;
+	top: 16px;
+	left:0;
+	width: 505px;
+	border: none;
+}
+
+*:first-child+html hr {
+	top:370px;
+}
+
+
+/* timer numbers */
+.timer_numbers {
+	font-size: 30px;
+	font-family: Celtic, Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	text-align:left;
+	color:#000;
+}
+
+#timer_years {
+	
+	float:left;
+	width: 80px;
+	height: 54px;
+	padding: 6px 0 0 15px;
+	letter-spacing: 5px;
+}
+
+#timer_months {
+	
+	float:left;
+	width: 80px;
+	height: 54px;
+	padding: 6px 0 0 6px;
+	letter-spacing: 5px;
+}
+
+#timer_days {
+	
+	float:left;
+	width: 80px;
+	height: 54px;
+	padding: 6px 0 0 8px;
+	letter-spacing: 5px;
+}
+
+#timer_hours {
+	
+	float:left;
+	width: 80px;
+	height: 54px;
+	padding: 6px 0 0 6px;
+	letter-spacing: 5px;
+}
+
+#timer_mins {
+	
+	float:left;
+	width: 80px;
+	height: 54px;
+	padding: 6px 0 0 6px;
+	letter-spacing: 5px;
+}
+
+#timer_seconds {
+	
+	float:left;
+	width: 80px;
+	height: 54px;
+	padding: 6px 0 0 6px;
+	letter-spacing: 5px;
+}
+
+/* timer labels */
+.timer_labels {
+	font-size: 16px;
+	font-family: Celtic, Arial, Helvetica, sans-serif;
+	font-weight:bold;
+	text-align:center;
+	color:#666;
+}
+
+#timer_labels {
+	position:relative;
+}
+
+#timer_years_label {
+	position:absolute;
+	top: 55px;
+	left: 14px;
+}
+
+#timer_months_label {
+	position:absolute;
+	top: 55px;
+	left: 86px;	
+}
+
+#timer_days_label {
+	position:absolute;
+	top: 55px;
+	left: 191px;
+}
+
+#timer_hours_label {
+	position:absolute;
+	top: 55px;
+	left: 270px;
+	
+}
+
+#timer_mins_label {
+	position:absolute;
+	top: 55px;
+	left: 358px;
+}
+
+#timer_seconds_label {
+	position:absolute;
+	top: 55px;
+	left: 450px;
+}

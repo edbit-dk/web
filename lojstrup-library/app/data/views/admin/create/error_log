@@ -1,0 +1,96 @@
+[21-Sep-2020 19:37:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/book.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/book.php on line 3
+[21-Sep-2020 19:37:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/event.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/event.php on line 3
+[21-Sep-2020 19:37:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/user.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/user.php on line 3
+[08-Jul-2021 06:00:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/book.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/book.php on line 3
+[08-Jul-2021 06:00:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/event.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/event.php on line 3
+[08-Jul-2021 06:01:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/user.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/user.php on line 3
+[24-Sep-2021 02:37:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/book.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/book.php on line 3
+[24-Sep-2021 02:37:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/event.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/event.php on line 3
+[24-Sep-2021 02:38:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/user.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/user.php on line 3
+[13-Dec-2021 05:13:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/book.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/book.php on line 3
+[13-Dec-2021 05:13:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/event.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/event.php on line 3
+[13-Dec-2021 05:13:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/user.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/user.php on line 3
+[17-Aug-2022 20:46:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/book.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/book.php on line 3
+[17-Aug-2022 20:46:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/event.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/event.php on line 3
+[17-Aug-2022 20:46:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/user.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/user.php on line 3
+[16-Sep-2022 03:26:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/book.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/book.php on line 3
+[16-Sep-2022 03:27:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/event.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/event.php on line 3
+[16-Sep-2022 03:27:04 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/user.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/user.php on line 3
+[16-Oct-2022 18:20:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/book.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/book.php on line 3
+[16-Oct-2022 18:20:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/event.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/event.php on line 3
+[16-Oct-2022 18:20:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/user.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/user.php on line 3
+[10-Apr-2024 04:35:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/book.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/book.php on line 3
+[10-Apr-2024 04:35:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/event.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/event.php on line 3
+[10-Apr-2024 04:35:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/user.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/create/user.php on line 3

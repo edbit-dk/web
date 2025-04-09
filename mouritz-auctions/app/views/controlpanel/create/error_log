@@ -1,0 +1,22 @@
+[18-Sep-2020 16:15:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/create/user.php on line 10
+[18-Sep-2020 16:15:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_NAME - assumed 'USER_NAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/create/user.php on line 35
+[18-Sep-2020 16:15:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_PASSWORD - assumed 'USER_PASSWORD' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/create/user.php on line 45
+[18-Sep-2020 16:15:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_FIRSTNAME - assumed 'USER_FIRSTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/create/user.php on line 55
+[18-Sep-2020 16:15:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_LASTNAME - assumed 'USER_LASTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/create/user.php on line 65
+[18-Sep-2020 16:15:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_EMAIL - assumed 'USER_EMAIL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/create/user.php on line 75
+[18-Sep-2020 16:15:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant TOKEN_NAME - assumed 'TOKEN_NAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/create/user.php on line 85
+[18-Sep-2020 16:15:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Token' not found in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/create/user.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/create/user.php on line 86
+[07-Dec-2020 07:12:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/create/user.php on line 10
+[07-Dec-2020 07:12:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_NAME - assumed 'USER_NAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/create/user.php on line 35
+[07-Dec-2020 07:12:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_PASSWORD - assumed 'USER_PASSWORD' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/create/user.php on line 45
+[07-Dec-2020 07:12:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_FIRSTNAME - assumed 'USER_FIRSTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/create/user.php on line 55
+[07-Dec-2020 07:12:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_LASTNAME - assumed 'USER_LASTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/create/user.php on line 65
+[07-Dec-2020 07:12:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_EMAIL - assumed 'USER_EMAIL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/create/user.php on line 75
+[07-Dec-2020 07:12:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant TOKEN_NAME - assumed 'TOKEN_NAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/create/user.php on line 85
+[07-Dec-2020 07:12:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Token' not found in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/create/user.php:86
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/create/user.php on line 86

@@ -1,0 +1,83 @@
+/* Import af style sheets
+-------------------------------*/
+@import url('reset.css');
+@import url('bootstrap.min.css');
+@import url('core.css');
+
+
+.page-wrapper{
+    background: #090909;
+    margin: 0 auto;
+}
+h1 {
+    font-size: 38px;
+    font-weight: bold;
+    color: #ffffff;
+}
+
+.campaign .box input, .campaign .box select, .campaign .box h2, .campaign .box p {
+width: 100%;
+}
+
+.login-wrap{
+    max-width: 25%;
+    margin: 0 auto;
+    text-align: center;
+    min-height: 500px;
+}
+
+.login{
+    padding-top: 300px;
+}
+
+.content table{
+    padding-top: 500px;
+    text-align: center;
+}
+
+table, td, tr{
+    padding: 10px;
+    background: #ffffff;
+}
+
+header {
+    margin-bottom: 200px;
+}
+
+.padding{
+    padding: 20px;
+}
+.center {
+    margin: 0 auto;
+    text-align: center;
+}
+.winners {
+    
+   padding-top: 40px;
+}
+
+h2{
+    color: #ffffff;
+}
+
+.campaign h2{
+    color: #000000;
+}
+
+
+.content {
+    text-align: center;
+    padding-bottom: 300px;
+}
+
+
+
+footer {
+    min-height: 500px;
+    background: #0f0f0f;
+}
+
+.controlpanel {
+    min-height: 800px;
+    padding: 50px 100px 50px 100px;
+}

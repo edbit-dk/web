@@ -1,0 +1,6 @@
+[18-Sep-2020 00:24:00 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/feed/google_base.php on line 2
+[18-Sep-2020 00:24:08 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/feed/google_sitemap.php on line 2
+[18-Sep-2020 00:24:16 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/feed/openbaypro.php on line 2
+[22-Feb-2021 09:49:44 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/feed/google_base.php on line 2
+[22-Feb-2021 09:50:09 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/feed/google_sitemap.php on line 2
+[22-Feb-2021 09:50:29 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/feed/openbaypro.php on line 2

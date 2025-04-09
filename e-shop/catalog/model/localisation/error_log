@@ -1,0 +1,108 @@
+[18-Sep-2020 10:28:33 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/zone.php on line 2
+[18-Sep-2020 10:45:02 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/country.php on line 2
+[18-Sep-2020 10:45:03 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/currency.php on line 2
+[18-Sep-2020 10:45:05 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/language.php on line 2
+[18-Sep-2020 10:45:06 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/location.php on line 2
+[18-Sep-2020 10:45:08 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/return_reason.php on line 2
+[22-Feb-2021 08:16:52 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/country.php on line 2
+[22-Feb-2021 08:16:59 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/currency.php on line 2
+[22-Feb-2021 08:17:09 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/language.php on line 2
+[22-Feb-2021 08:17:15 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/location.php on line 2
+[22-Feb-2021 08:17:23 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/return_reason.php on line 2
+[22-Feb-2021 08:17:32 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/zone.php on line 2
+[22-Jul-2021 05:57:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/country.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/country.php on line 2
+[22-Jul-2021 05:57:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/currency.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/currency.php on line 2
+[22-Jul-2021 05:57:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/language.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/language.php on line 2
+[22-Jul-2021 05:57:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/location.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/location.php on line 2
+[22-Jul-2021 05:57:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/return_reason.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/return_reason.php on line 2
+[22-Jul-2021 05:57:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/zone.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/zone.php on line 2
+[29-Dec-2021 11:39:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/country.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/country.php on line 2
+[29-Dec-2021 11:39:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/currency.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/currency.php on line 2
+[29-Dec-2021 11:39:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/language.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/language.php on line 2
+[29-Dec-2021 11:39:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/location.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/location.php on line 2
+[29-Dec-2021 11:39:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/return_reason.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/return_reason.php on line 2
+[29-Dec-2021 11:39:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/zone.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/zone.php on line 2
+[17-Aug-2022 20:40:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/country.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/country.php on line 2
+[17-Aug-2022 20:40:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/currency.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/currency.php on line 2
+[17-Aug-2022 20:40:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/language.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/language.php on line 2
+[17-Aug-2022 20:40:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/location.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/location.php on line 2
+[17-Aug-2022 20:40:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/return_reason.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/return_reason.php on line 2
+[17-Aug-2022 20:40:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/zone.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/zone.php on line 2
+[01-Nov-2023 10:20:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/country.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/country.php on line 2
+[01-Nov-2023 10:20:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/currency.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/currency.php on line 2
+[01-Nov-2023 10:20:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/language.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/language.php on line 2
+[01-Nov-2023 10:20:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/location.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/location.php on line 2
+[01-Nov-2023 10:20:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/return_reason.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/return_reason.php on line 2
+[01-Nov-2023 10:20:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/zone.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/localisation/zone.php on line 2

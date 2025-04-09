@@ -1,0 +1,756 @@
+[18-Sep-2020 10:42:41 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/amazon_checkout.php on line 2
+[18-Sep-2020 10:42:43 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/amazon_login_pay.php on line 2
+[18-Sep-2020 10:42:45 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/authorizenet_aim.php on line 2
+[18-Sep-2020 10:42:47 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/authorizenet_sim.php on line 2
+[18-Sep-2020 10:42:48 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bank_transfer.php on line 2
+[18-Sep-2020 10:42:50 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bluepay_hosted.php on line 2
+[18-Sep-2020 10:42:52 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bluepay_redirect.php on line 2
+[18-Sep-2020 10:42:54 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/cheque.php on line 2
+[18-Sep-2020 10:42:55 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/cod.php on line 2
+[18-Sep-2020 10:42:57 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/firstdata.php on line 2
+[18-Sep-2020 10:42:59 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/firstdata_remote.php on line 2
+[18-Sep-2020 10:43:00 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/free_checkout.php on line 2
+[18-Sep-2020 10:43:02 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/globalpay.php on line 2
+[18-Sep-2020 10:43:03 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/globalpay_remote.php on line 2
+[18-Sep-2020 10:43:05 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/klarna_account.php on line 2
+[18-Sep-2020 10:43:07 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/klarna_invoice.php on line 2
+[18-Sep-2020 10:43:09 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/liqpay.php on line 2
+[18-Sep-2020 10:43:10 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/nochex.php on line 4
+[18-Sep-2020 10:43:12 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/paymate.php on line 2
+[18-Sep-2020 10:43:14 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/paypoint.php on line 2
+[18-Sep-2020 10:43:16 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/payza.php on line 2
+[18-Sep-2020 10:43:18 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/perpetual_payments.php on line 2
+[18-Sep-2020 10:43:19 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_express.php on line 2
+[18-Sep-2020 10:43:21 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_payflow.php on line 2
+[18-Sep-2020 10:43:23 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_payflow_iframe.php on line 2
+[18-Sep-2020 10:43:25 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_pro.php on line 2
+[18-Sep-2020 10:43:27 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_pro_iframe.php on line 2
+[18-Sep-2020 10:43:28 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_standard.php on line 2
+[18-Sep-2020 10:43:30 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_creditcard.php on line 2
+[18-Sep-2020 10:43:32 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_paii.php on line 2
+[18-Sep-2020 10:43:33 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_viabill.php on line 2
+[18-Sep-2020 10:43:35 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/realex.php on line 2
+[18-Sep-2020 10:43:37 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/realex_remote.php on line 2
+[18-Sep-2020 10:43:38 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_direct.php on line 2
+[18-Sep-2020 10:43:40 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_server.php on line 2
+[18-Sep-2020 10:43:41 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_us.php on line 2
+[18-Sep-2020 10:43:43 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/securetrading_pp.php on line 2
+[18-Sep-2020 10:43:45 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/securetrading_ws.php on line 2
+[18-Sep-2020 10:43:47 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/skrill.php on line 2
+[18-Sep-2020 10:43:49 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/twocheckout.php on line 2
+[18-Sep-2020 10:43:50 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/web_payment_software.php on line 2
+[18-Sep-2020 10:43:52 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/worldpay.php on line 3
+[22-Feb-2021 08:07:20 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/amazon_checkout.php on line 2
+[22-Feb-2021 08:07:25 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/amazon_login_pay.php on line 2
+[22-Feb-2021 08:07:35 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/authorizenet_aim.php on line 2
+[22-Feb-2021 08:07:45 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/authorizenet_sim.php on line 2
+[22-Feb-2021 08:07:50 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bank_transfer.php on line 2
+[22-Feb-2021 08:07:56 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bluepay_hosted.php on line 2
+[22-Feb-2021 08:08:02 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bluepay_redirect.php on line 2
+[22-Feb-2021 08:08:12 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/cheque.php on line 2
+[22-Feb-2021 08:08:22 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/cod.php on line 2
+[22-Feb-2021 08:08:28 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/firstdata.php on line 2
+[22-Feb-2021 08:08:37 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/firstdata_remote.php on line 2
+[22-Feb-2021 08:08:46 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/free_checkout.php on line 2
+[22-Feb-2021 08:08:52 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/globalpay.php on line 2
+[22-Feb-2021 08:08:57 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/globalpay_remote.php on line 2
+[22-Feb-2021 08:09:03 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/klarna_account.php on line 2
+[22-Feb-2021 08:09:11 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/klarna_invoice.php on line 2
+[22-Feb-2021 08:09:19 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/liqpay.php on line 2
+[22-Feb-2021 08:09:25 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/nochex.php on line 4
+[22-Feb-2021 08:09:33 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/paymate.php on line 2
+[22-Feb-2021 08:09:40 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/paypoint.php on line 2
+[22-Feb-2021 08:09:46 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/payza.php on line 2
+[22-Feb-2021 08:09:52 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/perpetual_payments.php on line 2
+[22-Feb-2021 08:09:57 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_express.php on line 2
+[22-Feb-2021 08:10:08 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_payflow.php on line 2
+[22-Feb-2021 08:10:12 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_payflow_iframe.php on line 2
+[22-Feb-2021 08:10:17 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_pro.php on line 2
+[22-Feb-2021 08:10:23 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_pro_iframe.php on line 2
+[22-Feb-2021 08:10:31 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_standard.php on line 2
+[22-Feb-2021 08:10:37 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_creditcard.php on line 2
+[22-Feb-2021 08:10:45 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_paii.php on line 2
+[22-Feb-2021 08:10:50 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_viabill.php on line 2
+[22-Feb-2021 08:10:58 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/realex.php on line 2
+[22-Feb-2021 08:11:04 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/realex_remote.php on line 2
+[22-Feb-2021 08:11:10 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_direct.php on line 2
+[22-Feb-2021 08:11:21 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_server.php on line 2
+[22-Feb-2021 08:11:28 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_us.php on line 2
+[22-Feb-2021 08:11:35 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/securetrading_pp.php on line 2
+[22-Feb-2021 08:11:42 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/securetrading_ws.php on line 2
+[22-Feb-2021 08:11:50 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/skrill.php on line 2
+[22-Feb-2021 08:11:57 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/twocheckout.php on line 2
+[22-Feb-2021 08:12:01 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/web_payment_software.php on line 2
+[22-Feb-2021 08:12:07 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/worldpay.php on line 3
+[22-Jul-2021 05:54:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/amazon_checkout.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/amazon_checkout.php on line 2
+[22-Jul-2021 05:54:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/amazon_login_pay.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/amazon_login_pay.php on line 2
+[22-Jul-2021 05:54:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/authorizenet_aim.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/authorizenet_aim.php on line 2
+[22-Jul-2021 05:54:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/authorizenet_sim.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/authorizenet_sim.php on line 2
+[22-Jul-2021 05:54:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bank_transfer.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bank_transfer.php on line 2
+[22-Jul-2021 05:54:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bluepay_hosted.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bluepay_hosted.php on line 2
+[22-Jul-2021 05:54:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bluepay_redirect.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bluepay_redirect.php on line 2
+[22-Jul-2021 05:54:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/cheque.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/cheque.php on line 2
+[22-Jul-2021 05:54:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/cod.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/cod.php on line 2
+[22-Jul-2021 05:54:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/firstdata.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/firstdata.php on line 2
+[22-Jul-2021 05:54:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/firstdata_remote.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/firstdata_remote.php on line 2
+[22-Jul-2021 05:54:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/free_checkout.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/free_checkout.php on line 2
+[22-Jul-2021 05:54:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/globalpay.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/globalpay.php on line 2
+[22-Jul-2021 05:55:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/globalpay_remote.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/globalpay_remote.php on line 2
+[22-Jul-2021 05:55:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/klarna_account.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/klarna_account.php on line 2
+[22-Jul-2021 05:55:04 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/klarna_invoice.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/klarna_invoice.php on line 2
+[22-Jul-2021 05:55:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/liqpay.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/liqpay.php on line 2
+[22-Jul-2021 05:55:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/nochex.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/nochex.php on line 4
+[22-Jul-2021 05:55:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/paymate.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/paymate.php on line 2
+[22-Jul-2021 05:55:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/paypoint.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/paypoint.php on line 2
+[22-Jul-2021 05:55:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/payza.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/payza.php on line 2
+[22-Jul-2021 05:55:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/perpetual_payments.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/perpetual_payments.php on line 2
+[22-Jul-2021 05:55:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_express.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_express.php on line 2
+[22-Jul-2021 05:55:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_payflow.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_payflow.php on line 2
+[22-Jul-2021 05:55:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_payflow_iframe.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_payflow_iframe.php on line 2
+[22-Jul-2021 05:55:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_pro.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_pro.php on line 2
+[22-Jul-2021 05:55:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_pro_iframe.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_pro_iframe.php on line 2
+[22-Jul-2021 05:55:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_standard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_standard.php on line 2
+[22-Jul-2021 05:55:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_creditcard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_creditcard.php on line 2
+[22-Jul-2021 05:55:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_paii.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_paii.php on line 2
+[22-Jul-2021 05:55:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_viabill.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_viabill.php on line 2
+[22-Jul-2021 05:55:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/realex.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/realex.php on line 2
+[22-Jul-2021 05:55:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/realex_remote.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/realex_remote.php on line 2
+[22-Jul-2021 05:55:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_direct.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_direct.php on line 2
+[22-Jul-2021 05:55:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_server.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_server.php on line 2
+[22-Jul-2021 05:55:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_us.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_us.php on line 2
+[22-Jul-2021 05:55:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/securetrading_pp.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/securetrading_pp.php on line 2
+[22-Jul-2021 05:55:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/securetrading_ws.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/securetrading_ws.php on line 2
+[22-Jul-2021 05:55:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/skrill.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/skrill.php on line 2
+[22-Jul-2021 05:55:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/twocheckout.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/twocheckout.php on line 2
+[22-Jul-2021 05:55:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/web_payment_software.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/web_payment_software.php on line 2
+[22-Jul-2021 05:55:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/worldpay.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/worldpay.php on line 3
+[29-Dec-2021 11:34:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/amazon_checkout.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/amazon_checkout.php on line 2
+[29-Dec-2021 11:34:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/amazon_login_pay.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/amazon_login_pay.php on line 2
+[29-Dec-2021 11:34:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/authorizenet_aim.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/authorizenet_aim.php on line 2
+[29-Dec-2021 11:34:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/authorizenet_sim.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/authorizenet_sim.php on line 2
+[29-Dec-2021 11:34:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bank_transfer.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bank_transfer.php on line 2
+[29-Dec-2021 11:34:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bluepay_hosted.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bluepay_hosted.php on line 2
+[29-Dec-2021 11:34:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bluepay_redirect.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bluepay_redirect.php on line 2
+[29-Dec-2021 11:34:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/cheque.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/cheque.php on line 2
+[29-Dec-2021 11:34:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/cod.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/cod.php on line 2
+[29-Dec-2021 11:34:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/firstdata.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/firstdata.php on line 2
+[29-Dec-2021 11:34:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/firstdata_remote.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/firstdata_remote.php on line 2
+[29-Dec-2021 11:34:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/free_checkout.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/free_checkout.php on line 2
+[29-Dec-2021 11:35:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/globalpay.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/globalpay.php on line 2
+[29-Dec-2021 11:35:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/globalpay_remote.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/globalpay_remote.php on line 2
+[29-Dec-2021 11:35:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/klarna_account.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/klarna_account.php on line 2
+[29-Dec-2021 11:35:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/klarna_invoice.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/klarna_invoice.php on line 2
+[29-Dec-2021 11:35:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/liqpay.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/liqpay.php on line 2
+[29-Dec-2021 11:35:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/nochex.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/nochex.php on line 4
+[29-Dec-2021 11:35:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/paymate.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/paymate.php on line 2
+[29-Dec-2021 11:35:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/paypoint.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/paypoint.php on line 2
+[29-Dec-2021 11:35:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/payza.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/payza.php on line 2
+[29-Dec-2021 11:35:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/perpetual_payments.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/perpetual_payments.php on line 2
+[29-Dec-2021 11:35:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_express.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_express.php on line 2
+[29-Dec-2021 11:35:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_payflow.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_payflow.php on line 2
+[29-Dec-2021 11:35:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_payflow_iframe.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_payflow_iframe.php on line 2
+[29-Dec-2021 11:35:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_pro.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_pro.php on line 2
+[29-Dec-2021 11:35:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_pro_iframe.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_pro_iframe.php on line 2
+[29-Dec-2021 11:35:56 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_standard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_standard.php on line 2
+[29-Dec-2021 11:36:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_creditcard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_creditcard.php on line 2
+[29-Dec-2021 11:36:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_paii.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_paii.php on line 2
+[29-Dec-2021 11:36:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_viabill.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_viabill.php on line 2
+[29-Dec-2021 11:36:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/realex.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/realex.php on line 2
+[29-Dec-2021 11:36:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/realex_remote.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/realex_remote.php on line 2
+[29-Dec-2021 11:36:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_direct.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_direct.php on line 2
+[29-Dec-2021 11:36:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_server.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_server.php on line 2
+[29-Dec-2021 11:36:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_us.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_us.php on line 2
+[29-Dec-2021 11:36:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/securetrading_pp.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/securetrading_pp.php on line 2
+[29-Dec-2021 11:36:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/securetrading_ws.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/securetrading_ws.php on line 2
+[29-Dec-2021 11:36:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/skrill.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/skrill.php on line 2
+[29-Dec-2021 11:36:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/twocheckout.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/twocheckout.php on line 2
+[29-Dec-2021 11:36:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/web_payment_software.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/web_payment_software.php on line 2
+[29-Dec-2021 11:36:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/worldpay.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/worldpay.php on line 3
+[17-Aug-2022 19:07:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/amazon_checkout.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/amazon_checkout.php on line 2
+[17-Aug-2022 19:07:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/amazon_login_pay.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/amazon_login_pay.php on line 2
+[17-Aug-2022 19:07:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/authorizenet_aim.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/authorizenet_aim.php on line 2
+[17-Aug-2022 19:07:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/authorizenet_sim.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/authorizenet_sim.php on line 2
+[17-Aug-2022 19:07:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bank_transfer.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bank_transfer.php on line 2
+[17-Aug-2022 19:07:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bluepay_hosted.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bluepay_hosted.php on line 2
+[17-Aug-2022 19:07:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bluepay_redirect.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bluepay_redirect.php on line 2
+[17-Aug-2022 19:07:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/cheque.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/cheque.php on line 2
+[17-Aug-2022 19:07:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/cod.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/cod.php on line 2
+[17-Aug-2022 19:07:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/firstdata.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/firstdata.php on line 2
+[17-Aug-2022 19:08:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/firstdata_remote.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/firstdata_remote.php on line 2
+[17-Aug-2022 19:08:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/free_checkout.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/free_checkout.php on line 2
+[17-Aug-2022 19:08:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/globalpay.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/globalpay.php on line 2
+[17-Aug-2022 19:08:04 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/globalpay_remote.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/globalpay_remote.php on line 2
+[17-Aug-2022 19:08:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/klarna_account.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/klarna_account.php on line 2
+[17-Aug-2022 19:08:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/klarna_invoice.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/klarna_invoice.php on line 2
+[17-Aug-2022 19:08:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/liqpay.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/liqpay.php on line 2
+[17-Aug-2022 19:08:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/nochex.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/nochex.php on line 4
+[17-Aug-2022 19:08:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/paymate.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/paymate.php on line 2
+[17-Aug-2022 19:08:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/paypoint.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/paypoint.php on line 2
+[17-Aug-2022 19:08:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/payza.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/payza.php on line 2
+[17-Aug-2022 19:08:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/perpetual_payments.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/perpetual_payments.php on line 2
+[17-Aug-2022 19:08:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_express.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_express.php on line 2
+[17-Aug-2022 19:08:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_payflow.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_payflow.php on line 2
+[17-Aug-2022 19:08:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_payflow_iframe.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_payflow_iframe.php on line 2
+[17-Aug-2022 19:08:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_pro.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_pro.php on line 2
+[17-Aug-2022 19:08:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_pro_iframe.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_pro_iframe.php on line 2
+[17-Aug-2022 19:08:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_standard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_standard.php on line 2
+[17-Aug-2022 19:08:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_creditcard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_creditcard.php on line 2
+[17-Aug-2022 19:08:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_paii.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_paii.php on line 2
+[17-Aug-2022 19:08:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_viabill.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_viabill.php on line 2
+[17-Aug-2022 19:08:32 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/realex.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/realex.php on line 2
+[17-Aug-2022 19:08:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/realex_remote.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/realex_remote.php on line 2
+[17-Aug-2022 19:08:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_direct.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_direct.php on line 2
+[17-Aug-2022 19:08:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_server.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_server.php on line 2
+[17-Aug-2022 19:08:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_us.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_us.php on line 2
+[17-Aug-2022 19:08:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/securetrading_pp.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/securetrading_pp.php on line 2
+[17-Aug-2022 19:08:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/securetrading_ws.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/securetrading_ws.php on line 2
+[17-Aug-2022 19:08:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/skrill.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/skrill.php on line 2
+[17-Aug-2022 19:08:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/twocheckout.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/twocheckout.php on line 2
+[17-Aug-2022 19:08:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/web_payment_software.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/web_payment_software.php on line 2
+[17-Aug-2022 19:08:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/worldpay.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/worldpay.php on line 3
+[01-Nov-2023 10:18:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/amazon_checkout.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/amazon_checkout.php on line 2
+[01-Nov-2023 10:18:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/amazon_login_pay.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/amazon_login_pay.php on line 2
+[01-Nov-2023 10:18:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/authorizenet_aim.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/authorizenet_aim.php on line 2
+[01-Nov-2023 10:18:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/authorizenet_sim.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/authorizenet_sim.php on line 2
+[01-Nov-2023 10:18:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bank_transfer.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bank_transfer.php on line 2
+[01-Nov-2023 10:18:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bluepay_hosted.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bluepay_hosted.php on line 2
+[01-Nov-2023 10:18:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bluepay_redirect.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/bluepay_redirect.php on line 2
+[01-Nov-2023 10:18:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/cheque.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/cheque.php on line 2
+[01-Nov-2023 10:18:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/cod.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/cod.php on line 2
+[01-Nov-2023 10:18:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/firstdata.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/firstdata.php on line 2
+[01-Nov-2023 10:18:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/firstdata_remote.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/firstdata_remote.php on line 2
+[01-Nov-2023 10:18:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/free_checkout.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/free_checkout.php on line 2
+[01-Nov-2023 10:18:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/globalpay.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/globalpay.php on line 2
+[01-Nov-2023 10:18:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/globalpay_remote.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/globalpay_remote.php on line 2
+[01-Nov-2023 10:18:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/klarna_account.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/klarna_account.php on line 2
+[01-Nov-2023 10:18:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/klarna_invoice.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/klarna_invoice.php on line 2
+[01-Nov-2023 10:18:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/liqpay.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/liqpay.php on line 2
+[01-Nov-2023 10:18:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/nochex.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/nochex.php on line 4
+[01-Nov-2023 10:19:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/paymate.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/paymate.php on line 2
+[01-Nov-2023 10:19:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/paypoint.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/paypoint.php on line 2
+[01-Nov-2023 10:19:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/payza.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/payza.php on line 2
+[01-Nov-2023 10:19:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/perpetual_payments.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/perpetual_payments.php on line 2
+[01-Nov-2023 10:19:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_express.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_express.php on line 2
+[01-Nov-2023 10:19:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_payflow.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_payflow.php on line 2
+[01-Nov-2023 10:19:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_payflow_iframe.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_payflow_iframe.php on line 2
+[01-Nov-2023 10:19:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_pro.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_pro.php on line 2
+[01-Nov-2023 10:19:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_pro_iframe.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_pro_iframe.php on line 2
+[01-Nov-2023 10:19:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_standard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/pp_standard.php on line 2
+[01-Nov-2023 10:19:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_creditcard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_creditcard.php on line 2
+[01-Nov-2023 10:19:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_paii.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_paii.php on line 2
+[01-Nov-2023 10:19:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_viabill.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/quickpay_viabill.php on line 2
+[01-Nov-2023 10:19:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/realex.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/realex.php on line 2
+[01-Nov-2023 10:19:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/realex_remote.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/realex_remote.php on line 2
+[01-Nov-2023 10:19:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_direct.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_direct.php on line 2
+[01-Nov-2023 10:19:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_server.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_server.php on line 2
+[01-Nov-2023 10:19:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_us.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/sagepay_us.php on line 2
+[01-Nov-2023 10:19:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/securetrading_pp.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/securetrading_pp.php on line 2
+[01-Nov-2023 10:19:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/securetrading_ws.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/securetrading_ws.php on line 2
+[01-Nov-2023 10:19:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/skrill.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/skrill.php on line 2
+[01-Nov-2023 10:19:32 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/twocheckout.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/twocheckout.php on line 2
+[01-Nov-2023 10:19:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/web_payment_software.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/web_payment_software.php on line 2
+[01-Nov-2023 10:19:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/worldpay.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/payment/worldpay.php on line 3

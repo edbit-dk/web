@@ -1,0 +1,24 @@
+[18-Sep-2020 00:30:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPSecurity\Session' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/system/feedback.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/system/feedback.php on line 39
+[05-Jul-2021 03:38:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPSecurity\Session' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/system/feedback.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/system/feedback.php on line 39
+[12-Dec-2021 07:22:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPSecurity\Session' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/system/feedback.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/system/feedback.php on line 39
+[17-Aug-2022 20:43:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPSecurity\Session' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/system/feedback.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/system/feedback.php on line 39
+[16-Sep-2022 03:21:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPSecurity\Session' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/system/feedback.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/system/feedback.php on line 39
+[16-Oct-2022 18:17:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPSecurity\Session' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/system/feedback.php:39
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/system/feedback.php on line 39

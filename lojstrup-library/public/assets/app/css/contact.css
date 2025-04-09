@@ -1,0 +1,82 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*img{
+
+    max-width: 100%;
+    height: auto;
+
+}*/
+
+h1,h2,h3,p,a{
+
+    font-family: sans-serif;
+    text-decoration: none;
+
+}
+
+h3{
+
+    font-size: 16px;
+
+
+}
+
+p{
+
+    font-size: 14px;
+
+}
+
+.content-wrap{
+
+    line-height: 0.4em;
+    margin-left: 20px;
+
+    padding: 15px;
+
+}
+
+/*.content{
+
+    float: left;
+    width: 50%;
+
+}*/
+
+.contact{
+
+    margin: 0 auto;
+
+    max-width: 50%;
+    float: left;
+
+    padding: 0 100px 0 0;
+
+}
+
+.contact-info{
+  margin-left: 60px;
+    text-align: right;
+
+}
+
+.content-bottom{
+
+    border-top: 1px solid #ccc;
+
+}
+
+input, textarea, button{
+
+    width: 225px;
+
+    margin-bottom: 20px;
+
+}
+
+input:first-child{
+
+    margin-top: 35px;
+
+}

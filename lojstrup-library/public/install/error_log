@@ -1,0 +1,111 @@
+[03-Dec-2021 10:15:21 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[03-Dec-2021 10:15:21 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[15-Jun-2022 11:24:34 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[15-Jun-2022 11:24:34 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[13-Nov-2022 10:28:04 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[13-Nov-2022 10:28:04 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[20-Feb-2024 17:41:45 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[20-Feb-2024 17:41:45 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[20-Feb-2024 18:04:15 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[20-Feb-2024 18:04:15 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[21-Jul-2024 20:28:48 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[21-Jul-2024 20:28:48 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[11-Aug-2024 13:31:03 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[11-Aug-2024 13:31:03 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[12-Aug-2024 19:17:30 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[12-Aug-2024 19:17:30 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[11-Sep-2024 14:47:29 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): Failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[11-Sep-2024 14:47:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[19-Sep-2024 03:40:49 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): Failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[19-Sep-2024 03:40:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[19-Sep-2024 04:43:13 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): Failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[19-Sep-2024 04:43:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[19-Sep-2024 05:51:39 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): Failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[19-Sep-2024 05:51:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[19-Sep-2024 16:07:12 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): Failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[19-Sep-2024 16:07:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[05-Oct-2024 04:57:12 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): Failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[05-Oct-2024 04:57:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[22-Oct-2024 04:47:39 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): Failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[22-Oct-2024 04:47:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[29-Oct-2024 18:54:20 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): Failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[29-Oct-2024 18:54:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[12-Nov-2024 10:27:24 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): Failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[12-Nov-2024 10:27:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[12-Nov-2024 12:23:02 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): Failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[12-Nov-2024 12:23:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[15-Nov-2024 23:13:49 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): Failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[15-Nov-2024 23:13:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[24-Nov-2024 10:52:14 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): Failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[24-Nov-2024 10:52:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[18-Dec-2024 09:17:19 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): Failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[18-Dec-2024 09:17:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[24-Dec-2024 13:10:09 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): Failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[24-Dec-2024 13:10:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[06-Jan-2025 22:19:40 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): Failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[06-Jan-2025 22:19:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[22-Jan-2025 10:32:47 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): Failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[22-Jan-2025 10:32:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[04-Feb-2025 09:12:59 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): Failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[04-Feb-2025 09:12:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[15-Feb-2025 10:26:20 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): Failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[15-Feb-2025 10:26:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[23-Feb-2025 13:08:10 Europe/Copenhagen] PHP Warning:  require_once(../../src/data/config/URL.php): Failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11
+[23-Feb-2025 13:08:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Failed opening required '../../src/data/config/URL.php' (include_path='.:/opt/cpanel/ea-php80/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/install/index.php on line 11

@@ -1,0 +1,189 @@
+[19-Sep-2020 01:13:03 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/detail.php on line 16
+[19-Sep-2020 01:13:03 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/detail.php on line 62
+[19-Sep-2020 01:13:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/detail.php on line 77
+[19-Sep-2020 01:13:38 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[19-Sep-2020 01:13:38 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[19-Sep-2020 01:13:38 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[08-Dec-2020 06:17:48 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/detail.php on line 16
+[08-Dec-2020 06:17:48 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/detail.php on line 62
+[08-Dec-2020 06:17:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/detail.php on line 77
+[08-Dec-2020 06:17:50 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[08-Dec-2020 06:17:50 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[08-Dec-2020 06:17:50 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[26-Feb-2021 06:27:04 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/detail.php on line 16
+[26-Feb-2021 06:27:04 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/detail.php on line 62
+[26-Feb-2021 06:27:04 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/detail.php on line 77
+[26-Feb-2021 06:27:05 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[26-Feb-2021 06:27:05 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[26-Feb-2021 06:27:05 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[03-May-2021 09:00:54 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/detail.php on line 16
+[03-May-2021 09:00:54 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/detail.php on line 62
+[03-May-2021 09:00:54 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/detail.php on line 77
+[03-May-2021 09:00:55 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[03-May-2021 09:00:55 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[03-May-2021 09:00:55 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[27-Mar-2022 06:43:36 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[27-Mar-2022 06:43:36 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[27-Mar-2022 06:43:36 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[04-May-2022 04:00:04 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[04-May-2022 04:00:04 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[04-May-2022 04:00:04 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[17-Aug-2022 20:55:48 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/detail.php on line 16
+[17-Aug-2022 20:55:48 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/detail.php on line 62
+[17-Aug-2022 20:55:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/detail.php on line 77
+[17-Aug-2022 20:55:49 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[17-Aug-2022 20:55:49 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[17-Aug-2022 20:55:49 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[16-Oct-2022 10:20:47 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/detail.php on line 16
+[16-Oct-2022 10:20:47 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/detail.php on line 62
+[16-Oct-2022 10:20:47 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/detail.php on line 77
+[16-Oct-2022 10:20:53 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[16-Oct-2022 10:20:53 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[16-Oct-2022 10:20:53 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[16-Oct-2022 18:32:54 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[16-Oct-2022 18:32:54 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[16-Oct-2022 18:32:54 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[20-Feb-2024 17:42:15 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[20-Feb-2024 17:42:15 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[20-Feb-2024 17:42:15 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[20-Feb-2024 18:04:48 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[20-Feb-2024 18:04:48 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[20-Feb-2024 18:04:48 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[24-Jul-2024 02:42:37 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[24-Jul-2024 02:42:37 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[24-Jul-2024 02:42:37 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[18-Aug-2024 12:09:05 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[18-Aug-2024 12:09:05 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[18-Aug-2024 12:09:05 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[19-Aug-2024 22:54:54 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[19-Aug-2024 22:54:54 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[19-Aug-2024 22:54:54 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[20-Aug-2024 22:59:48 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[20-Aug-2024 22:59:48 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[20-Aug-2024 22:59:48 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[10-Sep-2024 11:17:37 Europe/Copenhagen] PHP Warning:  Undefined variable $cats1 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[10-Sep-2024 11:17:37 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[10-Sep-2024 11:17:37 Europe/Copenhagen] PHP Warning:  Undefined variable $cats2 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[10-Sep-2024 11:17:37 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[10-Sep-2024 11:17:37 Europe/Copenhagen] PHP Warning:  Undefined variable $cats3 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[10-Sep-2024 11:17:37 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[24-Sep-2024 19:36:55 Europe/Copenhagen] PHP Warning:  Undefined variable $cats1 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[24-Sep-2024 19:36:55 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[24-Sep-2024 19:36:55 Europe/Copenhagen] PHP Warning:  Undefined variable $cats2 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[24-Sep-2024 19:36:55 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[24-Sep-2024 19:36:55 Europe/Copenhagen] PHP Warning:  Undefined variable $cats3 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[24-Sep-2024 19:36:55 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[30-Sep-2024 10:15:01 Europe/Copenhagen] PHP Warning:  Undefined variable $cats1 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[30-Sep-2024 10:15:01 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[30-Sep-2024 10:15:01 Europe/Copenhagen] PHP Warning:  Undefined variable $cats2 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[30-Sep-2024 10:15:01 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[30-Sep-2024 10:15:01 Europe/Copenhagen] PHP Warning:  Undefined variable $cats3 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[30-Sep-2024 10:15:01 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[21-Oct-2024 09:23:58 Europe/Copenhagen] PHP Warning:  Undefined variable $cats1 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[21-Oct-2024 09:23:58 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[21-Oct-2024 09:23:58 Europe/Copenhagen] PHP Warning:  Undefined variable $cats2 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[21-Oct-2024 09:23:58 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[21-Oct-2024 09:23:58 Europe/Copenhagen] PHP Warning:  Undefined variable $cats3 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[21-Oct-2024 09:23:58 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[22-Oct-2024 10:39:51 Europe/Copenhagen] PHP Warning:  Undefined variable $cats1 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[22-Oct-2024 10:39:51 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[22-Oct-2024 10:39:51 Europe/Copenhagen] PHP Warning:  Undefined variable $cats2 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[22-Oct-2024 10:39:51 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[22-Oct-2024 10:39:51 Europe/Copenhagen] PHP Warning:  Undefined variable $cats3 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[22-Oct-2024 10:39:51 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[11-Nov-2024 22:03:02 Europe/Copenhagen] PHP Warning:  Undefined variable $cats1 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[11-Nov-2024 22:03:02 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[11-Nov-2024 22:03:02 Europe/Copenhagen] PHP Warning:  Undefined variable $cats2 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[11-Nov-2024 22:03:02 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[11-Nov-2024 22:03:02 Europe/Copenhagen] PHP Warning:  Undefined variable $cats3 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[11-Nov-2024 22:03:02 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[21-Nov-2024 07:11:11 Europe/Copenhagen] PHP Warning:  Undefined variable $cats1 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[21-Nov-2024 07:11:11 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[21-Nov-2024 07:11:11 Europe/Copenhagen] PHP Warning:  Undefined variable $cats2 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[21-Nov-2024 07:11:11 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[21-Nov-2024 07:11:11 Europe/Copenhagen] PHP Warning:  Undefined variable $cats3 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[21-Nov-2024 07:11:11 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[24-Nov-2024 17:11:46 Europe/Copenhagen] PHP Warning:  Undefined variable $cats1 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[24-Nov-2024 17:11:46 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[24-Nov-2024 17:11:46 Europe/Copenhagen] PHP Warning:  Undefined variable $cats2 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[24-Nov-2024 17:11:46 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[24-Nov-2024 17:11:46 Europe/Copenhagen] PHP Warning:  Undefined variable $cats3 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[24-Nov-2024 17:11:46 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[29-Nov-2024 20:02:07 Europe/Copenhagen] PHP Warning:  Undefined variable $cats1 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[29-Nov-2024 20:02:07 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[29-Nov-2024 20:02:07 Europe/Copenhagen] PHP Warning:  Undefined variable $cats2 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[29-Nov-2024 20:02:07 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[29-Nov-2024 20:02:07 Europe/Copenhagen] PHP Warning:  Undefined variable $cats3 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[29-Nov-2024 20:02:07 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[12-Dec-2024 13:59:42 Europe/Copenhagen] PHP Warning:  Undefined variable $cats1 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[12-Dec-2024 13:59:42 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[12-Dec-2024 13:59:42 Europe/Copenhagen] PHP Warning:  Undefined variable $cats2 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[12-Dec-2024 13:59:42 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[12-Dec-2024 13:59:42 Europe/Copenhagen] PHP Warning:  Undefined variable $cats3 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[12-Dec-2024 13:59:42 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[19-Dec-2024 14:29:48 Europe/Copenhagen] PHP Warning:  Undefined variable $cats1 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[19-Dec-2024 14:29:48 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[19-Dec-2024 14:29:48 Europe/Copenhagen] PHP Warning:  Undefined variable $cats2 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[19-Dec-2024 14:29:48 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[19-Dec-2024 14:29:48 Europe/Copenhagen] PHP Warning:  Undefined variable $cats3 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[19-Dec-2024 14:29:48 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[22-Dec-2024 21:56:39 Europe/Copenhagen] PHP Warning:  Undefined variable $cats1 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[22-Dec-2024 21:56:39 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[22-Dec-2024 21:56:39 Europe/Copenhagen] PHP Warning:  Undefined variable $cats2 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[22-Dec-2024 21:56:39 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[22-Dec-2024 21:56:39 Europe/Copenhagen] PHP Warning:  Undefined variable $cats3 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[22-Dec-2024 21:56:39 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[03-Jan-2025 19:01:23 Europe/Copenhagen] PHP Warning:  Undefined variable $cats1 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[03-Jan-2025 19:01:23 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[03-Jan-2025 19:01:23 Europe/Copenhagen] PHP Warning:  Undefined variable $cats2 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[03-Jan-2025 19:01:23 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[03-Jan-2025 19:01:23 Europe/Copenhagen] PHP Warning:  Undefined variable $cats3 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[03-Jan-2025 19:01:23 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[16-Jan-2025 08:13:53 Europe/Copenhagen] PHP Warning:  Undefined variable $cats1 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[16-Jan-2025 08:13:53 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[16-Jan-2025 08:13:53 Europe/Copenhagen] PHP Warning:  Undefined variable $cats2 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[16-Jan-2025 08:13:53 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[16-Jan-2025 08:13:53 Europe/Copenhagen] PHP Warning:  Undefined variable $cats3 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[16-Jan-2025 08:13:53 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[28-Jan-2025 12:27:56 Europe/Copenhagen] PHP Warning:  Undefined variable $cats1 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[28-Jan-2025 12:27:56 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[28-Jan-2025 12:27:56 Europe/Copenhagen] PHP Warning:  Undefined variable $cats2 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[28-Jan-2025 12:27:56 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[28-Jan-2025 12:27:56 Europe/Copenhagen] PHP Warning:  Undefined variable $cats3 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[28-Jan-2025 12:27:56 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[10-Feb-2025 22:02:05 Europe/Copenhagen] PHP Warning:  Undefined variable $cats1 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[10-Feb-2025 22:02:05 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[10-Feb-2025 22:02:05 Europe/Copenhagen] PHP Warning:  Undefined variable $cats2 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[10-Feb-2025 22:02:05 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[10-Feb-2025 22:02:05 Europe/Copenhagen] PHP Warning:  Undefined variable $cats3 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[10-Feb-2025 22:02:05 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[18-Feb-2025 06:15:35 Europe/Copenhagen] PHP Warning:  Undefined variable $cats1 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[18-Feb-2025 06:15:35 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[18-Feb-2025 06:15:35 Europe/Copenhagen] PHP Warning:  Undefined variable $cats2 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[18-Feb-2025 06:15:35 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[18-Feb-2025 06:15:35 Europe/Copenhagen] PHP Warning:  Undefined variable $cats3 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[18-Feb-2025 06:15:35 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[23-Feb-2025 04:35:32 Europe/Copenhagen] PHP Warning:  Undefined variable $cats1 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[23-Feb-2025 04:35:32 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[23-Feb-2025 04:35:32 Europe/Copenhagen] PHP Warning:  Undefined variable $cats2 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[23-Feb-2025 04:35:32 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[23-Feb-2025 04:35:32 Europe/Copenhagen] PHP Warning:  Undefined variable $cats3 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[23-Feb-2025 04:35:32 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[23-Feb-2025 09:04:18 Europe/Copenhagen] PHP Warning:  Undefined variable $cats1 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[23-Feb-2025 09:04:18 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[23-Feb-2025 09:04:18 Europe/Copenhagen] PHP Warning:  Undefined variable $cats2 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[23-Feb-2025 09:04:18 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[23-Feb-2025 09:04:18 Europe/Copenhagen] PHP Warning:  Undefined variable $cats3 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[23-Feb-2025 09:04:18 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[07-Mar-2025 17:57:19 Europe/Copenhagen] PHP Warning:  Undefined variable $cats1 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[07-Mar-2025 17:57:19 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[07-Mar-2025 17:57:19 Europe/Copenhagen] PHP Warning:  Undefined variable $cats2 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[07-Mar-2025 17:57:19 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[07-Mar-2025 17:57:19 Europe/Copenhagen] PHP Warning:  Undefined variable $cats3 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[07-Mar-2025 17:57:19 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[25-Mar-2025 04:45:34 Europe/Copenhagen] PHP Warning:  Undefined variable $cats1 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[25-Mar-2025 04:45:34 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 9
+[25-Mar-2025 04:45:34 Europe/Copenhagen] PHP Warning:  Undefined variable $cats2 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[25-Mar-2025 04:45:34 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 54
+[25-Mar-2025 04:45:34 Europe/Copenhagen] PHP Warning:  Undefined variable $cats3 in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99
+[25-Mar-2025 04:45:34 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/car/index.php on line 99

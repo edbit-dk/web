@@ -1,0 +1,97 @@
+[18-Sep-2020 18:31:12 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[05-Jul-2021 03:39:14 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[04-May-2022 07:56:25 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[20-Feb-2024 17:42:44 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[20-Feb-2024 18:04:38 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[24-Jul-2024 16:05:53 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[14-Aug-2024 20:39:24 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[20-Aug-2024 17:23:49 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[26-Aug-2024 16:26:53 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[08-Sep-2024 18:40:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[22-Sep-2024 09:02:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[29-Sep-2024 18:59:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[30-Sep-2024 17:57:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[10-Oct-2024 00:57:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[25-Oct-2024 04:19:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[14-Nov-2024 20:52:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[26-Nov-2024 13:25:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[30-Nov-2024 19:25:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[04-Dec-2024 07:36:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[13-Dec-2024 06:04:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[23-Dec-2024 00:53:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[03-Jan-2025 13:57:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[15-Jan-2025 07:53:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[26-Jan-2025 22:12:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[02-Feb-2025 02:13:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[09-Feb-2025 07:43:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[20-Feb-2025 16:10:32 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[03-Mar-2025 02:42:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[03-Mar-2025 03:33:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[06-Mar-2025 08:13:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13
+[17-Mar-2025 00:12:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/errors/404.php on line 13

@@ -1,0 +1,108 @@
+[18-Sep-2020 18:28:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'CalcModel' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[22-Feb-2021 08:31:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'CalcModel' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[22-Jul-2021 06:03:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'CalcModel' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[29-Dec-2021 14:26:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'CalcModel' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[17-Aug-2022 20:47:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'CalcModel' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[20-Feb-2024 17:42:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'CalcModel' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[20-Feb-2024 18:05:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'CalcModel' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[23-Jul-2024 06:48:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'CalcModel' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[21-Aug-2024 07:21:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'CalcModel' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[23-Aug-2024 05:48:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'CalcModel' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[26-Aug-2024 23:46:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'CalcModel' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[11-Sep-2024 14:49:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "CalcModel" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[30-Sep-2024 13:06:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "CalcModel" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[30-Sep-2024 14:48:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "CalcModel" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[01-Oct-2024 21:04:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "CalcModel" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[03-Oct-2024 10:06:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "CalcModel" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[26-Oct-2024 13:26:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "CalcModel" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[03-Nov-2024 10:07:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "CalcModel" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[26-Nov-2024 19:55:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "CalcModel" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[09-Dec-2024 04:10:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "CalcModel" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[14-Dec-2024 21:59:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "CalcModel" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[11-Jan-2025 15:47:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "CalcModel" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[31-Jan-2025 11:52:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "CalcModel" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[12-Feb-2025 15:41:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "CalcModel" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[28-Feb-2025 02:07:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "CalcModel" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[03-Mar-2025 08:50:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "CalcModel" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3
+[11-Mar-2025 13:52:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "CalcModel" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/test/example.php on line 3

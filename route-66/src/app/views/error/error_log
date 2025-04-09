@@ -1,0 +1,91 @@
+[18-Sep-2020 16:29:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[20-Feb-2024 17:42:56 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[20-Feb-2024 18:05:15 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[24-Jul-2024 02:42:04 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[14-Aug-2024 07:02:08 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[19-Aug-2024 10:57:41 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[21-Aug-2024 00:05:59 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[08-Sep-2024 17:13:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[22-Sep-2024 08:55:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[30-Sep-2024 17:00:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[30-Sep-2024 23:27:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[09-Oct-2024 19:10:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[25-Oct-2024 03:38:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[14-Nov-2024 11:42:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[19-Nov-2024 21:52:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[30-Nov-2024 11:51:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[03-Dec-2024 19:02:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[12-Dec-2024 09:45:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[21-Dec-2024 22:50:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[03-Jan-2025 06:04:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[14-Jan-2025 21:51:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[25-Jan-2025 22:31:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[02-Feb-2025 02:53:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[08-Feb-2025 13:40:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[19-Feb-2025 17:37:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[21-Feb-2025 23:55:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[02-Mar-2025 14:57:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13
+[16-Mar-2025 07:21:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/views/error/404.php on line 13

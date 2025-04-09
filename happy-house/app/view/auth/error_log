@@ -1,0 +1,48 @@
+[18-Sep-2020 00:29:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/login.php on line 7
+[18-Sep-2020 00:30:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/register.php on line 3
+[05-Jul-2021 03:38:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/login.php on line 7
+[05-Jul-2021 03:38:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/register.php on line 3
+[12-Dec-2021 07:22:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/login.php on line 7
+[12-Dec-2021 07:22:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/register.php on line 3
+[17-Aug-2022 20:43:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/login.php on line 7
+[17-Aug-2022 20:43:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/register.php on line 3
+[16-Sep-2022 03:21:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/login.php on line 7
+[16-Sep-2022 03:21:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/register.php on line 3
+[16-Oct-2022 18:17:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/login.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/login.php on line 7
+[16-Oct-2022 18:17:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/register.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/register.php on line 3

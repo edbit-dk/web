@@ -1,0 +1,202 @@
+[20-Sep-2020 00:59:39 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/beskeder.php on line 3
+[20-Sep-2020 00:59:45 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/create.php on line 3
+[20-Sep-2020 00:59:51 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/delete.php on line 3
+[20-Sep-2020 00:59:58 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/error.php on line 9
+[20-Sep-2020 01:00:06 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/index.php on line 3
+[20-Sep-2020 01:00:12 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/kunder.php on line 3
+[20-Sep-2020 01:00:17 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/kuponner.php on line 3
+[20-Sep-2020 01:00:23 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/login.php on line 3
+[20-Sep-2020 01:00:30 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/logout.php on line 3
+[20-Sep-2020 01:00:36 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/opret.php on line 3
+[20-Sep-2020 01:00:43 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/ordrer.php on line 3
+[20-Sep-2020 01:00:45 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/produkter.php on line 3
+[20-Sep-2020 01:00:50 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/rediger.php on line 3
+[20-Sep-2020 01:00:53 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/update.php on line 3
+[22-Feb-2021 09:56:05 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/beskeder.php on line 3
+[22-Feb-2021 09:56:08 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/create.php on line 3
+[22-Feb-2021 09:56:12 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/delete.php on line 3
+[22-Feb-2021 09:56:16 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/error.php on line 9
+[22-Feb-2021 09:56:22 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/index.php on line 3
+[22-Feb-2021 09:56:26 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/kunder.php on line 3
+[22-Feb-2021 09:56:29 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/kuponner.php on line 3
+[22-Feb-2021 09:56:33 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/login.php on line 3
+[22-Feb-2021 09:56:36 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/logout.php on line 3
+[22-Feb-2021 09:56:41 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/opret.php on line 3
+[22-Feb-2021 09:56:45 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/ordrer.php on line 3
+[22-Feb-2021 09:56:49 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/produkter.php on line 3
+[22-Feb-2021 09:56:52 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/rediger.php on line 3
+[22-Feb-2021 09:56:55 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/update.php on line 3
+[24-Sep-2021 02:46:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/beskeder.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/beskeder.php on line 3
+[24-Sep-2021 02:46:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/create.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/create.php on line 3
+[24-Sep-2021 02:46:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/delete.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/delete.php on line 3
+[24-Sep-2021 02:46:51 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/error.php on line 9
+[24-Sep-2021 02:46:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/index.php on line 3
+[24-Sep-2021 02:47:04 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/kunder.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/kunder.php on line 3
+[24-Sep-2021 02:47:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/kuponner.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/kuponner.php on line 3
+[24-Sep-2021 02:47:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/login.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/login.php on line 3
+[24-Sep-2021 02:47:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/logout.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/logout.php on line 3
+[24-Sep-2021 02:47:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/opret.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/opret.php on line 3
+[24-Sep-2021 02:47:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/ordrer.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/ordrer.php on line 3
+[24-Sep-2021 02:47:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/produkter.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/produkter.php on line 3
+[24-Sep-2021 02:47:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/rediger.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/rediger.php on line 3
+[24-Sep-2021 02:47:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/update.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/update.php on line 3
+[27-Mar-2022 01:47:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/kunder.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/kunder.php on line 3
+[27-Mar-2022 01:48:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/kuponner.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/kuponner.php on line 3
+[27-Mar-2022 01:48:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/login.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/login.php on line 3
+[27-Mar-2022 01:48:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/logout.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/logout.php on line 3
+[27-Mar-2022 01:48:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/opret.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/opret.php on line 3
+[27-Mar-2022 01:48:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/ordrer.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/ordrer.php on line 3
+[27-Mar-2022 01:48:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/produkter.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/produkter.php on line 3
+[27-Mar-2022 01:48:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/rediger.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/rediger.php on line 3
+[27-Mar-2022 01:48:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/update.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/update.php on line 3
+[15-Jun-2022 11:41:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/beskeder.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/beskeder.php on line 3
+[15-Jun-2022 11:41:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/create.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/create.php on line 3
+[15-Jun-2022 11:41:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/delete.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/delete.php on line 3
+[15-Jun-2022 11:41:42 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/error.php on line 9
+[15-Jun-2022 11:41:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/index.php on line 3
+[13-Nov-2022 10:28:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/beskeder.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/beskeder.php on line 3
+[13-Nov-2022 10:28:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/create.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/create.php on line 3
+[13-Nov-2022 10:28:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/delete.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/delete.php on line 3
+[13-Nov-2022 10:28:53 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/error.php on line 9
+[13-Nov-2022 10:28:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/index.php on line 3
+[16-May-2023 23:19:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/beskeder.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/beskeder.php on line 3
+[16-May-2023 23:19:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/create.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/create.php on line 3
+[16-May-2023 23:19:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/delete.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/delete.php on line 3
+[16-May-2023 23:19:49 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/error.php on line 9
+[16-May-2023 23:19:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/index.php on line 3
+[16-Nov-2023 10:30:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/beskeder.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/beskeder.php on line 3
+[16-Nov-2023 10:30:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/create.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/create.php on line 3
+[16-Nov-2023 10:30:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/delete.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/delete.php on line 3
+[16-Nov-2023 10:30:52 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/error.php on line 9
+[16-Nov-2023 10:30:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/index.php on line 3
+[14-Apr-2024 03:41:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/beskeder.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/beskeder.php on line 3
+[14-Apr-2024 03:42:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/create.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/create.php on line 3
+[14-Apr-2024 03:42:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/delete.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/delete.php on line 3
+[14-Apr-2024 03:42:13 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/error.php on line 9
+[14-Apr-2024 03:42:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/simple-shop/admin/app/src/data/controllers/index.php on line 3

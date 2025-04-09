@@ -1,0 +1,117 @@
+@media (max-width: 1024px) {
+	.sign-up {
+    position: absolute;
+    left: 3%;
+    margin-top: 23%;
+    background: url("../img/input.png");
+    background-repeat: repeat;
+    -webkit-border-radius: 50px;
+	-moz-border-radius: 50px;
+	border-radius: 50px;
+    padding: 8px;
+    width: 900px;
+    border: none;
+}
+
+.sign-up input{
+  	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	border-radius: 25px;
+    border: none;
+    padding: 10px;
+    color: #fff;
+    cursor: pointer;
+    margin-left: 10px;
+    border: none;
+}
+
+.sign-up input[type=submit]{
+    color: #fff;
+    border: none;
+    font-weight: bold;	
+    padding: 5px 50px 5px 50px;
+}
+	
+.banner h2{
+    position: absolute;
+    color: #fff;
+    font-size: 30px;
+    left: 25%;
+    margin-top: 6%;
+    font-weight: normal;
+}
+
+.banner span{
+    font-size: 60px;
+    font-weight: normal;
+}
+
+.stats{
+    position: absolute;
+    margin-top: 33%;
+    left: 18%;
+}
+
+.stats h3{
+    font-size: 30px;
+    color: #fff;
+}
+
+.stats span{
+    margin-right: 50px;
+    color: #d3d3d3;
+    font-size: 20px;
+}
+	
+	/* Search Input*/
+
+.search-banner {
+    position: absolute;
+    left: 120px;
+    margin-top: 227px;
+    background: url("../img/input.png");
+    background-repeat: repeat;
+	-moz-border-radius-topleft: 25px;
+	-webkit-border-top-left-radius: 25px;
+ 	border-top-left-radius: 25px;
+	-moz-border-radius-topright: 25px;
+	-webkit-border-top-right-radius: 25px;
+	border-top-right-radius: 25px;
+
+    padding: 8px;
+    width: 880px;
+    border: none;
+}
+
+.search-banner input{
+  	-webkit-border-radius: 25px;
+	-moz-border-radius: 25px;
+	border-radius: 25px;
+    border: none;
+    padding: 10px;
+    color: #fff;
+    cursor: pointer;
+    margin-left: 10px;
+    border: none;
+}
+
+.search-banner input[type=submit]{
+    color: #fff;
+    border: none;
+    font-weight: bold;	
+    padding: 5px 50px 5px 50px;
+}
+
+
+.search-banner input[type=text]{
+    color: #000;  
+    width: 220px;
+    border: none;
+}
+
+
+
+.search-banner ::-webkit-input-placeholder{
+    font-style: italic;
+}
+}

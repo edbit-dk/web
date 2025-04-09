@@ -1,0 +1,126 @@
+[18-Sep-2020 10:44:44 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/coupon.php on line 2
+[18-Sep-2020 10:44:45 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/fraud.php on line 2
+[18-Sep-2020 10:44:47 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/marketing.php on line 2
+[18-Sep-2020 10:44:49 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/order.php on line 2
+[18-Sep-2020 10:44:50 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/recurring.php on line 2
+[18-Sep-2020 10:44:52 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/voucher.php on line 2
+[18-Sep-2020 10:44:54 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/voucher_theme.php on line 2
+[22-Feb-2021 08:15:35 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/coupon.php on line 2
+[22-Feb-2021 08:15:40 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/fraud.php on line 2
+[22-Feb-2021 08:15:45 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/marketing.php on line 2
+[22-Feb-2021 08:15:53 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/order.php on line 2
+[22-Feb-2021 08:15:59 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/recurring.php on line 2
+[22-Feb-2021 08:16:08 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/voucher.php on line 2
+[22-Feb-2021 08:16:18 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/voucher_theme.php on line 2
+[22-Jul-2021 05:56:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/coupon.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/coupon.php on line 2
+[22-Jul-2021 05:56:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/fraud.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/fraud.php on line 2
+[22-Jul-2021 05:56:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/marketing.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/marketing.php on line 2
+[22-Jul-2021 05:56:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/order.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/order.php on line 2
+[22-Jul-2021 05:56:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/recurring.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/recurring.php on line 2
+[22-Jul-2021 05:56:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/voucher.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/voucher.php on line 2
+[22-Jul-2021 05:56:56 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/voucher_theme.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/voucher_theme.php on line 2
+[29-Dec-2021 11:38:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/coupon.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/coupon.php on line 2
+[29-Dec-2021 11:38:32 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/fraud.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/fraud.php on line 2
+[29-Dec-2021 11:38:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/marketing.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/marketing.php on line 2
+[29-Dec-2021 11:38:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/order.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/order.php on line 2
+[29-Dec-2021 11:38:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/recurring.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/recurring.php on line 2
+[29-Dec-2021 11:38:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/voucher.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/voucher.php on line 2
+[29-Dec-2021 11:38:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/voucher_theme.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/voucher_theme.php on line 2
+[17-Aug-2022 20:40:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/coupon.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/coupon.php on line 2
+[17-Aug-2022 20:40:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/fraud.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/fraud.php on line 2
+[17-Aug-2022 20:40:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/marketing.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/marketing.php on line 2
+[17-Aug-2022 20:40:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/order.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/order.php on line 2
+[17-Aug-2022 20:40:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/recurring.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/recurring.php on line 2
+[17-Aug-2022 20:40:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/voucher.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/voucher.php on line 2
+[17-Aug-2022 20:40:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/voucher_theme.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/voucher_theme.php on line 2
+[01-Nov-2023 10:20:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/coupon.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/coupon.php on line 2
+[01-Nov-2023 10:20:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/fraud.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/fraud.php on line 2
+[01-Nov-2023 10:20:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/marketing.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/marketing.php on line 2
+[01-Nov-2023 10:20:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/order.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/order.php on line 2
+[01-Nov-2023 10:20:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/recurring.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/recurring.php on line 2
+[01-Nov-2023 10:20:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/voucher.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/voucher.php on line 2
+[01-Nov-2023 10:20:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/voucher_theme.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/checkout/voucher_theme.php on line 2

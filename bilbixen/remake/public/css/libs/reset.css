@@ -1,0 +1,71 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26-08-2014, 01:09:16
+    Author     : Webmaster
+*/
+
+/* reset.css */ 
+
+html, body, div, span, applet, object, iframe, 
+h1, h2, h3, h4, h5, h6, p, blockquote, pre, 
+a, abbr, acronym, address, big, cite, code, 
+del, dfn, em, font, img, ins, kbd, q, s, samp, 
+small, strike, strong, sub, sup, tt, var, 
+b, u, i, center, 
+dl, dt, dd, ol, ul, li, 
+fieldset, form, label, legend, 
+table, caption, tbody, tfoot, thead, tr, input, textarea { 
+  margin: 0; 
+  padding: 0; 
+  border: 0; 
+  outline: 0; 
+  font-size: 100%; 
+  vertical-align: baseline; 
+  background: transparent; 
+} 
+th, td { 
+  margin: 0; 
+  padding: 0; 
+  border: 0; 
+  outline: 0; 
+  font-size: 100%; 
+  background: transparent; 
+} 
+ol, ul { 
+  list-style: none; 
+} 
+blockquote, q { 
+  quotes: none; 
+} 
+
+/* remember to define focus styles! */ 
+:focus { 
+  outline: 0; 
+} 
+
+/* remember to highlight inserts somehow! */ 
+ins { 
+  text-decoration: none; 
+} 
+del { 
+  text-decoration: line-through; 
+} 
+
+/* tables still need 'cellspacing="0"' in the markup */ 
+table { 
+  border-collapse: collapse; 
+  border-spacing: 0; 
+} 
+
+/* Alencastre.net General classes */ 
+.clear   { clear: both; } 
+br.clear { height: 0; clear: both; } 
+.floatLeft  { float:left; } 
+.floatRight { float:right; } 
+.textLeft   { text-align: left; } 
+.textCenter { text-align: center; } 
+.textRight  { text-align: right; }

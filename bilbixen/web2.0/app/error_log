@@ -1,0 +1,159 @@
+[17-Sep-2020 07:59:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant CONFIG - assumed 'CONFIG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[17-Sep-2020 07:59:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant CORE - assumed 'CORE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 9
+[17-Sep-2020 07:59:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 15
+[17-Sep-2020 07:59:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 20
+[17-Sep-2020 07:59:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant MODELS - assumed 'MODELS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[17-Sep-2020 07:59:09 Europe/Copenhagen] PHP Warning:  require_once(MODELSUserModel.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[17-Sep-2020 07:59:09 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required 'MODELSUserModel.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[22-Feb-2021 09:12:05 Europe/Copenhagen] PHP Warning:  Use of undefined constant CONFIG - assumed 'CONFIG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[22-Feb-2021 09:12:05 Europe/Copenhagen] PHP Warning:  Use of undefined constant CORE - assumed 'CORE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 9
+[22-Feb-2021 09:12:05 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 15
+[22-Feb-2021 09:12:05 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 20
+[22-Feb-2021 09:12:05 Europe/Copenhagen] PHP Warning:  Use of undefined constant MODELS - assumed 'MODELS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[22-Feb-2021 09:12:05 Europe/Copenhagen] PHP Warning:  require_once(MODELSUserModel.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[22-Feb-2021 09:12:05 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required 'MODELSUserModel.php' (include_path='.:/opt/cpanel/ea-php72/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[24-Jul-2021 05:08:17 Europe/Copenhagen] PHP Warning:  Use of undefined constant CONFIG - assumed 'CONFIG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[24-Jul-2021 05:08:17 Europe/Copenhagen] PHP Warning:  Use of undefined constant CORE - assumed 'CORE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 9
+[24-Jul-2021 05:08:17 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 15
+[24-Jul-2021 05:08:17 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 20
+[24-Jul-2021 05:08:17 Europe/Copenhagen] PHP Warning:  Use of undefined constant MODELS - assumed 'MODELS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[24-Jul-2021 05:08:17 Europe/Copenhagen] PHP Warning:  require_once(MODELSUserModel.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[24-Jul-2021 05:08:17 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required 'MODELSUserModel.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[29-Dec-2021 11:28:34 Europe/Copenhagen] PHP Warning:  Use of undefined constant CONFIG - assumed 'CONFIG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[29-Dec-2021 11:28:34 Europe/Copenhagen] PHP Warning:  Use of undefined constant CORE - assumed 'CORE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 9
+[29-Dec-2021 11:28:34 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 15
+[29-Dec-2021 11:28:34 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 20
+[29-Dec-2021 11:28:34 Europe/Copenhagen] PHP Warning:  Use of undefined constant MODELS - assumed 'MODELS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[29-Dec-2021 11:28:34 Europe/Copenhagen] PHP Warning:  require_once(MODELSUserModel.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[29-Dec-2021 11:28:34 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required 'MODELSUserModel.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[16-Jul-2022 16:54:13 Europe/Copenhagen] PHP Warning:  Use of undefined constant CONFIG - assumed 'CONFIG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[16-Jul-2022 16:54:13 Europe/Copenhagen] PHP Warning:  Use of undefined constant CORE - assumed 'CORE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 9
+[16-Jul-2022 16:54:13 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 15
+[16-Jul-2022 16:54:13 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 20
+[16-Jul-2022 16:54:13 Europe/Copenhagen] PHP Warning:  Use of undefined constant MODELS - assumed 'MODELS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[16-Jul-2022 16:54:13 Europe/Copenhagen] PHP Warning:  require_once(MODELSUserModel.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[16-Jul-2022 16:54:13 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required 'MODELSUserModel.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[20-May-2023 02:31:22 Europe/Copenhagen] PHP Warning:  Use of undefined constant CONFIG - assumed 'CONFIG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[20-May-2023 02:31:22 Europe/Copenhagen] PHP Warning:  Use of undefined constant CORE - assumed 'CORE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 9
+[20-May-2023 02:31:22 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 15
+[20-May-2023 02:31:22 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 20
+[20-May-2023 02:31:22 Europe/Copenhagen] PHP Warning:  Use of undefined constant MODELS - assumed 'MODELS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[20-May-2023 02:31:22 Europe/Copenhagen] PHP Warning:  require_once(MODELSUserModel.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[20-May-2023 02:31:22 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required 'MODELSUserModel.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[16-Nov-2023 10:29:28 Europe/Copenhagen] PHP Warning:  Use of undefined constant CONFIG - assumed 'CONFIG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[16-Nov-2023 10:29:28 Europe/Copenhagen] PHP Warning:  Use of undefined constant CORE - assumed 'CORE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 9
+[16-Nov-2023 10:29:28 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 15
+[16-Nov-2023 10:29:28 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 20
+[16-Nov-2023 10:29:28 Europe/Copenhagen] PHP Warning:  Use of undefined constant MODELS - assumed 'MODELS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[16-Nov-2023 10:29:28 Europe/Copenhagen] PHP Warning:  require_once(MODELSUserModel.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[16-Nov-2023 10:29:28 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required 'MODELSUserModel.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[20-Feb-2024 17:41:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant CONFIG - assumed 'CONFIG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[20-Feb-2024 17:41:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant CORE - assumed 'CORE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 9
+[20-Feb-2024 17:41:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 15
+[20-Feb-2024 17:41:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 20
+[20-Feb-2024 17:41:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant MODELS - assumed 'MODELS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[20-Feb-2024 17:41:58 Europe/Copenhagen] PHP Warning:  require_once(MODELSUserModel.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[20-Feb-2024 17:41:58 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required 'MODELSUserModel.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[20-Feb-2024 18:04:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant CONFIG - assumed 'CONFIG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[20-Feb-2024 18:04:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant CORE - assumed 'CORE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 9
+[20-Feb-2024 18:04:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 15
+[20-Feb-2024 18:04:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 20
+[20-Feb-2024 18:04:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant MODELS - assumed 'MODELS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[20-Feb-2024 18:04:23 Europe/Copenhagen] PHP Warning:  require_once(MODELSUserModel.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[20-Feb-2024 18:04:23 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required 'MODELSUserModel.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[14-Apr-2024 03:38:20 Europe/Copenhagen] PHP Warning:  Use of undefined constant CONFIG - assumed 'CONFIG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[14-Apr-2024 03:38:20 Europe/Copenhagen] PHP Warning:  Use of undefined constant CORE - assumed 'CORE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 9
+[14-Apr-2024 03:38:20 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 15
+[14-Apr-2024 03:38:20 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 20
+[14-Apr-2024 03:38:20 Europe/Copenhagen] PHP Warning:  Use of undefined constant MODELS - assumed 'MODELS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[14-Apr-2024 03:38:20 Europe/Copenhagen] PHP Warning:  require_once(MODELSUserModel.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[14-Apr-2024 03:38:20 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required 'MODELSUserModel.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[23-Jul-2024 10:38:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant CONFIG - assumed 'CONFIG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[23-Jul-2024 10:38:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant CORE - assumed 'CORE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 9
+[23-Jul-2024 10:38:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 15
+[23-Jul-2024 10:38:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 20
+[23-Jul-2024 10:38:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant MODELS - assumed 'MODELS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[23-Jul-2024 10:38:37 Europe/Copenhagen] PHP Warning:  require_once(MODELSUserModel.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[23-Jul-2024 10:38:37 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required 'MODELSUserModel.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[10-Aug-2024 08:45:22 Europe/Copenhagen] PHP Warning:  Use of undefined constant CONFIG - assumed 'CONFIG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[10-Aug-2024 08:45:22 Europe/Copenhagen] PHP Warning:  Use of undefined constant CORE - assumed 'CORE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 9
+[10-Aug-2024 08:45:22 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 15
+[10-Aug-2024 08:45:22 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 20
+[10-Aug-2024 08:45:22 Europe/Copenhagen] PHP Warning:  Use of undefined constant MODELS - assumed 'MODELS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[10-Aug-2024 08:45:22 Europe/Copenhagen] PHP Warning:  require_once(MODELSUserModel.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[10-Aug-2024 08:45:22 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required 'MODELSUserModel.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[16-Aug-2024 00:27:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant CONFIG - assumed 'CONFIG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[16-Aug-2024 00:27:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant CORE - assumed 'CORE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 9
+[16-Aug-2024 00:27:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 15
+[16-Aug-2024 00:27:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 20
+[16-Aug-2024 00:27:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant MODELS - assumed 'MODELS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[16-Aug-2024 00:27:18 Europe/Copenhagen] PHP Warning:  require_once(MODELSUserModel.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[16-Aug-2024 00:27:18 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required 'MODELSUserModel.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 41
+[11-Sep-2024 16:53:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CONFIG" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[19-Sep-2024 14:41:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CONFIG" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[22-Sep-2024 00:53:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CONFIG" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[22-Sep-2024 02:50:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CONFIG" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[22-Sep-2024 04:10:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CONFIG" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[05-Oct-2024 05:05:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CONFIG" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[22-Oct-2024 08:18:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CONFIG" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[27-Oct-2024 17:25:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CONFIG" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[11-Nov-2024 10:53:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CONFIG" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[12-Nov-2024 10:41:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CONFIG" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[24-Nov-2024 09:46:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CONFIG" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[17-Dec-2024 03:45:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CONFIG" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[24-Dec-2024 11:15:04 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CONFIG" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[22-Jan-2025 14:12:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CONFIG" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[02-Feb-2025 05:00:04 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CONFIG" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[14-Feb-2025 09:44:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CONFIG" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4
+[23-Feb-2025 07:59:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CONFIG" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/Bootstrap.php on line 4

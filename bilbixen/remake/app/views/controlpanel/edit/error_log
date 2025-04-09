@@ -1,0 +1,30 @@
+[19-Sep-2020 23:29:41 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/controlpanel/edit/car.php on line 16
+[19-Sep-2020 23:29:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/controlpanel/edit/car.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/controlpanel/edit/car.php on line 17
+[08-Dec-2020 06:18:17 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/controlpanel/edit/car.php on line 16
+[08-Dec-2020 06:18:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/controlpanel/edit/car.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/controlpanel/edit/car.php on line 17
+[26-Feb-2021 06:27:15 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/controlpanel/edit/car.php on line 16
+[26-Feb-2021 06:27:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/controlpanel/edit/car.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/controlpanel/edit/car.php on line 17
+[03-May-2021 09:01:08 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/controlpanel/edit/car.php on line 16
+[03-May-2021 09:01:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/controlpanel/edit/car.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/controlpanel/edit/car.php on line 17
+[17-Aug-2022 20:56:00 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/controlpanel/edit/car.php on line 16
+[17-Aug-2022 20:56:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/controlpanel/edit/car.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/controlpanel/edit/car.php on line 17
+[16-Oct-2022 10:21:38 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/controlpanel/edit/car.php on line 16
+[16-Oct-2022 10:21:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/controlpanel/edit/car.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/remake/app/views/controlpanel/edit/car.php on line 17

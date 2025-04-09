@@ -1,0 +1,216 @@
+[18-Sep-2020 07:35:17 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/auspost.php on line 2
+[18-Sep-2020 07:35:30 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/citylink.php on line 2
+[18-Sep-2020 07:35:45 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/fedex.php on line 2
+[18-Sep-2020 07:36:05 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/flat.php on line 2
+[18-Sep-2020 07:36:22 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/free.php on line 2
+[18-Sep-2020 07:36:38 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/item.php on line 2
+[18-Sep-2020 07:36:41 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/parcelforce_48.php on line 2
+[18-Sep-2020 07:37:04 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/royal_mail.php on line 243
+[18-Sep-2020 10:28:59 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/pickup.php on line 2
+[18-Sep-2020 10:29:07 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/ups.php on line 2
+[18-Sep-2020 10:29:11 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/usps.php on line 2
+[18-Sep-2020 10:29:15 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/weight.php on line 2
+[22-Feb-2021 08:24:48 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/auspost.php on line 2
+[22-Feb-2021 08:24:52 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/citylink.php on line 2
+[22-Feb-2021 08:24:58 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/fedex.php on line 2
+[22-Feb-2021 08:25:07 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/flat.php on line 2
+[22-Feb-2021 08:25:11 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/free.php on line 2
+[22-Feb-2021 08:25:17 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/item.php on line 2
+[22-Feb-2021 08:25:23 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/parcelforce_48.php on line 2
+[22-Feb-2021 08:25:32 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/pickup.php on line 2
+[22-Feb-2021 08:25:39 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/royal_mail.php on line 243
+[22-Feb-2021 08:25:49 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/ups.php on line 2
+[22-Feb-2021 08:25:54 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/usps.php on line 2
+[22-Feb-2021 08:26:07 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/weight.php on line 2
+[22-Jul-2021 05:59:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/auspost.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/auspost.php on line 2
+[22-Jul-2021 06:00:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/citylink.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/citylink.php on line 2
+[22-Jul-2021 06:00:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/fedex.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/fedex.php on line 2
+[22-Jul-2021 06:00:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/flat.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/flat.php on line 2
+[22-Jul-2021 06:00:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/free.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/free.php on line 2
+[22-Jul-2021 06:00:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/item.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/item.php on line 2
+[22-Jul-2021 06:00:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/parcelforce_48.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/parcelforce_48.php on line 2
+[22-Jul-2021 06:00:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/pickup.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/pickup.php on line 2
+[22-Jul-2021 06:00:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/royal_mail.php:243
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/royal_mail.php on line 243
+[22-Jul-2021 06:00:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/ups.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/ups.php on line 2
+[22-Jul-2021 06:00:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/usps.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/usps.php on line 2
+[22-Jul-2021 06:00:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/weight.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/weight.php on line 2
+[29-Dec-2021 14:24:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/auspost.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/auspost.php on line 2
+[29-Dec-2021 14:24:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/citylink.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/citylink.php on line 2
+[29-Dec-2021 14:24:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/fedex.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/fedex.php on line 2
+[29-Dec-2021 14:24:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/flat.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/flat.php on line 2
+[29-Dec-2021 14:24:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/free.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/free.php on line 2
+[29-Dec-2021 14:24:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/item.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/item.php on line 2
+[29-Dec-2021 14:24:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/parcelforce_48.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/parcelforce_48.php on line 2
+[29-Dec-2021 14:24:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/pickup.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/pickup.php on line 2
+[29-Dec-2021 14:24:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/royal_mail.php:243
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/royal_mail.php on line 243
+[29-Dec-2021 14:24:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/ups.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/ups.php on line 2
+[29-Dec-2021 14:24:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/usps.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/usps.php on line 2
+[29-Dec-2021 14:24:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/weight.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/weight.php on line 2
+[17-Aug-2022 20:42:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/auspost.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/auspost.php on line 2
+[17-Aug-2022 20:42:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/citylink.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/citylink.php on line 2
+[17-Aug-2022 20:42:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/fedex.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/fedex.php on line 2
+[17-Aug-2022 20:42:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/flat.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/flat.php on line 2
+[17-Aug-2022 20:42:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/free.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/free.php on line 2
+[17-Aug-2022 20:42:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/item.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/item.php on line 2
+[17-Aug-2022 20:42:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/parcelforce_48.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/parcelforce_48.php on line 2
+[17-Aug-2022 20:42:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/pickup.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/pickup.php on line 2
+[17-Aug-2022 20:42:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/royal_mail.php:243
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/royal_mail.php on line 243
+[17-Aug-2022 20:42:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/ups.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/ups.php on line 2
+[17-Aug-2022 20:42:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/usps.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/usps.php on line 2
+[17-Aug-2022 20:42:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/weight.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/weight.php on line 2
+[01-Nov-2023 10:22:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/auspost.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/auspost.php on line 2
+[01-Nov-2023 10:22:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/citylink.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/citylink.php on line 2
+[01-Nov-2023 10:22:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/fedex.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/fedex.php on line 2
+[01-Nov-2023 10:22:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/flat.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/flat.php on line 2
+[01-Nov-2023 10:22:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/free.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/free.php on line 2
+[01-Nov-2023 10:22:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/item.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/item.php on line 2
+[01-Nov-2023 10:22:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/parcelforce_48.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/parcelforce_48.php on line 2
+[01-Nov-2023 10:22:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/pickup.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/pickup.php on line 2
+[01-Nov-2023 10:22:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/royal_mail.php:243
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/royal_mail.php on line 243
+[01-Nov-2023 10:22:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/ups.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/ups.php on line 2
+[01-Nov-2023 10:22:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/usps.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/usps.php on line 2
+[01-Nov-2023 10:22:32 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/weight.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/shipping/weight.php on line 2

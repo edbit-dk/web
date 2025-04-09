@@ -1,0 +1,122 @@
+[20-Feb-2024 17:42:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'SQLInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 3
+[20-Feb-2024 18:04:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'SQLInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 3
+[22-Jul-2024 11:59:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'SQLInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 3
+[18-Aug-2024 04:14:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'SQLInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 3
+[22-Aug-2024 14:25:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'SQLInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 3
+[11-Sep-2024 08:24:21 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 155
+[11-Sep-2024 08:24:21 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 169
+[11-Sep-2024 08:24:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SQLInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 3
+[24-Sep-2024 20:13:15 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 155
+[24-Sep-2024 20:13:15 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 169
+[24-Sep-2024 20:13:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SQLInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 3
+[24-Sep-2024 21:07:42 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 155
+[24-Sep-2024 21:07:42 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 169
+[24-Sep-2024 21:07:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SQLInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 3
+[25-Sep-2024 01:25:11 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 155
+[25-Sep-2024 01:25:11 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 169
+[25-Sep-2024 01:25:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SQLInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 3
+[25-Sep-2024 02:51:29 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 155
+[25-Sep-2024 02:51:29 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 169
+[25-Sep-2024 02:51:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SQLInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 3
+[05-Oct-2024 04:57:51 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 155
+[05-Oct-2024 04:57:51 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 169
+[05-Oct-2024 04:57:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SQLInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 3
+[26-Oct-2024 12:45:37 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 155
+[26-Oct-2024 12:45:37 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 169
+[26-Oct-2024 12:45:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SQLInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 3
+[28-Oct-2024 07:08:30 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 155
+[28-Oct-2024 07:08:30 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 169
+[28-Oct-2024 07:08:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SQLInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 3
+[12-Nov-2024 10:28:43 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 155
+[12-Nov-2024 10:28:43 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 169
+[12-Nov-2024 10:28:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SQLInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 3
+[22-Nov-2024 19:02:40 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 155
+[22-Nov-2024 19:02:40 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 169
+[22-Nov-2024 19:02:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SQLInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 3
+[29-Nov-2024 01:37:57 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 155
+[29-Nov-2024 01:37:57 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 169
+[29-Nov-2024 01:37:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SQLInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 3
+[14-Dec-2024 12:22:42 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 155
+[14-Dec-2024 12:22:42 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 169
+[14-Dec-2024 12:22:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SQLInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 3
+[29-Dec-2024 19:08:30 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 155
+[29-Dec-2024 19:08:30 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 169
+[29-Dec-2024 19:08:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SQLInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 3
+[27-Jan-2025 15:08:42 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 155
+[27-Jan-2025 15:08:42 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 169
+[27-Jan-2025 15:08:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SQLInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 3
+[31-Jan-2025 09:11:08 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 155
+[31-Jan-2025 09:11:08 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 169
+[31-Jan-2025 09:11:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SQLInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 3
+[24-Feb-2025 20:03:23 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 155
+[24-Feb-2025 20:03:23 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 169
+[24-Feb-2025 20:03:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SQLInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 3
+[28-Feb-2025 22:01:53 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 155
+[28-Feb-2025 22:01:53 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 169
+[28-Feb-2025 22:01:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SQLInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/storage/Database.php on line 3

@@ -1,0 +1,640 @@
+[17-Sep-2020 07:59:07 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(35): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[18-Sep-2020 10:20:31 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[18-Sep-2020 10:20:35 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[18-Sep-2020 10:20:38 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[18-Sep-2020 10:20:41 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[18-Sep-2020 10:20:43 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[18-Sep-2020 10:20:46 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[18-Sep-2020 10:20:50 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[18-Sep-2020 10:20:53 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[18-Sep-2020 10:20:57 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[18-Sep-2020 10:21:00 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[18-Sep-2020 10:21:03 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[18-Sep-2020 10:21:06 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[18-Sep-2020 10:21:08 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[18-Sep-2020 10:21:10 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[18-Sep-2020 10:21:13 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[18-Sep-2020 10:21:17 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[19-Sep-2020 12:40:27 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[19-Sep-2020 16:33:49 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[19-Sep-2020 16:33:52 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[19-Sep-2020 16:33:56 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[19-Sep-2020 16:33:59 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[08-Dec-2020 06:20:21 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[26-Feb-2021 06:27:47 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[03-May-2021 09:01:42 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[03-Dec-2021 02:48:05 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[03-May-2022 23:42:05 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[11-Feb-2023 23:08:38 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[11-Feb-2023 23:08:40 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[11-Feb-2023 23:08:43 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[11-Feb-2023 23:08:45 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[11-Feb-2023 23:08:47 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[20-May-2023 02:31:10 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[20-May-2023 02:31:12 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[20-May-2023 02:31:14 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[20-May-2023 02:31:18 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[20-May-2023 02:31:20 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[22-Aug-2023 16:19:11 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[22-Aug-2023 16:19:11 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[22-Aug-2023 16:19:11 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[22-Aug-2023 16:19:12 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[22-Aug-2023 16:19:12 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[22-Aug-2023 16:21:07 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[22-Aug-2023 17:52:58 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[20-Feb-2024 17:41:34 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[20-Feb-2024 18:04:06 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[22-Apr-2024 20:06:41 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[22-Apr-2024 20:06:41 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[22-Apr-2024 20:06:42 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[22-Apr-2024 20:06:42 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[21-Jul-2024 14:08:19 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[05-Aug-2024 03:03:50 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[08-Aug-2024 21:14:29 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[10-Aug-2024 15:19:22 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[14-Aug-2024 00:12:02 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[09-Sep-2024 18:10:40 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[14-Sep-2024 21:40:12 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[28-Sep-2024 16:43:00 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[05-Oct-2024 04:39:47 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[11-Oct-2024 11:49:18 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[18-Oct-2024 14:39:16 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[30-Oct-2024 14:37:49 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[10-Nov-2024 01:00:00 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[12-Nov-2024 09:51:01 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[16-Nov-2024 04:13:07 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[03-Dec-2024 02:15:06 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[08-Dec-2024 21:02:11 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[15-Dec-2024 13:15:20 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[23-Dec-2024 06:30:21 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[25-Dec-2024 16:56:25 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[05-Jan-2025 14:24:30 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[17-Jan-2025 12:25:47 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[29-Jan-2025 07:37:00 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[07-Feb-2025 16:04:07 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[09-Feb-2025 15:26:25 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[11-Feb-2025 08:32:36 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[23-Feb-2025 08:18:15 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[07-Mar-2025 15:03:02 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[22-Mar-2025 08:20:37 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', '1992c.m.lange', Array)
+#1 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/libs/controller.php on line 33
+[26-Mar-2025 22:02:31 Europe/Copenhagen] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY000] [1045] Access denied for user 'websuppo_admin'@'localhost' (using password: YES) in /home/edbitdk/web.edbit.dk/SDE/bilbixen/src/application/libs/controller.php:33
+Stack trace:
+#0 /home/edbitdk/web.edbit.dk/SDE/bilbixen/src/application/libs/controller.php(33): PDO->__construct('mysql:host=127....', 'websuppo_admin', Object(SensitiveParameterValue), Array)
+#1 /home/edbitdk/web.edbit.dk/SDE/bilbixen/src/application/libs/controller.php(18): Controller->openDatabaseConnection()
+#2 /home/edbitdk/web.edbit.dk/SDE/bilbixen/src/application/libs/application.php(61): Controller->__construct()
+#3 /home/edbitdk/web.edbit.dk/SDE/bilbixen/src/index.php(21): Application->__construct()
+#4 {main}
+  thrown in /home/edbitdk/web.edbit.dk/SDE/bilbixen/src/application/libs/controller.php on line 33

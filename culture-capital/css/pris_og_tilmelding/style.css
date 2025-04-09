@@ -1,0 +1,32 @@
+@charset "utf-8";
+/* CSS Document */
+.main-wrapper {
+background: #fff
+}
+
+.content{padding: 30px 30px 200px 30px;}
+
+.list{padding-left: 50px;} 
+.list ul{padding-left: 20px;}
+
+.bar {
+float: left;
+margin-top: -30px;
+margin-left: 280px;
+}
+
+.comment-box {width: 50%;}
+
+.city-box{
+margin-top: 10px;
+padding: 30px;
+background: url('background.png');
+width: 45%;
+color: #7d7d7d;
+font-family: 'Muli', sans-serif;
+border: 2px solid #b7b7b7;
+	border-radius: 5px;
+}
+
+fieldset{padding-left: 10px;}
+

@@ -1,0 +1,54 @@
+[18-Sep-2020 07:34:29 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/api.php on line 2
+[18-Sep-2020 07:34:47 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/setting.php on line 2
+[18-Sep-2020 07:35:02 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/store.php on line 2
+[22-Feb-2021 08:24:23 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/api.php on line 2
+[22-Feb-2021 08:24:33 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/setting.php on line 2
+[22-Feb-2021 08:24:42 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/store.php on line 2
+[22-Jul-2021 05:59:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/api.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/api.php on line 2
+[22-Jul-2021 05:59:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/setting.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/setting.php on line 2
+[22-Jul-2021 05:59:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/store.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/store.php on line 2
+[29-Dec-2021 14:23:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/api.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/api.php on line 2
+[29-Dec-2021 14:23:56 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/setting.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/setting.php on line 2
+[29-Dec-2021 14:23:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/store.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/store.php on line 2
+[17-Aug-2022 20:42:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/api.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/api.php on line 2
+[17-Aug-2022 20:42:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/setting.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/setting.php on line 2
+[17-Aug-2022 20:42:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/store.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/store.php on line 2
+[01-Nov-2023 10:22:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/api.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/api.php on line 2
+[01-Nov-2023 10:22:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/setting.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/setting.php on line 2
+[01-Nov-2023 10:22:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/store.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/model/setting/store.php on line 2

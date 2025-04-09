@@ -1,0 +1,44 @@
+@import "../base/_variables.scss";
+
+.login-wrap {
+
+	text-align: center;
+
+}
+
+input[type="text"], input[type="password"], .btn-log {
+
+	border: none;
+	border-radius: 5px;
+
+	width: 200px;
+
+	padding: 12px 20px;
+
+}
+
+input[type="text"], input[type="password"] {
+
+	background: #f0eae8;
+
+}
+
+.btn-log {
+
+	background: $baseColor;
+	color: white;
+
+	&:hover {
+		box-shadow: inset 0 0 8px rgba(000, 000, 000, .5);
+		cursor: pointer;
+		text-shadow: 1px 1px 5px rgba(000, 000, 000, .5);
+
+	}
+
+	&:focus {
+		box-shadow: inset 0 0 8px rgba(000, 000, 000, .8);
+		background: $baseColor / 1.1;
+
+	}
+
+}

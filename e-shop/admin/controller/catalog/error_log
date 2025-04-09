@@ -1,0 +1,154 @@
+[18-Sep-2020 00:17:11 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/attribute.php on line 2
+[18-Sep-2020 00:17:21 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/attribute_group.php on line 2
+[18-Sep-2020 00:17:30 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/category.php on line 2
+[18-Sep-2020 00:17:39 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/download.php on line 2
+[18-Sep-2020 00:17:46 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/filter.php on line 2
+[18-Sep-2020 00:17:58 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/information.php on line 2
+[18-Sep-2020 00:18:04 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/manufacturer.php on line 2
+[18-Sep-2020 00:18:16 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/option.php on line 2
+[18-Sep-2020 00:18:25 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/product.php on line 2
+[18-Sep-2020 00:18:39 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/recurring.php on line 2
+[18-Sep-2020 00:18:47 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/review.php on line 2
+[22-Feb-2021 09:15:55 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/attribute.php on line 2
+[22-Feb-2021 09:16:10 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/attribute_group.php on line 2
+[22-Feb-2021 09:16:32 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/category.php on line 2
+[22-Feb-2021 09:16:35 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/download.php on line 2
+[22-Feb-2021 09:16:46 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/filter.php on line 2
+[22-Feb-2021 09:16:58 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/information.php on line 2
+[22-Feb-2021 09:17:18 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/manufacturer.php on line 2
+[22-Feb-2021 09:17:24 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/option.php on line 2
+[22-Feb-2021 09:17:48 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/product.php on line 2
+[22-Feb-2021 09:17:54 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/recurring.php on line 2
+[22-Feb-2021 09:18:09 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/review.php on line 2
+[24-Jul-2021 05:09:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/attribute.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/attribute.php on line 2
+[24-Jul-2021 05:09:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/attribute_group.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/attribute_group.php on line 2
+[24-Jul-2021 05:09:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/category.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/category.php on line 2
+[24-Jul-2021 05:09:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/download.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/download.php on line 2
+[24-Jul-2021 05:09:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/filter.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/filter.php on line 2
+[24-Jul-2021 05:09:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/information.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/information.php on line 2
+[24-Jul-2021 05:09:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/manufacturer.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/manufacturer.php on line 2
+[24-Jul-2021 05:09:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/option.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/option.php on line 2
+[24-Jul-2021 05:09:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/product.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/product.php on line 2
+[24-Jul-2021 05:09:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/recurring.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/recurring.php on line 2
+[24-Jul-2021 05:09:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/review.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/review.php on line 2
+[29-Dec-2021 11:29:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/attribute.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/attribute.php on line 2
+[29-Dec-2021 11:29:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/attribute_group.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/attribute_group.php on line 2
+[29-Dec-2021 11:29:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/category.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/category.php on line 2
+[29-Dec-2021 11:29:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/download.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/download.php on line 2
+[29-Dec-2021 11:29:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/filter.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/filter.php on line 2
+[29-Dec-2021 11:29:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/information.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/information.php on line 2
+[29-Dec-2021 11:29:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/manufacturer.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/manufacturer.php on line 2
+[29-Dec-2021 11:29:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/option.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/option.php on line 2
+[29-Dec-2021 11:29:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/product.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/product.php on line 2
+[29-Dec-2021 11:29:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/recurring.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/recurring.php on line 2
+[29-Dec-2021 11:29:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/review.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/review.php on line 2
+[16-Jul-2022 17:03:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/attribute.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/attribute.php on line 2
+[16-Jul-2022 17:04:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/attribute_group.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/attribute_group.php on line 2
+[16-Jul-2022 17:04:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/category.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/category.php on line 2
+[16-Jul-2022 17:04:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/download.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/download.php on line 2
+[16-Jul-2022 17:04:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/filter.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/filter.php on line 2
+[16-Jul-2022 17:04:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/information.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/information.php on line 2
+[16-Jul-2022 17:04:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/manufacturer.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/manufacturer.php on line 2
+[16-Jul-2022 17:04:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/option.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/option.php on line 2
+[16-Jul-2022 17:04:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/product.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/product.php on line 2
+[16-Jul-2022 17:04:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/recurring.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/recurring.php on line 2
+[16-Jul-2022 17:05:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/review.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/catalog/review.php on line 2

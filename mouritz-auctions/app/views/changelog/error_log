@@ -1,0 +1,85 @@
+[03-Dec-2021 20:10:55 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[04-Jan-2022 07:32:05 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[14-Feb-2022 20:39:33 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[27-Mar-2022 06:49:38 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[04-May-2022 04:02:14 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[15-Jun-2022 11:28:01 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[17-Jul-2022 02:55:02 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[20-Feb-2024 17:42:05 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[20-Feb-2024 18:04:34 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[25-Jul-2024 12:54:03 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[15-Aug-2024 12:46:46 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[16-Aug-2024 02:32:59 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[23-Aug-2024 12:51:38 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[10-Sep-2024 23:21:23 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[10-Sep-2024 23:21:23 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[10-Sep-2024 23:21:23 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[22-Sep-2024 01:13:01 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[22-Sep-2024 01:13:01 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[22-Sep-2024 01:13:01 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[01-Oct-2024 10:19:37 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[01-Oct-2024 10:19:37 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[01-Oct-2024 10:19:37 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[17-Oct-2024 05:25:43 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[17-Oct-2024 05:25:43 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[17-Oct-2024 05:25:43 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[22-Oct-2024 17:21:30 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[22-Oct-2024 17:21:30 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[22-Oct-2024 17:21:30 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[14-Nov-2024 11:24:25 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[14-Nov-2024 11:24:25 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[14-Nov-2024 11:24:25 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[16-Nov-2024 18:36:48 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[16-Nov-2024 18:36:48 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[16-Nov-2024 18:36:48 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[01-Dec-2024 15:02:47 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[01-Dec-2024 15:02:47 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[01-Dec-2024 15:02:47 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[07-Dec-2024 16:19:03 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[07-Dec-2024 16:19:03 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[07-Dec-2024 16:19:03 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[14-Dec-2024 01:48:51 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[14-Dec-2024 01:48:51 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[14-Dec-2024 01:48:51 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[14-Dec-2024 05:13:19 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[14-Dec-2024 05:13:19 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[14-Dec-2024 05:13:19 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[24-Dec-2024 08:12:46 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[24-Dec-2024 08:12:46 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[24-Dec-2024 08:12:46 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[03-Jan-2025 18:34:16 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[03-Jan-2025 18:34:16 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[03-Jan-2025 18:34:16 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[04-Jan-2025 17:47:48 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[04-Jan-2025 17:47:48 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[04-Jan-2025 17:47:48 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[16-Jan-2025 19:21:52 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[16-Jan-2025 19:21:52 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[16-Jan-2025 19:21:52 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[28-Jan-2025 18:10:44 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[28-Jan-2025 18:10:44 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[28-Jan-2025 18:10:44 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[11-Feb-2025 01:29:37 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[11-Feb-2025 01:29:37 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[11-Feb-2025 01:29:37 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[12-Feb-2025 14:15:34 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[12-Feb-2025 14:15:34 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[12-Feb-2025 14:15:34 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[19-Feb-2025 12:07:07 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[19-Feb-2025 12:07:07 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[19-Feb-2025 12:07:07 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[22-Feb-2025 07:34:35 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[22-Feb-2025 07:34:35 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[22-Feb-2025 07:34:35 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[23-Feb-2025 04:10:58 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[23-Feb-2025 04:10:58 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[23-Feb-2025 04:10:58 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[07-Mar-2025 14:40:05 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[07-Mar-2025 14:40:05 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[07-Mar-2025 14:40:05 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[22-Mar-2025 14:01:15 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[22-Mar-2025 14:01:15 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[22-Mar-2025 14:01:15 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/changelog/index.php on line 2
+[09-Apr-2025 11:28:49 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/web.edbit.dk/SDE/mouritz-auctions/app/views/changelog/index.php on line 2
+[09-Apr-2025 11:28:49 Europe/Copenhagen] PHP Warning:  Attempt to read property "changelog" on null in /home/edbitdk/web.edbit.dk/SDE/mouritz-auctions/app/views/changelog/index.php on line 2
+[09-Apr-2025 11:28:49 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/web.edbit.dk/SDE/mouritz-auctions/app/views/changelog/index.php on line 2

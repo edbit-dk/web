@@ -1,0 +1,1 @@
+<p>Velkommen <b><?php echo $data->user->data()->Firstname; ?> <?php echo $data->user->data()->Lastname; ?></b></p>

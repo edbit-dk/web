@@ -1,0 +1,699 @@
+[18-Sep-2020 16:22:35 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[18-Sep-2020 16:22:40 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[18-Sep-2020 16:22:47 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[18-Sep-2020 16:22:55 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[18-Sep-2020 16:23:02 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[18-Sep-2020 16:23:09 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[18-Sep-2020 16:23:18 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[22-Feb-2021 09:54:24 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[22-Feb-2021 09:54:28 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[22-Feb-2021 09:54:32 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[22-Feb-2021 09:54:36 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[22-Feb-2021 09:54:42 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[22-Feb-2021 09:54:46 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[22-Feb-2021 09:54:49 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[22-Jul-2021 06:06:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[22-Jul-2021 06:06:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[22-Jul-2021 06:06:49 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[22-Jul-2021 06:06:55 Europe/Copenhagen] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 29
+[22-Jul-2021 06:06:55 Europe/Copenhagen] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 54
+[22-Jul-2021 06:06:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[22-Jul-2021 06:06:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[22-Jul-2021 06:07:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[24-Sep-2021 02:44:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[29-Dec-2021 14:28:56 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[29-Dec-2021 14:29:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[29-Dec-2021 14:29:06 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[29-Dec-2021 14:29:13 Europe/Copenhagen] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 29
+[29-Dec-2021 14:29:13 Europe/Copenhagen] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 54
+[29-Dec-2021 14:29:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[29-Dec-2021 14:29:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[29-Dec-2021 14:29:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[27-Mar-2022 01:36:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[16-Oct-2022 09:34:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[16-Oct-2022 09:34:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[16-Oct-2022 09:34:22 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[16-Oct-2022 09:34:25 Europe/Copenhagen] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 29
+[16-Oct-2022 09:34:25 Europe/Copenhagen] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 54
+[16-Oct-2022 09:34:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[16-Oct-2022 09:34:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[16-Oct-2022 09:34:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[16-May-2023 23:16:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[16-May-2023 23:16:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[16-May-2023 23:16:39 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[16-May-2023 23:16:44 Europe/Copenhagen] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 29
+[16-May-2023 23:16:44 Europe/Copenhagen] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 54
+[16-May-2023 23:16:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[16-May-2023 23:16:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[16-May-2023 23:16:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[16-Nov-2023 10:30:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[16-Nov-2023 10:30:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[16-Nov-2023 10:30:07 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[16-Nov-2023 10:30:09 Europe/Copenhagen] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 29
+[16-Nov-2023 10:30:09 Europe/Copenhagen] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 54
+[16-Nov-2023 10:30:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[16-Nov-2023 10:30:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[16-Nov-2023 10:30:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[20-Feb-2024 17:43:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[20-Feb-2024 17:43:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[20-Feb-2024 17:43:07 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[20-Feb-2024 17:43:07 Europe/Copenhagen] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 29
+[20-Feb-2024 17:43:07 Europe/Copenhagen] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 54
+[20-Feb-2024 17:43:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[20-Feb-2024 17:43:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[20-Feb-2024 17:43:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[20-Feb-2024 17:43:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[20-Feb-2024 18:05:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[20-Feb-2024 18:05:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[20-Feb-2024 18:05:13 Europe/Copenhagen] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 29
+[20-Feb-2024 18:05:13 Europe/Copenhagen] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 54
+[20-Feb-2024 18:05:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[20-Feb-2024 18:05:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[20-Feb-2024 18:05:13 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[20-Feb-2024 18:05:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[20-Feb-2024 18:05:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[14-Apr-2024 03:39:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[14-Apr-2024 03:39:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[14-Apr-2024 03:39:48 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[14-Apr-2024 03:39:53 Europe/Copenhagen] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 29
+[14-Apr-2024 03:39:53 Europe/Copenhagen] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 54
+[14-Apr-2024 03:39:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[14-Apr-2024 03:40:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[14-Apr-2024 03:40:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[25-Jul-2024 04:21:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[25-Jul-2024 04:21:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[25-Jul-2024 04:21:38 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[25-Jul-2024 04:21:48 Europe/Copenhagen] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 29
+[25-Jul-2024 04:21:48 Europe/Copenhagen] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 54
+[25-Jul-2024 04:21:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[25-Jul-2024 04:22:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[25-Jul-2024 04:23:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[25-Jul-2024 04:24:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[20-Aug-2024 18:03:45 Europe/Copenhagen] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 29
+[20-Aug-2024 18:03:45 Europe/Copenhagen] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 54
+[20-Aug-2024 18:03:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[20-Aug-2024 19:17:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[21-Aug-2024 00:50:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[21-Aug-2024 05:11:41 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[21-Aug-2024 06:39:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[21-Aug-2024 06:40:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[21-Aug-2024 06:49:56 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[25-Aug-2024 00:58:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[25-Aug-2024 01:50:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[25-Aug-2024 14:16:41 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[25-Aug-2024 20:12:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[26-Aug-2024 17:18:55 Europe/Copenhagen] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 29
+[26-Aug-2024 17:18:55 Europe/Copenhagen] PHP Deprecated:  Array and string offset access syntax with curly braces is deprecated in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 54
+[26-Aug-2024 17:18:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[27-Aug-2024 02:35:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[27-Aug-2024 14:04:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[15-Sep-2024 21:27:04 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[15-Sep-2024 21:31:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[15-Sep-2024 21:40:44 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[15-Sep-2024 22:35:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[15-Sep-2024 23:23:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[16-Sep-2024 22:36:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[17-Sep-2024 04:31:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[28-Sep-2024 16:12:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[30-Sep-2024 06:02:00 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[30-Sep-2024 10:15:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[30-Sep-2024 11:40:06 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[30-Sep-2024 12:30:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[30-Sep-2024 15:43:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[30-Sep-2024 16:13:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[30-Sep-2024 16:48:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[30-Sep-2024 20:18:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[30-Sep-2024 22:11:32 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[01-Oct-2024 05:10:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[02-Oct-2024 23:07:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[03-Oct-2024 01:47:39 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[03-Oct-2024 13:12:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[04-Oct-2024 10:48:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[04-Oct-2024 13:06:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[05-Oct-2024 04:13:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[10-Oct-2024 09:11:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[12-Oct-2024 23:55:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[13-Oct-2024 10:18:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[13-Oct-2024 14:12:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[13-Oct-2024 17:59:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[14-Oct-2024 03:23:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[17-Oct-2024 10:48:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[19-Oct-2024 21:15:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[20-Oct-2024 18:21:04 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[28-Oct-2024 19:56:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[03-Nov-2024 05:11:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[03-Nov-2024 05:19:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[03-Nov-2024 07:09:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[03-Nov-2024 07:48:19 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[03-Nov-2024 09:13:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[03-Nov-2024 11:48:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[03-Nov-2024 12:52:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[22-Nov-2024 01:36:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[22-Nov-2024 16:40:56 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[22-Nov-2024 16:45:18 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[22-Nov-2024 17:24:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[22-Nov-2024 19:25:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[24-Nov-2024 16:08:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[24-Nov-2024 23:23:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[25-Nov-2024 00:18:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[25-Nov-2024 13:13:08 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[25-Nov-2024 18:55:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[25-Nov-2024 19:54:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[26-Nov-2024 14:12:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[30-Nov-2024 11:28:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[30-Nov-2024 22:26:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[08-Dec-2024 21:45:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[08-Dec-2024 23:21:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[09-Dec-2024 00:43:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[09-Dec-2024 01:11:47 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[09-Dec-2024 02:06:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[09-Dec-2024 05:13:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[09-Dec-2024 07:24:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[05-Jan-2025 10:42:56 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[05-Jan-2025 12:48:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[05-Jan-2025 19:50:13 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[05-Jan-2025 19:56:56 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[05-Jan-2025 20:43:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[07-Jan-2025 03:07:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[07-Jan-2025 19:44:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[11-Jan-2025 03:03:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[11-Jan-2025 03:55:33 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[11-Jan-2025 06:25:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[11-Jan-2025 06:29:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[11-Jan-2025 07:50:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[11-Jan-2025 12:24:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[11-Jan-2025 13:54:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[14-Jan-2025 18:08:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[14-Jan-2025 22:35:01 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[14-Jan-2025 23:29:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[15-Jan-2025 04:07:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[15-Jan-2025 09:39:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[15-Jan-2025 16:06:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[07-Feb-2025 14:25:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[07-Feb-2025 19:38:47 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[12-Feb-2025 13:23:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[12-Feb-2025 13:46:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[12-Feb-2025 13:49:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[12-Feb-2025 17:57:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[12-Feb-2025 20:50:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[12-Feb-2025 23:33:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[19-Feb-2025 18:04:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[20-Feb-2025 17:10:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[22-Feb-2025 10:17:01 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[22-Feb-2025 14:37:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[22-Feb-2025 14:43:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[23-Feb-2025 14:47:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[23-Feb-2025 15:36:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[24-Feb-2025 23:23:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[26-Feb-2025 15:03:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[27-Feb-2025 12:33:37 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[27-Feb-2025 18:12:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[03-Mar-2025 03:26:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[03-Mar-2025 11:16:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[03-Mar-2025 20:52:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25
+[06-Mar-2025 08:58:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[06-Mar-2025 16:42:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[11-Mar-2025 12:07:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/send.php on line 9
+[11-Mar-2025 15:10:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/logout.php on line 25
+[11-Mar-2025 18:51:15 Europe/Copenhagen] PHP Fatal error:  Cannot declare class Error, because the name is already in use in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/error.php on line 11
+[11-Mar-2025 19:20:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/create.php on line 25
+[11-Mar-2025 21:31:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/verify.php on line 25
+[11-Mar-2025 22:56:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/home.php on line 9
+[11-Mar-2025 23:03:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/controllers/delete.php on line 25

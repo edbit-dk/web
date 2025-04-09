@@ -1,0 +1,8 @@
+[18-Sep-2020 00:26:47 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/marketing/affiliate.php on line 2
+[18-Sep-2020 00:26:55 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/marketing/contact.php on line 2
+[18-Sep-2020 00:27:02 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/marketing/coupon.php on line 2
+[18-Sep-2020 00:27:16 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/marketing/marketing.php on line 2
+[22-Feb-2021 09:55:24 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/marketing/affiliate.php on line 2
+[22-Feb-2021 09:55:50 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/marketing/contact.php on line 2
+[22-Feb-2021 09:56:01 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/marketing/coupon.php on line 2
+[22-Feb-2021 09:56:20 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/marketing/marketing.php on line 2

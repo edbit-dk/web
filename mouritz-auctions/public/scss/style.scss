@@ -1,0 +1,192 @@
+@import "base/_variables.scss";
+@import "base/_typography.scss";
+@import "base/_box_sizing.scss";
+@import "base/_tables.scss";
+
+/*
+
+MODULES
+
+
+ */
+@import "modules/_header.scss";
+@import "modules/_auctions.scss";
+@import "modules/_form.scss";
+@import "modules/_search.scss";
+@import "modules/_myAuctions.scss";
+
+
+::selection {
+	background: $baseColor !important;
+	color: #fff;
+	text-shadow: 2px 2px 10px rgba(000, 000, 000, .5);
+	padding: 3px;
+
+}
+::-moz-selection {
+	background: $baseColor !important;
+	color: #fff;
+	text-shadow: 2px 2px 10px rgba(000, 000, 000, .5);
+	padding: 3px;
+
+}
+
+* {
+	transition: all ease-in 0.2s;
+	outline: none;
+
+}
+
+body {
+	font-family: $open-sans;
+	-webkit-font-smoothing: antialiased !important;
+	text-shadow: 1px 1px 1px rgba(0,0,0,0.004);
+
+
+	height: 6000px;
+
+}
+
+a {
+	cursor: pointer;
+	color: #000;
+	text-decoration: none;
+	margin: {
+		bottom: 15px;
+
+	}
+	border: {
+		bottom: 1px solid;
+
+	}
+
+	&:hover {
+		padding: {
+			bottom: 2px;
+
+		}
+
+	}
+
+}
+
+.open-sans {
+	font-family: $open-sans;
+
+}
+
+.slabo {
+	font-family: $slabo;
+
+}
+
+.page-wrapper, .container {
+	max-width: 1100px;
+	margin: 0 auto;
+
+}
+
+th {
+	font-family: $slabo;
+	font-weight: 600;
+
+}
+
+$prePadding: 10px;
+$preBorder: 5px;
+pre {
+	max-width: 500px;
+	margin: 50px auto;
+	overflow: auto;
+	text-align: left;
+	padding: {
+		top: $prePadding;
+		bottom: $prePadding;
+		left: $prePadding;
+		right: $prePadding;
+
+	}
+
+	background: #ebebeb;
+	border: 1px solid #d3d3d3;
+	border-radius: $preBorder;
+
+}
+
+.heading {
+	font-family: $slabo;
+	margin: {
+		bottom: 20px;
+
+	}
+	letter-spacing: 1px;
+
+}
+
+.noLi {
+	list-style-type: none;
+
+}
+
+.center {
+	text-align: center;
+
+}
+
+img {
+	max-width: 100%;
+	height: auto;
+
+}
+
+.noMargin-bottom {
+	margin: {
+		bottom: 0;
+
+	}
+
+}
+
+
+
+#bxslider, #bxslider li {
+	margin: 0;
+
+}
+
+.white {
+	color: #fff;
+
+}
+
+.margin-top {
+	margin-top: attr(data-margin px);
+
+}
+
+table, th, td {
+	outline: none;
+	border: none;
+
+}
+
+th {
+	margin: {
+		left: 10px;
+
+	}
+
+}
+
+$boughtTextShadow: 2px 2px 2px rgba(000, 000, 000, .2);
+.bought {
+	color: red;
+	text-shadow: $boughtTextShadow;
+
+}
+
+.not-bought {
+	color: green;
+	text-shadow: $boughtTextShadow;
+
+}

@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 25-08-2014, 22:57:31
+    Author     : Webmaster
+*/
+
+root {  
+    display: block; 
+} 
+
+* { 
+    font-family: Tahoma; 
+    font-size: 14px; 
+} 
+
+.clear {clear: both;} 
+.container {text-align: center;} 
+
+.newuser { background-color: #f7f7f7; display: inline-block; padding: 12px; border-radius: 4px; border: solid 1px #dbdbdb; } 
+.newuser h1 {margin: 0px 0px 16px 0px; padding: 0px; font-size: 22px; font-weight: bold;} 
+.newuser label {float: left; clear: left; width:150px; display: inline-block; margin: 2px 0px 2px 0px; padding: 4px 0px 4px 0px; font-size: 16px; text-align: left;} 
+.newuser input[type=text],input[type=password],input[type=email], input[type=date] {float: left; width: 300px; border: solid 1px #dbdbdb;  margin: 2px 0px 2px 0px; padding: 4px; font-size: 16px;} 
+.newuser input[type=submit] {margin: 8px 0px 0px 150px; padding: 10px; width: 310px; font-size: 16px;}

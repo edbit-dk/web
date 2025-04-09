@@ -1,0 +1,61 @@
+@charset "utf-8";
+/* CSS Document */
+
+.menu-wrapper{
+	
+	max-width: 10%;
+	min-width: 175px;
+	height: auto;
+	
+	float: left;
+	
+	border: 1px solid #ccc;
+	
+}
+.menu-wrapper ul li ul li{ 
+    display: none;
+}
+
+.menu-wrapper ul li:nth-child(2):hover li{ 
+    display: block;
+}
+
+h1,h2,h3,p,a{
+	
+	font-family: sans-serif;
+	
+}
+
+p,a,a:visited{
+	
+	font-size: 14px;
+	
+	color: #000;
+	
+	text-decoration: none;
+	
+}
+
+a:hover{
+	
+	color: orange;
+	
+}
+
+
+h2{
+	
+	background: #ccc;
+	color: #fff;
+	
+	padding: 5px 0;
+	
+	font-size: 18px;
+	
+}
+
+.text-align{
+	
+	text-align: center;
+	
+}

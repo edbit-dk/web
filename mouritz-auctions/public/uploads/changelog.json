@@ -1,0 +1,1402 @@
+{
+
+"468953e": {
+ "commit": "468953e07679328c6a974c08a2027e7f13de9f67",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-29 13:33:26 +0100",
+ "message": "Merge remote-tracking branch 'origin/master'"
+},
+"ed7e071": {
+ "commit": "ed7e071942e94cec93b4746dd11ac0e3802cc0ea",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-29 13:32:41 +0100",
+ "message": "Mockup"
+},
+"e5b4e01": {
+ "commit": "e5b4e01fd1110c4190dbb400605ea6371e252e1c",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-29 13:11:48 +0100",
+ "message": "Add time event handler for auctions"
+},
+"d1c0e98": {
+ "commit": "d1c0e988438477013cd108b765fb267e10519e31",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-29 11:52:47 +0100",
+ "message": "Added Quote-system"
+},
+"1a313d0": {
+ "commit": "1a313d021008318d5e197f92216a8e3e11b1179b",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-29 11:01:08 +0100",
+ "message": "Added space between images in auctions"
+},
+"7760dc3": {
+ "commit": "7760dc366d8a58224ea10ddac174d7985533c8b5",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-29 10:56:06 +0100",
+ "message": "Merge remote-tracking branch 'origin/master'"
+},
+"44a069e": {
+ "commit": "44a069e84c074bc0d777833035be4912ed11b1d8",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-29 10:55:50 +0100",
+ "message": "Focus on highest bid"
+},
+"67ee12b": {
+ "commit": "67ee12bb2d4b9f1c8da6fa2691ff20a4529e7fcd",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-29 10:53:47 +0100",
+ "message": "Validation on comments"
+},
+"97048a8": {
+ "commit": "97048a8259df517d4a1cf67662970f28dfc488b5",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-29 10:23:28 +0100",
+ "message": "Join the dark side, we have the cookies - fixed"
+},
+"eb22581": {
+ "commit": "eb2258112ad9d1ddf84d7bfcb54830d50acbfc0a",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-29 10:17:39 +0100",
+ "message": "Updated a few styles"
+},
+"1afc685": {
+ "commit": "1afc6859264d9e7f06b7d14331cadbb5b6154e42",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-29 08:46:51 +0100",
+ "message": "Removed a single empty line"
+},
+"901c2db": {
+ "commit": "901c2db1dde36efb05b9202207cc64cca0ed55a2",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-29 08:46:00 +0100",
+ "message": "Merge remote-tracking branch 'origin/master'"
+},
+"5821bd1": {
+ "commit": "5821bd1e8f2d35b5414ab8303800c6b7621051d9",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-29 08:45:03 +0100",
+ "message": "Revert Updated auctions page"
+},
+"832c6f7": {
+ "commit": "832c6f74f72a38dbb1eb1594c06a2f64158588bf",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-29 08:43:18 +0100",
+ "message": "Updated auctions page"
+},
+"6bea803": {
+ "commit": "6bea80351d7bada7bd319868264925ed092c1d48",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-29 08:37:44 +0100",
+ "message": "Clean up more"
+},
+"68bb6fd": {
+ "commit": "68bb6fd37c04087fb8b944e409a160c530f88fe7",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-29 07:49:02 +0100",
+ "message": "Updated Changelog"
+},
+"1288efe": {
+ "commit": "1288efe78b6a6f349162c673d90a099aa2f61d78",
+ "author": "Peter Brinck <AC10@users.noreply.github.com>",
+ "date": "2015-01-29 07:44:36 +0100",
+ "message": "Update index.php"
+},
+"dc06531": {
+ "commit": "dc06531e826ddc0220859dfba56f62b976a29485",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-29 00:41:58 +0100",
+ "message": "Fix, fix, fixes...."
+},
+"b690722": {
+ "commit": "b690722d46da5df3237a7f81a07649ec2840ec65",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-29 00:39:11 +0100",
+ "message": "Controlpanel fixes"
+},
+"6740307": {
+ "commit": "6740307365eb2ff309559cf415517f8b793e1244",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-29 00:11:59 +0100",
+ "message": "Added changelog page - works"
+},
+"eac4bf6": {
+ "commit": "eac4bf66a0d19e2b69d87e70115c45fb0b84d978",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-28 23:50:54 +0100",
+ "message": "Added yoxview on gallery + some clean up"
+},
+"cf61f71": {
+ "commit": "cf61f7196dd55f1ccd23b7ae8a21666b9c60322e",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-28 16:21:13 +0100",
+ "message": "Fixed issues - added ssl"
+},
+"30495d5": {
+ "commit": "30495d515364e0f95d73acdce41b00094e94baa0",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-28 12:35:06 +0100",
+ "message": "More fixes"
+},
+"a333ef1": {
+ "commit": "a333ef132e4b1977d9635b5e996908e4b0c128d4",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-28 11:57:11 +0100",
+ "message": "Fixed issues"
+},
+"01a791d": {
+ "commit": "01a791d4352bbf4325acfd60da8ec5667163b78a",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-28 10:47:59 +0100",
+ "message": "Prepros Config"
+},
+"a83ab36": {
+ "commit": "a83ab36de43f83087101cb4165396ee38a236d96",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-28 10:32:33 +0100",
+ "message": "CHangelog Stuff"
+},
+"34810be": {
+ "commit": "34810be829a6bf447d93113321133f8d1dcc9c42",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-28 10:06:21 +0100",
+ "message": "Changelog"
+},
+"957e2cc": {
+ "commit": "957e2cc0c423f22ee6aa5e7f538769e3e4abd57f",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-28 09:50:49 +0100",
+ "message": "User details on auctions"
+},
+"1854cf7": {
+ "commit": "1854cf7e6c9f9607128a6c1dc0cef7a79f5199d6",
+ "author": "Nicolai Larsen <me@nllarsen.info>",
+ "date": "2015-01-28 09:44:19 +0100",
+ "message": "search suggestions"
+},
+"b2696ca": {
+ "commit": "b2696ca0d1827f8cec1519499b3d6a6712158568",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-28 09:23:27 +0100",
+ "message": "Save input works"
+},
+"0c3e896": {
+ "commit": "0c3e8964ec27d5cd2118e310f87e8e367bc22cc7",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-28 08:57:22 +0100",
+ "message": "Metal Muff auction image"
+},
+"8ecf811": {
+ "commit": "8ecf81150668839ccb69b0af6813eb443d9d3c3c",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-28 08:57:13 +0100",
+ "message": "Revert Metal Muff auction image"
+},
+"fae5b3c": {
+ "commit": "fae5b3c026bed4fee1eb5da26ead14f69fba98aa",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-28 08:57:03 +0100",
+ "message": "Metal Muff auction image"
+},
+"baca79f": {
+ "commit": "baca79f74ca2636d24eed563bfb2ad56d15edfcd",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-27 15:27:40 +0100",
+ "message": "File validation"
+},
+"7a02a70": {
+ "commit": "7a02a70a3640ac7f4d27f613b6ae5a08ad8988f9",
+ "author": "Nicolai Larsen <me@nllarsen.info>",
+ "date": "2015-01-27 14:37:52 +0100",
+ "message": "Merge remote-tracking branch 'origin/master'"
+},
+"4a3df07": {
+ "commit": "4a3df07708018cac08547fa6633845fe91801f5e",
+ "author": "Nicolai Larsen <me@nllarsen.info>",
+ "date": "2015-01-27 14:36:21 +0100",
+ "message": "action end stuff"
+},
+"d748a4f": {
+ "commit": "d748a4f9094be621fc6ebe3b28236438d904420c",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-27 14:23:57 +0100",
+ "message": "Merge branch 'master' of https://github.com/AC10/mouritz-com"
+},
+"d44244d": {
+ "commit": "d44244dc03520d546291925ad94f311a1917c5df",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-27 14:23:31 +0100",
+ "message": "Merge remote-tracking branch 'origin/master'"
+},
+"5961658": {
+ "commit": "5961658a0c6e91233e34da933ccd6438ce9c5812",
+ "author": "Nicolai Larsen <me@nllarsen.info>",
+ "date": "2015-01-27 14:23:19 +0100",
+ "message": "file defined"
+},
+"15e7d3c": {
+ "commit": "15e7d3ceaa36358ee8a4f4737de5dc2fdaf5a2bb",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-27 14:18:36 +0100",
+ "message": "Finetuning"
+},
+"8033447": {
+ "commit": "803344742e0ebe6538dd886a691038ada5d0fbc0",
+ "author": "Nicolai Larsen <me@nllarsen.info>",
+ "date": "2015-01-27 14:12:57 +0100",
+ "message": "validatiom"
+},
+"f4e4ec4": {
+ "commit": "f4e4ec4bdfde567c0384212c6c1e351f06e1f2da",
+ "author": "Nicolai Larsen <me@nllarsen.info>",
+ "date": "2015-01-27 13:59:20 +0100",
+ "message": "More validation"
+},
+"a0bf5df": {
+ "commit": "a0bf5dfd71eb7c65f533242946ddcf4582f174a6",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-27 13:41:16 +0100",
+ "message": "More changes"
+},
+"d8a9b67": {
+ "commit": "d8a9b67ad4e0d3c7761872c24f1abde4513ecfe2",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-27 12:51:21 +0100",
+ "message": "Merge remote-tracking branch 'origin/master'"
+},
+"9b508d1": {
+ "commit": "9b508d1900cc11afdf52e170c642014f9e7e88fb",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-27 12:48:29 +0100",
+ "message": "Changes"
+},
+"2fed2fc": {
+ "commit": "2fed2fcebfd3f81e34c243f1c89d4ab3b0e3858a",
+ "author": "Nicolai Larsen <me@nllarsen.info>",
+ "date": "2015-01-27 12:44:09 +0100",
+ "message": "delete prompt for stuff"
+},
+"a024aee": {
+ "commit": "a024aeea8e0d4875bbd2d0f0afc8be3758cb1a3c",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-27 11:04:54 +0100",
+ "message": "Public user details"
+},
+"37fb563": {
+ "commit": "37fb563e1cdca7db59a0baebcc8e0d89941e618d",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-27 09:45:28 +0100",
+ "message": "Changes"
+},
+"ce5718f": {
+ "commit": "ce5718fe36903e8569dbed5382ed9fe6f942f5a9",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-27 09:33:48 +0100",
+ "message": "More styling"
+},
+"b73464f": {
+ "commit": "b73464febda31cb09cebfad9684ff05baeeceaba",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-27 07:51:29 +0100",
+ "message": "Detail Auction"
+},
+"10c0276": {
+ "commit": "10c0276aa44eac10ebe02cb9c712745256a73c1b",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-27 00:35:28 +0100",
+ "message": "Added caching and other security changes"
+},
+"183d019": {
+ "commit": "183d0197fb56dbc6211719fcd01d590395264b71",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-26 19:27:34 +0100",
+ "message": "Added update link to account/auctions"
+},
+"f6a329d": {
+ "commit": "f6a329db79248ed369e322bfaf28c3ba5c303b71",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-26 12:33:50 +0100",
+ "message": "Backend DONE! (still need work on admin though...)"
+},
+"2d3e2ab": {
+ "commit": "2d3e2abb185411ab41a4c2c1918aa135b6c3f812",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-26 12:27:51 +0100",
+ "message": "Prepros...."
+},
+"7d12aa4": {
+ "commit": "7d12aa471841a51d03f572b7c53ec48f7fd5b962",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-26 12:04:16 +0100",
+ "message": "Trying Countdown"
+},
+"a3b2242": {
+ "commit": "a3b2242441a7f3e5897e7b1c59bde40b90c519d8",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-26 11:05:11 +0100",
+ "message": "Auction system working!"
+},
+"924692c": {
+ "commit": "924692c437db2fe9562744a9ad7a594d887649bd",
+ "author": "Jannik Viig <jannikviig@gmail.com>",
+ "date": "2015-01-26 09:25:42 +0100",
+ "message": "Changes were made"
+},
+"0d9ddc3": {
+ "commit": "0d9ddc31fae0170d50cb74e0e887b10906323d07",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-26 09:08:07 +0100",
+ "message": "Fixed Auctions box"
+},
+"e4187f1": {
+ "commit": "e4187f1803b88122e807543a826fa7373335f186",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-26 08:53:30 +0100",
+ "message": "Added missing images"
+},
+"f9327f2": {
+ "commit": "f9327f2a3679a4fc9373e19fd4e80067a35dff3a",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-26 08:50:23 +0100",
+ "message": "Updated no-image"
+},
+"0fd76a2": {
+ "commit": "0fd76a2cad95fb67973263955861132f862caa5d",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-26 08:37:32 +0100",
+ "message": "Updated My Auctions"
+},
+"1aaa35d": {
+ "commit": "1aaa35daeb994d6e5f585c345dcac82d11acc2c4",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-26 07:56:08 +0100",
+ "message": "Added current ChangeLog"
+},
+"c774922": {
+ "commit": "c7749229152a9489848f0c0cc90a88f2f5ca70a2",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-25 23:21:27 +0100",
+ "message": "Added bid options"
+},
+"99bb39b": {
+ "commit": "99bb39b5b0f5e16b9fa36bb20bbf8a8e230a7254",
+ "author": "Peter Brinck <AC10@users.noreply.github.com>",
+ "date": "2015-01-25 20:23:46 +0100",
+ "message": "Updated bxSlider options"
+},
+"adfb1bb": {
+ "commit": "adfb1bba78d9459e9041350a8bef65102cb2989b",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-25 16:17:31 +0100",
+ "message": "More functions working"
+},
+"f5a50bc": {
+ "commit": "f5a50bc47b1931bfe3f84e1b0e15eb1f13554f01",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-25 03:33:53 +0100",
+ "message": "Fixed missing links"
+},
+"886165a": {
+ "commit": "886165a108a72603e78e1730088353a10042a320",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-25 03:19:44 +0100",
+ "message": "Auctions sites working!"
+},
+"6469d8c": {
+ "commit": "6469d8c11c3648dfbfd3e72e7b56ba7c7e9b4cd7",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-25 02:21:07 +0100",
+ "message": "Changed a lot..."
+},
+"c4c3bf4": {
+ "commit": "c4c3bf4d6cb9c22594292d7b52c6d67360bad572",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-24 15:00:55 +0100",
+ "message": "Search with categories"
+},
+"3874c2b": {
+ "commit": "3874c2becb1e47bdeeab23fc994c91d2c7d65964",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-24 01:28:19 +0100",
+ "message": "Create function fully functional"
+},
+"16776fe": {
+ "commit": "16776fe89a43e85588c17129c359988e1d99db56",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-24 01:09:39 +0100",
+ "message": "Fixed more things"
+},
+"9e3f793": {
+ "commit": "9e3f793007875d7a51364739e46f4236518a9090",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-24 00:52:45 +0100",
+ "message": "Details working"
+},
+"e0da140": {
+ "commit": "e0da1401531842ddd36f6b1a09e26cf926cf175c",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-23 22:53:04 +0100",
+ "message": "Added global header and footer + some fixes"
+},
+"0ed7e44": {
+ "commit": "0ed7e44e6fe606d8c9cc9a1839db28c5f123f7f4",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-23 17:41:01 +0100",
+ "message": "Fixed search function"
+},
+"6166626": {
+ "commit": "616662626e8ba1cef13477b7723939c365497749",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-23 12:18:41 +0100",
+ "message": "Removed weird language file with a typo"
+},
+"e2308e5": {
+ "commit": "e2308e58de48c9417dba80d1f8e8d39a88fd9be5",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-23 12:09:32 +0100",
+ "message": "Still not working... Stupid loop"
+},
+"9485548": {
+ "commit": "9485548e568e0798883585d841d1b4235926e129",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-23 12:05:40 +0100",
+ "message": "Loop not working... Yet"
+},
+"da892eb": {
+ "commit": "da892eb066493916c3e6a787879fea60b71cb9e2",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-23 11:53:32 +0100",
+ "message": "Slider added on frontpage"
+},
+"20e428b": {
+ "commit": "20e428b12de3b97978deae381aa888c1cfd01302",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-23 10:58:31 +0100",
+ "message": "Trying out diff. countdowns"
+},
+"431335a": {
+ "commit": "431335a2e62a541e381d8718cded3b45b2a5c2b3",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-22 15:27:16 +0100",
+ "message": "Stupid prepros...."
+},
+"d7d4db6": {
+ "commit": "d7d4db6cb2f4e55673cc1ad19ab836017d1c2370",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-22 14:58:42 +0100",
+ "message": "Trying out diff. countdowns"
+},
+"3c9ba8c": {
+ "commit": "3c9ba8c622f244a55baa431d0547c10bbac40506",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-22 14:20:40 +0100",
+ "message": "DB changes"
+},
+"0074a77": {
+ "commit": "0074a7773138cd291573e62b8ec55ae4a7e36d1b",
+ "author": "Nicolai Larsen <me@nllarsen.info>",
+ "date": "2015-01-22 14:19:32 +0100",
+ "message": "ignore thumb.db"
+},
+"4038b39": {
+ "commit": "4038b39523b425cb1597a42c575ee7b2d1a8a6b5",
+ "author": "Nicolai Larsen <me@nllarsen.info>",
+ "date": "2015-01-22 14:17:59 +0100",
+ "message": "Auction updates/create"
+},
+"c723aae": {
+ "commit": "c723aaeb72ac01fd6b7f61c672c6be7a647275cf",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-22 13:31:29 +0100",
+ "message": "Updated form styling"
+},
+"aa53e4f": {
+ "commit": "aa53e4f6b72d2a869c0047cc8f2b6940901f8f05",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-22 13:30:42 +0100",
+ "message": "Merge remote-tracking branch 'origin/master'"
+},
+"a449dc4": {
+ "commit": "a449dc49c7d8d8ee5a9564d00c97a90aef37f51f",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-22 13:30:28 +0100",
+ "message": "Updated something.."
+},
+"0e2ba89": {
+ "commit": "0e2ba89bd9f781aebe7acb392f78c9d16b49a1ba",
+ "author": "Nicolai Larsen <me@nllarsen.info>",
+ "date": "2015-01-22 13:19:10 +0100",
+ "message": "Password update"
+},
+"0a12599": {
+ "commit": "0a1259943c4a229c471eb1a5ca3acca619d650dc",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-22 11:57:45 +0100",
+ "message": "Updated styles"
+},
+"6898844": {
+ "commit": "6898844b81812290da7f3988033a1c11ecd9a585",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-22 11:56:31 +0100",
+ "message": "Preprox CFG...."
+},
+"b7ccb7f": {
+ "commit": "b7ccb7fbac7035fc842e8c0750ad4f3329826522",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-22 11:56:08 +0100",
+ "message": "Merge branch 'master' of https://github.com/AC10/mouritz-com"
+},
+"bd34d33": {
+ "commit": "bd34d33c8cef83dd449fee979a8dbd91a5bb160e",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-22 11:55:54 +0100",
+ "message": "SOmething"
+},
+"ffbeac7": {
+ "commit": "ffbeac7c99fbdcb3c46e324a55db229dc2a31196",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-22 11:55:18 +0100",
+ "message": "Added search field"
+},
+"77c295c": {
+ "commit": "77c295c1668c3a3f47a126e02374eae87783e35c",
+ "author": "Jannik Viig <jannikviig@gmail.com>",
+ "date": "2015-01-22 11:34:27 +0100",
+ "message": "Minor Changes"
+},
+"fa6c3ca": {
+ "commit": "fa6c3cadd1755b13afb7a5768bf31c3c600aa51d",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-22 10:20:11 +0100",
+ "message": "Updated settings page"
+},
+"b10c180": {
+ "commit": "b10c180eea19022953c2147207cce41070fe717c",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-22 10:15:00 +0100",
+ "message": "Updated something... I can't remember"
+},
+"7bfe852": {
+ "commit": "7bfe85297b95184eee1e9a379c03faa22a53fc70",
+ "author": "Nicolai Larsen <me@nllarsen.info>",
+ "date": "2015-01-22 10:05:43 +0100",
+ "message": "stuff!"
+},
+"fb18d6a": {
+ "commit": "fb18d6aeb41c23b46db1e8eb2390c0e85772e9fa",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-22 09:08:21 +0100",
+ "message": "Updated logo to support more languages"
+},
+"8046b02": {
+ "commit": "8046b020b546ea83b969f68f47e73dac1f552bac",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-22 08:32:36 +0100",
+ "message": "Updated form styling"
+},
+"f439d06": {
+ "commit": "f439d0662302b33fc00f8d87973ab79ef8c337f2",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-21 17:45:38 +0100",
+ "message": "Updated the images in auctions"
+},
+"7b1a492": {
+ "commit": "7b1a4920dbc1e95ca8a1e05fc3de436ff549efe4",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-21 17:37:19 +0100",
+ "message": "The Countdown Update"
+},
+"881ee0b": {
+ "commit": "881ee0bf9593cd15b8dc755821dba4a73deb996e",
+ "author": "Jannik Viig <jannikviig@gmail.com>",
+ "date": "2015-01-21 12:44:34 +0100",
+ "message": "Cleaning Stuff"
+},
+"a3858de": {
+ "commit": "a3858de0db6118e27e5a3329f09f78bf7d818cd3",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-21 12:43:35 +0100",
+ "message": "Merge branch 'master' of https://github.com/AC10/mouritz-com"
+},
+"45da222": {
+ "commit": "45da22220bcfabe12034a243ea99bd60573c2376",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-21 12:43:26 +0100",
+ "message": "Merge remote-tracking branch 'origin/master'"
+},
+"2392bcd": {
+ "commit": "2392bcd53b80234f219f368fafb4fe9091122e91",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-21 12:42:57 +0100",
+ "message": "Removed a single empty line in profile.php"
+},
+"8f18192": {
+ "commit": "8f18192d5a5b7968004cda4ef506c3002f30554a",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-21 12:39:30 +0100",
+ "message": "Changes"
+},
+"dff2d47": {
+ "commit": "dff2d47be1515220a5ac617c74092c37624587df",
+ "author": "Nicolai Larsen <me@nllarsen.info>",
+ "date": "2015-01-21 12:31:47 +0100",
+ "message": "Profile updating and validating"
+},
+"a79cadb": {
+ "commit": "a79cadbd4641bb9fe49f02f1fb1cccb4225c34a7",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-21 12:24:19 +0100",
+ "message": "Updated .gitignore"
+},
+"f621490": {
+ "commit": "f6214905ace303094fbde368ef979f6a8374beb7",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-21 12:23:04 +0100",
+ "message": "Added <a> tag to logo"
+},
+"272819a": {
+ "commit": "272819a77dd57c46fb3eb7bc6fd31e4a6580f92b",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-21 11:32:03 +0100",
+ "message": "FIX TO AL INPUTS!!!"
+},
+"098bd26": {
+ "commit": "098bd26ee1f8359e71441dc9f71ffd3d0e9399e1",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-21 11:31:28 +0100",
+ "message": "Updated something... IDK... Figure it out"
+},
+"b6f86cd": {
+ "commit": "b6f86cd52d03d8d5ca9f0862165f2f9c0567876f",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-21 11:28:54 +0100",
+ "message": "Merge remote-tracking branch 'origin/master'"
+},
+"df8366b": {
+ "commit": "df8366b7ca0ba307c31bc79163c16713123778d2",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-21 11:28:38 +0100",
+ "message": "Updated the auctions site, and default <a> tags"
+},
+"41acf94": {
+ "commit": "41acf94e9abd6784f75ca5c8f064dd0a5f20a8f4",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-21 11:25:27 +0100",
+ "message": "Fix to validatemodel"
+},
+"c1577ea": {
+ "commit": "c1577eae36d7e2b8858ca7729b34f0d1af6fe5a4",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-21 11:22:43 +0100",
+ "message": "input class changes"
+},
+"6a486c0": {
+ "commit": "6a486c048d0e8ef61c6f52aca673130feb3cd9be",
+ "author": "Nicolai Larsen <me@nllarsen.info>",
+ "date": "2015-01-21 11:21:07 +0100",
+ "message": "Validation"
+},
+"4c73801": {
+ "commit": "4c73801df60437674ff2cb80d0ef87088790c79f",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-21 11:07:50 +0100",
+ "message": "Updated auctions styling"
+},
+"f918de5": {
+ "commit": "f918de59cb77d1783e22c76e8b97744d80686e84",
+ "author": "Nicolai Larsen <me@nllarsen.info>",
+ "date": "2015-01-21 10:56:01 +0100",
+ "message": "Dia update and registration validation"
+},
+"783a7cb": {
+ "commit": "783a7cbd18d662e5539934e088aa5e361e869f59",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-21 10:55:41 +0100",
+ "message": "Merge remote-tracking branch 'origin/master'"
+},
+"e9dac0f": {
+ "commit": "e9dac0f03ea28ff13f05c60d2767aed2689b1c2d",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-21 10:55:28 +0100",
+ "message": "Updated Input.php and some styling"
+},
+"c85abc9": {
+ "commit": "c85abc997e8e65e0c7f1f5e587b066dba01b386a",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-21 10:45:51 +0100",
+ "message": "Changes"
+},
+"3c7497d": {
+ "commit": "3c7497dab0d7e9f59df86c56e3bc95441c999ece",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-21 10:27:32 +0100",
+ "message": "Menu fixed"
+},
+"9ad8ec0": {
+ "commit": "9ad8ec04098dad680e7849e022edf6e211437395",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-21 10:25:22 +0100",
+ "message": "A few updates for the auctions page"
+},
+"f6463a6": {
+ "commit": "f6463a6ea4789f5605e10a25af935aaa45914fed",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-21 10:10:52 +0100",
+ "message": "Updated auctions page"
+},
+"147c60b": {
+ "commit": "147c60b4cfc03a1333508b1753618a5771e708ce",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-21 09:16:36 +0100",
+ "message": "Single CSS update"
+},
+"119ff81": {
+ "commit": "119ff81dc99c9d26cf89baafe1be86e2d2a9578d",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-21 09:04:52 +0100",
+ "message": "Responsive images <3"
+},
+"a0d251a": {
+ "commit": "a0d251a8446cd6626cec646cb7fdf3a32bd52263",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-21 09:02:12 +0100",
+ "message": "Final logo update"
+},
+"dcc07ac": {
+ "commit": "dcc07ac6ad32ee6d45515e7f0b7d8123162a9100",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-21 08:59:28 +0100",
+ "message": "Optimized logo"
+},
+"ccfac03": {
+ "commit": "ccfac033de46e52aac92a82b5e4ab8ff5e10b643",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-21 08:57:57 +0100",
+ "message": "Logo, now with slogan"
+},
+"76045f1": {
+ "commit": "76045f14fa7534e8983e4a26a5787d142c3b4763",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-21 08:48:37 +0100",
+ "message": "The Perfect Logo"
+},
+"e58c39b": {
+ "commit": "e58c39b253851d22e09604c8eb9d6eb5c2fe0730",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-21 08:29:46 +0100",
+ "message": "Shitty Prepros CFG...."
+},
+"76ce130": {
+ "commit": "76ce13070d37f44b1a30d2bdf58ec112f5de87d3",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-21 01:21:46 +0100",
+ "message": "Deleted js file (moved to app.js)"
+},
+"8c60244": {
+ "commit": "8c60244c4516f05c4f5b01edba111a6a94950f59",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-21 01:18:12 +0100",
+ "message": "Updated account pages, header and footer"
+},
+"a4bd64d": {
+ "commit": "a4bd64d5c6845179ca01c295ded92c6a49c7c8f8",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-20 18:57:35 +0100",
+ "message": "Updated controller w.m."
+},
+"82aaa69": {
+ "commit": "82aaa69eb65f6ce5cd4b2f7c4b0798b38af85f4e",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-20 18:39:29 +0100",
+ "message": "SQL changes"
+},
+"6186230": {
+ "commit": "6186230c16fce878dae925ea274cbf3571cb7379",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-20 15:32:26 +0100",
+ "message": "More changes"
+},
+"86d0f80": {
+ "commit": "86d0f8096419c12ac6b25256e5f74fafcb275ee2",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 15:26:14 +0100",
+ "message": "Even BETTER logo !!!"
+},
+"d772dde": {
+ "commit": "d772dde1f0db9c41e79c221d038d82648f3fbbba",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 15:21:12 +0100",
+ "message": "Better logo"
+},
+"a3e833d": {
+ "commit": "a3e833d0c62c1167e903a880171dd6222ccf0c14",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 15:14:27 +0100",
+ "message": "Merge remote-tracking branch 'origin/master'"
+},
+"92e86c1": {
+ "commit": "92e86c1b2427289e7cdb520db6f71c069114aac4",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 15:14:14 +0100",
+ "message": "Added logo"
+},
+"99499ec": {
+ "commit": "99499ec4c450d8fc619971a39e82dd21d1ccfa03",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-20 14:49:37 +0100",
+ "message": "Account changes"
+},
+"9b956c1": {
+ "commit": "9b956c16116f90f82c168c073d7f2d08f7dead3d",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 14:41:47 +0100",
+ "message": "Updated profile pages for admins"
+},
+"ef47056": {
+ "commit": "ef47056b8d5e74348e5741a99ba0a9e105b93ce3",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-20 14:39:38 +0100",
+ "message": "Changes again"
+},
+"6ae500d": {
+ "commit": "6ae500d5c13edb1083c22d97060158cf4015fd62",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 14:34:38 +0100",
+ "message": "Updated profile pages, once again"
+},
+"3963df3": {
+ "commit": "3963df3520ed5a27833d5e4efa343c9851eb4a68",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 14:16:07 +0100",
+ "message": "Updated account pages, AGAIN, Thomas!!!"
+},
+"503324c": {
+ "commit": "503324cf1a455d7a5174b1d59244bbfb690fdc6f",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 14:11:00 +0100",
+ "message": "Updated account pages"
+},
+"5a09fbf": {
+ "commit": "5a09fbfdadd3d6e2d9a9abb4eae48fe4214fd3d9",
+ "author": "Jannik Viig <jannikviig@gmail.com>",
+ "date": "2015-01-20 14:07:45 +0100",
+ "message": "Updated <a> dansk til engelsk"
+},
+"c5eaba2": {
+ "commit": "c5eaba22d4228bc7720613b08177d96dd50917f5",
+ "author": "Jannik Viig <jannikviig@gmail.com>",
+ "date": "2015-01-20 14:04:46 +0100",
+ "message": "Updated register"
+},
+"b388d8e": {
+ "commit": "b388d8e2d7c7faeda5bd260f35d9f338464bf534",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 13:54:22 +0100",
+ "message": "Updated font smoothing"
+},
+"7ebae55": {
+ "commit": "7ebae55d93b1e80831189a4e1949a3386a0bfd0f",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 13:50:23 +0100",
+ "message": "Added a bit of letter-spacing"
+},
+"c6816be": {
+ "commit": "c6816befe2d0fa22a3d54e3a4b95effac2c33e2d",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 13:44:32 +0100",
+ "message": "Y U DO DIS?!"
+},
+"39b5297": {
+ "commit": "39b529748b8a073b3d2c4f28fcccd05d2ca31afc",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 13:44:00 +0100",
+ "message": "Updated heading style"
+},
+"70952ca": {
+ "commit": "70952cab01bb6e5988e315cb5a1e81615a4bb11b",
+ "author": "Jannik Viig <jannikviig@gmail.com>",
+ "date": "2015-01-20 13:42:17 +0100",
+ "message": "Updated lg-btn"
+},
+"82a965a": {
+ "commit": "82a965a9abae93a1ff87f954b64c36e86ae64d29",
+ "author": "Jannik Viig <jannikviig@gmail.com>",
+ "date": "2015-01-20 13:40:53 +0100",
+ "message": "Updated shitty outline"
+},
+"ab1c91b": {
+ "commit": "ab1c91b89d51a142176351b36d1de34fb5f10170",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 13:38:45 +0100",
+ "message": "Updated something.. IDK"
+},
+"1b5188c": {
+ "commit": "1b5188c5dac9615eaa52931589cb227b7a070934",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 13:36:09 +0100",
+ "message": "Shitty prepros config that .gitignore doesn't ignore"
+},
+"6161d09": {
+ "commit": "6161d093594639c08c306cec66d398111cc12ffe",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 13:35:38 +0100",
+ "message": "Merge branch 'master' of https://github.com/AC10/mouritz-com"
+},
+"6560515": {
+ "commit": "65605155ee9ec7fdf8b7f19fca622c56c74c46e6",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 13:35:30 +0100",
+ "message": "Merge remote-tracking branch 'origin/master'"
+},
+"070b4eb": {
+ "commit": "070b4eb3f19b858247c9daac7e1ae0c88642f8a1",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 13:34:51 +0100",
+ "message": "Stuff"
+},
+"6b9d275": {
+ "commit": "6b9d27506bc7500bda4d4bd4512bbbe0074f5da7",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-20 13:27:48 +0100",
+ "message": "Updated files"
+},
+"fc4e966": {
+ "commit": "fc4e9661ab9e73256209145725d30f555c96a0ec",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 13:30:54 +0100",
+ "message": "No mo' shitty Chrome outline"
+},
+"5abb0e8": {
+ "commit": "5abb0e82f1ac5b6b31589e319764dd9ad01ee6a7",
+ "author": "Jannik Viig <jannikviig@gmail.com>",
+ "date": "2015-01-20 13:28:22 +0100",
+ "message": "Merge remote-tracking branch 'origin/master'"
+},
+"3d96dab": {
+ "commit": "3d96dabe426dd34628bb74e058b66365e3f01a74",
+ "author": "Jannik Viig <jannikviig@gmail.com>",
+ "date": "2015-01-20 13:28:09 +0100",
+ "message": "Updated login btn"
+},
+"2bbe800": {
+ "commit": "2bbe800c6b0ccd998eb2356de18ac1d8ceac558b",
+ "author": "Peter Brinck <AC10@users.noreply.github.com>",
+ "date": "2015-01-20 13:25:54 +0100",
+ "message": "Update .gitignore"
+},
+"10a73a8": {
+ "commit": "10a73a8c45c5ef5b979780561d20cb89fa69153f",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 13:23:38 +0100",
+ "message": "Updated login button styling"
+},
+"7748b49": {
+ "commit": "7748b49db8b8ead51c74d0d22da5e1a3c7a1cf64",
+ "author": "Nicolai Larsen <me@nllarsen.info>",
+ "date": "2015-01-20 13:18:09 +0100",
+ "message": "delete functions"
+},
+"50b69b5": {
+ "commit": "50b69b5cbf0a5e10701b3f8b62cf1da4674e27c6",
+ "author": "Jannik Viig <jannikviig@gmail.com>",
+ "date": "2015-01-20 13:07:26 +0100",
+ "message": "Updated class"
+},
+"31ac8bb": {
+ "commit": "31ac8bb4564e9e2938e02d9e5ece99310213f74c",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-20 13:06:09 +0100",
+ "message": "Updated and new classes"
+},
+"d30cc21": {
+ "commit": "d30cc2175ffee603b6b6b8001358099f4c518f1b",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 13:05:09 +0100",
+ "message": "Updated validation library even more"
+},
+"53abba4": {
+ "commit": "53abba422dbded2790f5a870c0a42c6c6ad815c1",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 12:55:46 +0100",
+ "message": "Merge remote-tracking branch 'origin/master'"
+},
+"4ade8f7": {
+ "commit": "4ade8f76644082bd70717fd58c147a4fa2c7637f",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 12:55:31 +0100",
+ "message": "Updated validation library"
+},
+"bfb8cb1": {
+ "commit": "bfb8cb198f55443e2be1b54c9fe2ecb575ce6873",
+ "author": "Jannik Viig <jannikviig@gmail.com>",
+ "date": "2015-01-20 12:49:48 +0100",
+ "message": "Updated login.php"
+},
+"27ff410": {
+ "commit": "27ff4106c51408fda1796d68d2d70d7ff1c87f1a",
+ "author": "Jannik Viig <jannikviig@gmail.com>",
+ "date": "2015-01-20 12:35:49 +0100",
+ "message": "Updated login.php"
+},
+"7e69ce4": {
+ "commit": "7e69ce4e60816f69d6f9b668cfa8a984535de5c1",
+ "author": "Jannik Viig <jannikviig@gmail.com>",
+ "date": "2015-01-20 12:34:40 +0100",
+ "message": "Merge remote-tracking branch 'origin/master'"
+},
+"ec83c9c": {
+ "commit": "ec83c9c5fd4bd2291b10d3341a30e2f67b5a0913",
+ "author": "Jannik Viig <jannikviig@gmail.com>",
+ "date": "2015-01-20 12:34:10 +0100",
+ "message": "Updated login.php"
+},
+"8f35cc0": {
+ "commit": "8f35cc0afda4cf1624f014d1002fd1591241b5b8",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 12:32:33 +0100",
+ "message": "Updated a few default styles"
+},
+"f379311": {
+ "commit": "f3793114a130ee8944788e287fb439ff9d865f77",
+ "author": "Jannik Viig <jannikviig@gmail.com>",
+ "date": "2015-01-20 11:40:20 +0100",
+ "message": "Merge remote-tracking branch 'origin/master'"
+},
+"c4b5fdd": {
+ "commit": "c4b5fdd6931cebbfa153a105773eb3cc8a5282fa",
+ "author": "Jannik Viig <jannikviig@gmail.com>",
+ "date": "2015-01-20 11:40:07 +0100",
+ "message": "Updated login.php"
+},
+"82d658e": {
+ "commit": "82d658e54db12767ca850cc56631d08fdc81a48b",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 11:32:24 +0100",
+ "message": "Updated manu styling"
+},
+"66f2efb": {
+ "commit": "66f2efb199563c5a9704f249c20ca9e5448a293d",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 11:29:56 +0100",
+ "message": "Updated .gitignore"
+},
+"1453985": {
+ "commit": "1453985bc01ee2c2dfdd01f238b939d5061b1bbc",
+ "author": "Jannik Viig <jannikviig@gmail.com>",
+ "date": "2015-01-20 11:29:24 +0100",
+ "message": "Updated login.php"
+},
+"32fbd8d": {
+ "commit": "32fbd8d04fc767f81996563ec82c7ab35792971b",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 11:27:59 +0100",
+ "message": "Updated menu styling"
+},
+"de23b63": {
+ "commit": "de23b632d3cdbbb17bc4a967585ba8357111bc1f",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-20 11:25:02 +0100",
+ "message": "Added controllers"
+},
+"3e59cab": {
+ "commit": "3e59cabc2cebac66acceb5483de2ba3beaa88ad1",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 11:25:10 +0100",
+ "message": "More stuff"
+},
+"efb746e": {
+ "commit": "efb746e3af30c43f1290d3a187fe206b5618ba44",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 11:22:39 +0100",
+ "message": "Merge branch 'master' of https://github.com/AC10/mouritz-com"
+},
+"a232927": {
+ "commit": "a23292725b91f8cf31af66fa8b996381829b342b",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 11:22:29 +0100",
+ "message": "Updated gitignore"
+},
+"e4062c9": {
+ "commit": "e4062c9e7169ba8a43aaa5b5200d2fd9d901488f",
+ "author": "Jannik Viig <jannikviig@gmail.com>",
+ "date": "2015-01-20 11:21:21 +0100",
+ "message": "Updated login.php"
+},
+"b8bdfdd": {
+ "commit": "b8bdfdd494b39aac10352019596094e93cc4ff07",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 11:20:54 +0100",
+ "message": "Prepros Config"
+},
+"ba60146": {
+ "commit": "ba60146ad6903f64745cb5c64d2795bcb8121dca",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-20 11:20:27 +0100",
+ "message": "Changes"
+},
+"a7bfb95": {
+ "commit": "a7bfb95ba40a2f9f213a39892417ca434cada5b2",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-20 11:18:30 +0100",
+ "message": "Changes"
+},
+"bfed339": {
+ "commit": "bfed339337f471dd5111d3dd5c6891598c0bb2b0",
+ "author": "Jannik Viig <jannikviig@gmail.com>",
+ "date": "2015-01-20 11:13:58 +0100",
+ "message": "Merge remote-tracking branch 'origin/master'"
+},
+"6d2c807": {
+ "commit": "6d2c8074236ab796fe0648fd64a4bee509828820",
+ "author": "Jannik Viig <jannikviig@gmail.com>",
+ "date": "2015-01-20 11:13:43 +0100",
+ "message": "Updated login.php"
+},
+"145be38": {
+ "commit": "145be38ac79eb3828fca6db0c85778b87bca53c3",
+ "author": "Nicolai Larsen <me@nllarsen.info>",
+ "date": "2015-01-20 10:50:08 +0100",
+ "message": "Deleted ghost file"
+},
+"28892cd": {
+ "commit": "28892cd2bb605ec7c6fabdbaa0c5960f0cb17e7b",
+ "author": "Nicolai Larsen <me@nllarsen.info>",
+ "date": "2015-01-20 10:32:05 +0100",
+ "message": "Resources for auction countdown"
+},
+"f4f9700": {
+ "commit": "f4f970080e60c391b95edef1535d3688deedfec2",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 10:30:01 +0100",
+ "message": "Something more"
+},
+"2b8f61f": {
+ "commit": "2b8f61f6ef9efa5b8a48a98898d2c4b37c924347",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 10:29:18 +0100",
+ "message": "Merge remote-tracking branch 'origin/master'"
+},
+"8134b6b": {
+ "commit": "8134b6b4390e0357eceafca0bf5deb3004790032",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 10:28:59 +0100",
+ "message": "Something"
+},
+"8d7b115": {
+ "commit": "8d7b1153ce10fc010d1f97b624d2c287b2215340",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 10:26:39 +0100",
+ "message": "Updated SASS structure"
+},
+"3cbc45c": {
+ "commit": "3cbc45cb957471fd65276add1ddaa47ff67cecb0",
+ "author": "Jannik Viig <jannikviig@gmail.com>",
+ "date": "2015-01-20 10:26:08 +0100",
+ "message": "Updatet login.php"
+},
+"b757df2": {
+ "commit": "b757df29e64eea1034be89b03ce753ad83102fff",
+ "author": "Peter Brinck <AC10@users.noreply.github.com>",
+ "date": "2015-01-20 10:24:07 +0100",
+ "message": "Create LINKS.md"
+},
+"d872ef6": {
+ "commit": "d872ef6e1b538d9f98e186a28006c0366e2c93d2",
+ "author": "Nicolai Larsen <me@nllarsen.info>",
+ "date": "2015-01-20 10:16:54 +0100",
+ "message": "Dia update and controller delete"
+},
+"13aa71a": {
+ "commit": "13aa71a44b61cd8c4655907225dfb0e9c6d07673",
+ "author": "Jannik Viig <jannikviig@gmail.com>",
+ "date": "2015-01-20 10:09:52 +0100",
+ "message": "Updatet README.md"
+},
+"b44bc93": {
+ "commit": "b44bc93252588039e5c084aecc8e84c96e0cbfc9",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 09:43:34 +0100",
+ "message": "Updated menu styles"
+},
+"ae1d6c9": {
+ "commit": "ae1d6c9e62e145a882102f16ee59a702a6fd5ed3",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 09:36:56 +0100",
+ "message": "Updated stuff"
+},
+"68c313e": {
+ "commit": "68c313ec31674cab1cff6b3d241446fdd99ceaa8",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 09:27:38 +0100",
+ "message": "Updated a bunch of stuff"
+},
+"d50cb0a": {
+ "commit": "d50cb0a48702e34152a082ab307b18ac128d6af6",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 09:19:38 +0100",
+ "message": "Updated index.php and header.php"
+},
+"e53c6af": {
+ "commit": "e53c6af5213121f297b6123db0caffdc4a791f59",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-20 09:17:15 +0100",
+ "message": "Global DB access"
+},
+"e922a91": {
+ "commit": "e922a91d30b99a02e623dd2072bdf012531cf527",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 08:45:35 +0100",
+ "message": "No more red background"
+},
+"4cb6411": {
+ "commit": "4cb6411a005b39494925e26686a43b0cabf6babb",
+ "author": "Nicolai Larsen <me@nllarsen.info>",
+ "date": "2015-01-20 08:33:10 +0100",
+ "message": "Dia update"
+},
+"a8cf30e": {
+ "commit": "a8cf30e329c0e6f7eed9d43d954c1e0c221d6fa1",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 08:21:30 +0100",
+ "message": "Prepros Config"
+},
+"ec857ad": {
+ "commit": "ec857ad2de80e16ff49c5429817501dd3835ef71",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-20 08:19:58 +0100",
+ "message": "Added Font Awesome and Grid"
+},
+"060e4f1": {
+ "commit": "060e4f181b13c977654dc5af30b521c8f960b1c3",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-20 00:02:00 +0100",
+ "message": "Tables for mouritz-com"
+},
+"4e59f73": {
+ "commit": "4e59f7363393dceb65c3a879009ce06447b35bf6",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-19 23:52:34 +0100",
+ "message": "Cleaned up"
+},
+"d2fff57": {
+ "commit": "d2fff578bca38a9cc56105a1992ec465b4059a1d",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-19 21:37:25 +0100",
+ "message": "Updated classes"
+},
+"fb0867e": {
+ "commit": "fb0867e4e4b8c4d9e802b697e08cc25d8b12dec2",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-19 19:29:37 +0100",
+ "message": "Upload og cache folder"
+},
+"19c8a30": {
+ "commit": "19c8a30f575d6b66294bd289ffefbe739716645a",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-19 12:17:58 +0100",
+ "message": "Updated stuff"
+},
+"88b5f6e": {
+ "commit": "88b5f6e301428e1fd98b809923d1ea28383ca8fd",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-19 11:25:20 +0100",
+ "message": "Mockup updated"
+},
+"d526ffc": {
+ "commit": "d526ffc04af81cb19dbc9fa42c43954d87a94cdd",
+ "author": "Nicolai Larsen <me@nllarsen.info>",
+ "date": "2015-01-19 11:11:35 +0100",
+ "message": "Dia"
+},
+"76669f4": {
+ "commit": "76669f498b97ee185961bbf545ae9df0a6bc0cd6",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-19 11:02:14 +0100",
+ "message": "Updated stuff"
+},
+"67e991a": {
+ "commit": "67e991a2401a381dd760eb77d06730cdc975686b",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-19 10:44:39 +0100",
+ "message": "Updated mockup"
+},
+"55b6ac8": {
+ "commit": "55b6ac8a3d9f75927ccab15660e1ee82bc262491",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-19 10:41:22 +0100",
+ "message": "Merge remote-tracking branch 'origin/master'"
+},
+"a43087d": {
+ "commit": "a43087d463d33cc914f605c0806abc780aea9b6f",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-19 10:41:08 +0100",
+ "message": "Added a few styles"
+},
+"81fbd48": {
+ "commit": "81fbd482cb31c9d996cdb7806ae4b4015a45302d",
+ "author": "Peter Brinck <AC10@users.noreply.github.com>",
+ "date": "2015-01-19 10:40:53 +0100",
+ "message": "Create .htaccess"
+},
+"7b2f27a": {
+ "commit": "7b2f27a011c50734d8401e1b1673307f3a1ec233",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-19 10:27:21 +0100",
+ "message": "Added Scss and typography styles"
+},
+"ee5410b": {
+ "commit": "ee5410bed923271b01330cf0e72cf09f02a517d4",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-19 10:13:04 +0100",
+ "message": "Added MVC system"
+},
+"1886124": {
+ "commit": "18861244d124daabfc11b009c1adbd2aa4e2ff1c",
+ "author": "Peter Brinck <peter@ac10.dk>",
+ "date": "2015-01-19 10:06:20 +0100",
+ "message": "Deleted shit"
+},
+"d1ef7a5": {
+ "commit": "d1ef7a55768a930dd1b1a0dc66500c3cec879ccc",
+ "author": "Peter Brinck <AC10@users.noreply.github.com>",
+ "date": "2015-01-19 09:56:52 +0100",
+ "message": "Merge pull request #2 from FlamingOysterDK/master"
+},
+"254d954": {
+ "commit": "254d9544904c53c974765efaf5ccddf39e44a598",
+ "author": "Peter Brinck <AC10@users.noreply.github.com>",
+ "date": "2015-01-19 09:56:38 +0100",
+ "message": "Merge pull request #3 from thom855j/master"
+},
+"0fb49d4": {
+ "commit": "0fb49d4d0880dd36a1ab7808fd4926a462e7729c",
+ "author": "Nicolai Larsen <me@nllarsen.info>",
+ "date": "2015-01-19 09:36:06 +0100",
+ "message": "Test"
+},
+"6429778": {
+ "commit": "642977831206424b77ebca5b7f4edb6d12c3f944",
+ "author": "thom855j <thom855j@cvkweb.dk>",
+ "date": "2015-01-19 09:29:32 +0100",
+ "message": "test"
+},
+"c61e5d0": {
+ "commit": "c61e5d05a49d0da03aa82c627430c4990a12617f",
+ "author": "FlamingOysterDK <me@nllarsen.info>",
+ "date": "2015-01-19 09:05:07 +0100",
+ "message": "Update README.md"
+},
+"7a74f01": {
+ "commit": "7a74f01678633a08e61a0149d743eee438219a4d",
+ "author": "Peter Brinck <AC10@users.noreply.github.com>",
+ "date": "2015-01-19 08:55:51 +0100",
+ "message": "Update README.md"
+},
+"555da28": {
+ "commit": "555da28538cbe727cbeacac1e98cf2b113974015",
+ "author": "Peter Brinck <AC10@users.noreply.github.com>",
+ "date": "2015-01-19 08:46:41 +0100",
+ "message": "Initial commit"
+}
+
+}

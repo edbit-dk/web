@@ -1,0 +1,248 @@
+[20-Feb-2024 17:42:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'SCRUDInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php on line 10
+[20-Feb-2024 17:42:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Router' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php on line 9
+[20-Feb-2024 17:42:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'HTTPInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php on line 11
+[20-Feb-2024 18:04:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Router' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php on line 9
+[20-Feb-2024 18:04:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'HTTPInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php on line 11
+[20-Feb-2024 18:04:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'SCRUDInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php on line 10
+[23-Jul-2024 01:14:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Router' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php on line 9
+[23-Jul-2024 01:14:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'SCRUDInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php on line 10
+[23-Jul-2024 01:14:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'HTTPInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php on line 11
+[18-Aug-2024 05:35:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Router' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php on line 9
+[18-Aug-2024 07:16:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'HTTPInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php on line 11
+[18-Aug-2024 14:07:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'SCRUDInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php on line 10
+[21-Aug-2024 17:07:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'HTTPInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php on line 11
+[21-Aug-2024 17:36:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'HTTPInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php on line 11
+[24-Aug-2024 08:15:32 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'SCRUDInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php on line 10
+[24-Aug-2024 16:32:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Router' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php on line 9
+[11-Sep-2024 14:47:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Router" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php on line 9
+[11-Sep-2024 14:47:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SCRUDInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php on line 10
+[11-Sep-2024 14:47:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "HTTPInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php on line 11
+[24-Sep-2024 19:05:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SCRUDInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php on line 10
+[24-Sep-2024 20:00:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Router" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php on line 9
+[24-Sep-2024 20:15:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "HTTPInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php on line 11
+[24-Sep-2024 20:29:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SCRUDInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php on line 10
+[24-Sep-2024 21:08:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Router" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php on line 9
+[24-Sep-2024 21:12:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "HTTPInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php on line 11
+[24-Sep-2024 22:30:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Router" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php on line 9
+[25-Sep-2024 02:17:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "HTTPInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php on line 11
+[25-Sep-2024 02:47:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Router" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php on line 9
+[25-Sep-2024 03:18:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SCRUDInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php on line 10
+[25-Sep-2024 04:38:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "HTTPInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php on line 11
+[25-Sep-2024 05:13:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SCRUDInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php on line 10
+[26-Oct-2024 22:38:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Router" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php on line 9
+[26-Oct-2024 22:51:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SCRUDInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php on line 10
+[26-Oct-2024 23:04:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "HTTPInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php on line 11
+[27-Oct-2024 18:27:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "HTTPInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php on line 11
+[28-Oct-2024 00:53:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Router" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php on line 9
+[28-Oct-2024 03:41:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SCRUDInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php on line 10
+[25-Nov-2024 11:13:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "HTTPInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php on line 11
+[27-Nov-2024 20:23:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SCRUDInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php on line 10
+[28-Nov-2024 04:39:32 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Router" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php on line 9
+[29-Nov-2024 04:40:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "HTTPInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php on line 11
+[29-Nov-2024 07:07:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Router" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php on line 9
+[29-Nov-2024 07:58:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SCRUDInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php on line 10
+[15-Dec-2024 13:50:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Router" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php on line 9
+[15-Dec-2024 13:58:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SCRUDInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php on line 10
+[15-Dec-2024 14:37:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "HTTPInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php on line 11
+[29-Dec-2024 21:20:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Router" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php on line 9
+[29-Dec-2024 22:07:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "HTTPInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php on line 11
+[29-Dec-2024 22:20:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SCRUDInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php on line 10
+[27-Jan-2025 10:59:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SCRUDInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php on line 10
+[27-Jan-2025 18:08:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "HTTPInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php on line 11
+[27-Jan-2025 23:34:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Router" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php on line 9
+[01-Feb-2025 05:27:56 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Router" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php on line 9
+[01-Feb-2025 05:34:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SCRUDInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php on line 10
+[01-Feb-2025 11:22:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "HTTPInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php on line 11
+[12-Feb-2025 01:35:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "HTTPInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php on line 11
+[26-Feb-2025 10:14:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SCRUDInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php on line 10
+[27-Feb-2025 10:52:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "HTTPInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php on line 11
+[28-Feb-2025 20:11:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Router" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php on line 9
+[01-Mar-2025 00:22:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SCRUDInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php:10
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Model.php on line 10
+[01-Mar-2025 01:08:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "HTTPInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Router.php on line 11
+[01-Mar-2025 08:35:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Router" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/base/Controller.php on line 9

@@ -1,0 +1,24 @@
+[18-Sep-2020 17:33:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPMultilingual\I18n' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/messages/read.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/messages/read.php on line 7
+[05-Jul-2021 03:37:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPMultilingual\I18n' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/messages/read.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/messages/read.php on line 7
+[12-Dec-2021 07:20:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPMultilingual\I18n' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/messages/read.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/messages/read.php on line 7
+[12-Jan-2022 16:20:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPMultilingual\I18n' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/messages/read.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/messages/read.php on line 7
+[17-Aug-2022 20:43:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPMultilingual\I18n' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/messages/read.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/messages/read.php on line 7
+[16-Sep-2022 03:20:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPMultilingual\I18n' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/messages/read.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/messages/read.php on line 7

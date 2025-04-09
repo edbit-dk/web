@@ -1,0 +1,120 @@
+[19-Sep-2020 01:46:36 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[19-Sep-2020 01:46:36 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 35
+[08-Dec-2020 11:52:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[08-Dec-2020 11:52:23 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 35
+[26-Feb-2021 06:28:44 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[26-Feb-2021 06:28:44 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 35
+[03-May-2021 09:02:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[03-May-2021 09:02:48 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 35
+[27-Mar-2022 04:51:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[27-Mar-2022 04:51:03 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 35
+[27-Mar-2022 06:43:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[27-Mar-2022 06:43:58 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 35
+[10-May-2022 00:06:13 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[10-May-2022 00:06:13 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 35
+[15-Jun-2022 11:23:24 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[15-Jun-2022 11:23:24 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 35
+[16-Jul-2022 17:02:50 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[16-Jul-2022 17:02:50 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 35
+[17-Aug-2022 19:02:34 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[17-Aug-2022 19:02:34 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 35
+[16-Sep-2022 02:41:12 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[16-Sep-2022 02:41:12 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 35
+[11-Feb-2023 23:09:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[11-Feb-2023 23:09:03 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 35
+[20-Feb-2024 17:42:24 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[20-Feb-2024 17:42:24 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 35
+[20-Feb-2024 18:04:42 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[20-Feb-2024 18:04:42 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 35
+[24-Jul-2024 19:03:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[24-Jul-2024 19:03:32 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 35
+[16-Aug-2024 03:25:13 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[16-Aug-2024 03:25:13 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 35
+[18-Aug-2024 02:14:16 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[18-Aug-2024 02:14:16 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 35
+[21-Aug-2024 04:16:54 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[21-Aug-2024 04:16:54 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 35
+[10-Sep-2024 12:49:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[24-Sep-2024 19:09:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[30-Sep-2024 15:26:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[21-Oct-2024 12:55:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[22-Oct-2024 06:39:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[12-Nov-2024 03:11:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[16-Nov-2024 19:25:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[30-Nov-2024 01:23:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[13-Dec-2024 05:57:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[19-Dec-2024 14:56:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[23-Dec-2024 14:07:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[04-Jan-2025 04:01:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[16-Jan-2025 15:04:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[28-Jan-2025 17:54:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[11-Feb-2025 04:32:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[18-Feb-2025 08:58:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[19-Feb-2025 13:02:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[22-Feb-2025 08:19:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[23-Feb-2025 13:07:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[08-Mar-2025 03:41:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25
+[25-Mar-2025 13:56:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/web2.0/app/views/home/index.php on line 25

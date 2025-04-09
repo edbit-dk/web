@@ -1,0 +1,12 @@
+@charset "utf-8";
+/* CSS Document */
+.main-wrapper{background: #fff; padding-bottom: 350px;}
+
+h2{color:#898989;}
+.contact-area{padding: 50px 30px 30px 30px;}
+
+.contact01 {border-bottom: 2px solid #ccc; padding-bottom: 10px;}
+.contact02{border-bottom: 2px solid #ccc; padding-bottom: 40px;}
+.contact02 p{margin: -20px 0px 0px 30px}
+
+.contact-info02 {padding-top:10px; margin-top:20px;}

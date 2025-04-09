@@ -1,0 +1,27 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 26-08-2014, 01:08:25
+    Author     : Webmaster
+*/
+
+/* **************** GRIDS ***************** */
+.line, .lastUnit {overflow: hidden;_overflow:visible;_zoom:1; }
+.unit{float:left;_zoom:1;}
+.unitExt{float:right;}
+.size1of1{float:left; width: 98%; margin: 1%;}
+.size1of2{width:48%;margin:1% 1%;}
+.size1of3{width:31.33333%;margin:1% 1%;}
+.size2of3{width:64.66666%;margin:1% 1%;}
+.size1of4{width:23%;margin:1% 1%;}
+.size3of4{width:73%;margin:1% 1%;}
+.size1of5{width:18%;margin:1% 1%;}
+.size2of5{width:38%;margin:1% 1%;}
+.size3of5{width:58%;margin:1% 1%;}
+.size4of5{width:78%;margin:1% 1%;}
+.lastUnit {float:none; _position:relative;_left:-3px; _margin-right: -3px;width:auto; margin: 1%;}
+/* extending grids to allow a unit that takes the width of its content */
+.media{width:auto;}

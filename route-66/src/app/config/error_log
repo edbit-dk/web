@@ -1,0 +1,824 @@
+[18-Sep-2020 07:52:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[18-Sep-2020 07:52:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 15
+[18-Sep-2020 07:52:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 18
+[18-Sep-2020 07:52:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 19
+[18-Sep-2020 07:52:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 20
+[18-Sep-2020 07:52:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 23
+[18-Sep-2020 07:52:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 24
+[18-Sep-2020 07:52:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 25
+[18-Sep-2020 07:52:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 29
+[18-Sep-2020 07:52:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 32
+[18-Sep-2020 07:52:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 33
+[18-Sep-2020 07:52:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 36
+[18-Sep-2020 07:52:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 37
+[18-Sep-2020 07:52:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 38
+[18-Sep-2020 07:52:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 41
+[18-Sep-2020 07:54:22 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[18-Sep-2020 07:54:22 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 18
+[18-Sep-2020 07:54:35 Europe/Copenhagen] PHP Warning:  Use of undefined constant SSL - assumed 'SSL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[18-Sep-2020 09:02:52 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[18-Sep-2020 10:35:06 Europe/Copenhagen] PHP Warning:  Use of undefined constant CACHE - assumed 'CACHE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[18-Sep-2020 10:35:16 Europe/Copenhagen] PHP Warning:  Use of undefined constant DATABASE - assumed 'DATABASE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[15-Jun-2022 11:38:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[15-Jun-2022 11:38:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 15
+[15-Jun-2022 11:38:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 18
+[15-Jun-2022 11:38:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 19
+[15-Jun-2022 11:38:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 20
+[15-Jun-2022 11:38:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 23
+[15-Jun-2022 11:38:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 24
+[15-Jun-2022 11:38:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 25
+[15-Jun-2022 11:38:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 29
+[15-Jun-2022 11:38:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 32
+[15-Jun-2022 11:38:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 33
+[15-Jun-2022 11:38:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 36
+[15-Jun-2022 11:38:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 37
+[15-Jun-2022 11:38:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 38
+[15-Jun-2022 11:38:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 41
+[15-Jun-2022 11:38:47 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[15-Jun-2022 11:38:47 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 18
+[15-Jun-2022 11:38:49 Europe/Copenhagen] PHP Warning:  Use of undefined constant SSL - assumed 'SSL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[17-Aug-2022 19:15:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[17-Aug-2022 19:15:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 18
+[17-Aug-2022 19:15:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant SSL - assumed 'SSL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[18-Aug-2022 11:15:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[18-Aug-2022 11:15:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 15
+[18-Aug-2022 11:15:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 18
+[18-Aug-2022 11:15:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 19
+[18-Aug-2022 11:15:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 20
+[18-Aug-2022 11:15:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 23
+[18-Aug-2022 11:15:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 24
+[18-Aug-2022 11:15:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 25
+[18-Aug-2022 11:15:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 29
+[18-Aug-2022 11:15:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 32
+[18-Aug-2022 11:15:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 33
+[18-Aug-2022 11:15:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 36
+[18-Aug-2022 11:15:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 37
+[18-Aug-2022 11:15:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 38
+[18-Aug-2022 11:15:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 41
+[16-Oct-2022 09:38:01 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[16-Oct-2022 09:38:01 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 18
+[16-Oct-2022 09:38:02 Europe/Copenhagen] PHP Warning:  Use of undefined constant SSL - assumed 'SSL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[23-Oct-2022 09:01:50 Europe/Copenhagen] PHP Warning:  Use of undefined constant DATABASE - assumed 'DATABASE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[23-Nov-2022 22:03:14 Europe/Copenhagen] PHP Warning:  Use of undefined constant DATABASE - assumed 'DATABASE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[20-Feb-2024 17:42:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant SSL - assumed 'SSL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[20-Feb-2024 17:42:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant CACHE - assumed 'CACHE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[20-Feb-2024 17:42:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant DATABASE - assumed 'DATABASE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[20-Feb-2024 17:42:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[20-Feb-2024 17:42:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[20-Feb-2024 17:42:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 15
+[20-Feb-2024 17:42:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 18
+[20-Feb-2024 17:42:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 19
+[20-Feb-2024 17:42:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 20
+[20-Feb-2024 17:42:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 23
+[20-Feb-2024 17:42:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 24
+[20-Feb-2024 17:42:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 25
+[20-Feb-2024 17:42:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 29
+[20-Feb-2024 17:42:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 32
+[20-Feb-2024 17:42:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 33
+[20-Feb-2024 17:42:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 36
+[20-Feb-2024 17:42:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 37
+[20-Feb-2024 17:42:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 38
+[20-Feb-2024 17:42:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 41
+[20-Feb-2024 17:42:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[20-Feb-2024 17:42:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 18
+[20-Feb-2024 18:04:56 Europe/Copenhagen] PHP Warning:  Use of undefined constant SSL - assumed 'SSL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[20-Feb-2024 18:04:57 Europe/Copenhagen] PHP Warning:  Use of undefined constant CACHE - assumed 'CACHE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[20-Feb-2024 18:04:57 Europe/Copenhagen] PHP Warning:  Use of undefined constant DATABASE - assumed 'DATABASE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[20-Feb-2024 18:04:57 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[20-Feb-2024 18:04:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[20-Feb-2024 18:04:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 15
+[20-Feb-2024 18:04:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 18
+[20-Feb-2024 18:04:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 19
+[20-Feb-2024 18:04:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 20
+[20-Feb-2024 18:04:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 23
+[20-Feb-2024 18:04:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 24
+[20-Feb-2024 18:04:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 25
+[20-Feb-2024 18:04:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 29
+[20-Feb-2024 18:04:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 32
+[20-Feb-2024 18:04:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 33
+[20-Feb-2024 18:04:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 36
+[20-Feb-2024 18:04:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 37
+[20-Feb-2024 18:04:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 38
+[20-Feb-2024 18:04:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 41
+[20-Feb-2024 18:04:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[20-Feb-2024 18:04:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 18
+[26-Jul-2024 14:03:02 Europe/Copenhagen] PHP Warning:  Use of undefined constant DATABASE - assumed 'DATABASE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[26-Jul-2024 14:03:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[26-Jul-2024 14:03:06 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[26-Jul-2024 14:03:06 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 15
+[26-Jul-2024 14:03:06 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 18
+[26-Jul-2024 14:03:06 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 19
+[26-Jul-2024 14:03:06 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 20
+[26-Jul-2024 14:03:06 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 23
+[26-Jul-2024 14:03:06 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 24
+[26-Jul-2024 14:03:06 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 25
+[26-Jul-2024 14:03:06 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 29
+[26-Jul-2024 14:03:06 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 32
+[26-Jul-2024 14:03:06 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 33
+[26-Jul-2024 14:03:06 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 36
+[26-Jul-2024 14:03:06 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 37
+[26-Jul-2024 14:03:06 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 38
+[26-Jul-2024 14:03:06 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 41
+[26-Jul-2024 14:03:08 Europe/Copenhagen] PHP Warning:  Use of undefined constant CACHE - assumed 'CACHE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[26-Jul-2024 14:03:08 Europe/Copenhagen] PHP Warning:  Use of undefined constant SSL - assumed 'SSL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[26-Jul-2024 20:39:21 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[26-Jul-2024 20:39:21 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 18
+[12-Aug-2024 00:44:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[12-Aug-2024 00:44:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 15
+[12-Aug-2024 00:44:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 18
+[12-Aug-2024 00:44:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 19
+[12-Aug-2024 00:44:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 20
+[12-Aug-2024 00:44:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 23
+[12-Aug-2024 00:44:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 24
+[12-Aug-2024 00:44:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 25
+[12-Aug-2024 00:44:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 29
+[12-Aug-2024 00:44:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 32
+[12-Aug-2024 00:44:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 33
+[12-Aug-2024 00:44:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 36
+[12-Aug-2024 00:44:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 37
+[12-Aug-2024 00:44:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 38
+[12-Aug-2024 00:44:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 41
+[14-Aug-2024 09:20:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant SSL - assumed 'SSL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[14-Aug-2024 20:32:42 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[14-Aug-2024 23:14:08 Europe/Copenhagen] PHP Warning:  Use of undefined constant CACHE - assumed 'CACHE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[15-Aug-2024 14:50:05 Europe/Copenhagen] PHP Warning:  Use of undefined constant DATABASE - assumed 'DATABASE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[15-Aug-2024 16:29:56 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[15-Aug-2024 16:29:56 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 18
+[18-Aug-2024 02:30:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[18-Aug-2024 02:30:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 18
+[18-Aug-2024 07:31:14 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[18-Aug-2024 13:55:04 Europe/Copenhagen] PHP Warning:  Use of undefined constant SSL - assumed 'SSL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[18-Aug-2024 13:56:11 Europe/Copenhagen] PHP Warning:  Use of undefined constant DATABASE - assumed 'DATABASE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[18-Aug-2024 15:39:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[18-Aug-2024 15:39:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 15
+[18-Aug-2024 15:39:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 18
+[18-Aug-2024 15:39:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 19
+[18-Aug-2024 15:39:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 20
+[18-Aug-2024 15:39:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 23
+[18-Aug-2024 15:39:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 24
+[18-Aug-2024 15:39:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 25
+[18-Aug-2024 15:39:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 29
+[18-Aug-2024 15:39:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 32
+[18-Aug-2024 15:39:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 33
+[18-Aug-2024 15:39:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 36
+[18-Aug-2024 15:39:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 37
+[18-Aug-2024 15:39:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 38
+[18-Aug-2024 15:39:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 41
+[18-Aug-2024 16:31:02 Europe/Copenhagen] PHP Warning:  Use of undefined constant CACHE - assumed 'CACHE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[23-Aug-2024 21:25:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[23-Aug-2024 21:45:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[23-Aug-2024 21:45:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 15
+[23-Aug-2024 21:45:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 18
+[23-Aug-2024 21:45:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 19
+[23-Aug-2024 21:45:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 20
+[23-Aug-2024 21:45:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 23
+[23-Aug-2024 21:45:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 24
+[23-Aug-2024 21:45:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 25
+[23-Aug-2024 21:45:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 29
+[23-Aug-2024 21:45:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 32
+[23-Aug-2024 21:45:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 33
+[23-Aug-2024 21:45:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 36
+[23-Aug-2024 21:45:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 37
+[23-Aug-2024 21:45:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 38
+[23-Aug-2024 21:45:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 41
+[23-Aug-2024 21:59:49 Europe/Copenhagen] PHP Warning:  Use of undefined constant CACHE - assumed 'CACHE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[23-Aug-2024 22:26:04 Europe/Copenhagen] PHP Warning:  Use of undefined constant SSL - assumed 'SSL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[24-Aug-2024 00:47:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[24-Aug-2024 00:47:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 18
+[24-Aug-2024 04:31:53 Europe/Copenhagen] PHP Warning:  Use of undefined constant DATABASE - assumed 'DATABASE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[10-Sep-2024 23:45:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[10-Sep-2024 23:52:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[11-Sep-2024 00:01:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[11-Sep-2024 00:47:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[11-Sep-2024 02:22:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[11-Sep-2024 02:33:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[24-Sep-2024 19:06:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[24-Sep-2024 19:26:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[24-Sep-2024 19:37:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[24-Sep-2024 19:40:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[24-Sep-2024 19:45:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[24-Sep-2024 20:17:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[24-Sep-2024 20:29:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[24-Sep-2024 20:45:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[24-Sep-2024 20:47:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[24-Sep-2024 20:48:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[24-Sep-2024 20:56:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[24-Sep-2024 21:08:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[24-Sep-2024 22:13:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[24-Sep-2024 23:26:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[24-Sep-2024 23:37:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[25-Sep-2024 00:00:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[25-Sep-2024 02:37:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[25-Sep-2024 05:18:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[25-Sep-2024 06:13:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[25-Sep-2024 09:19:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[25-Sep-2024 09:43:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[25-Sep-2024 13:22:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[25-Sep-2024 13:34:32 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[25-Sep-2024 16:02:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[01-Oct-2024 10:59:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[01-Oct-2024 11:09:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[01-Oct-2024 12:17:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[01-Oct-2024 15:55:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[01-Oct-2024 18:36:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[02-Oct-2024 00:03:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[22-Oct-2024 06:38:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[22-Oct-2024 07:28:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[22-Oct-2024 10:16:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[22-Oct-2024 13:16:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[22-Oct-2024 17:16:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[22-Oct-2024 23:25:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[27-Oct-2024 18:31:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[27-Oct-2024 18:35:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[27-Oct-2024 20:45:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[27-Oct-2024 21:46:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[28-Oct-2024 02:58:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[28-Oct-2024 07:29:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[12-Nov-2024 08:48:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[12-Nov-2024 09:17:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[12-Nov-2024 23:26:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[13-Nov-2024 20:36:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[14-Nov-2024 03:29:56 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[14-Nov-2024 08:26:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[14-Nov-2024 12:35:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[15-Nov-2024 03:53:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[15-Nov-2024 13:43:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[15-Nov-2024 16:22:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[16-Nov-2024 07:04:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[16-Nov-2024 08:59:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[18-Nov-2024 15:30:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[19-Nov-2024 01:50:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[29-Nov-2024 00:25:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[29-Nov-2024 07:02:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[29-Nov-2024 07:15:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[29-Nov-2024 08:02:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[29-Nov-2024 10:22:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[29-Nov-2024 13:02:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[29-Nov-2024 20:21:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[29-Nov-2024 20:48:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[30-Nov-2024 16:27:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[30-Nov-2024 20:52:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[01-Dec-2024 08:12:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[01-Dec-2024 09:55:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[12-Dec-2024 05:00:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[12-Dec-2024 05:29:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[13-Dec-2024 08:01:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[13-Dec-2024 10:42:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[13-Dec-2024 17:22:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[13-Dec-2024 19:01:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[22-Dec-2024 00:32:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[22-Dec-2024 01:18:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[23-Dec-2024 05:08:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[23-Dec-2024 09:45:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[23-Dec-2024 16:57:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[23-Dec-2024 20:07:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[29-Dec-2024 18:51:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[29-Dec-2024 21:08:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[29-Dec-2024 23:27:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[29-Dec-2024 23:33:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[30-Dec-2024 03:05:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[30-Dec-2024 06:18:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[03-Jan-2025 08:42:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[03-Jan-2025 09:07:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[03-Jan-2025 19:03:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[03-Jan-2025 21:50:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[03-Jan-2025 23:37:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[04-Jan-2025 02:25:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[12-Jan-2025 17:43:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[12-Jan-2025 20:16:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[13-Jan-2025 00:16:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[13-Jan-2025 06:49:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[13-Jan-2025 14:05:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[13-Jan-2025 14:49:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[15-Jan-2025 04:39:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[15-Jan-2025 06:03:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[15-Jan-2025 22:26:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[16-Jan-2025 01:30:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[16-Jan-2025 05:20:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[16-Jan-2025 08:30:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[26-Jan-2025 22:50:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[27-Jan-2025 01:30:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[27-Jan-2025 10:51:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[27-Jan-2025 11:14:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[27-Jan-2025 11:37:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[27-Jan-2025 18:34:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[27-Jan-2025 20:47:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[27-Jan-2025 21:37:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[28-Jan-2025 00:13:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[28-Jan-2025 01:12:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[28-Jan-2025 02:50:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[28-Jan-2025 05:25:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[09-Feb-2025 11:45:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[09-Feb-2025 13:46:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[10-Feb-2025 02:06:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[10-Feb-2025 04:50:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[10-Feb-2025 08:06:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[10-Feb-2025 10:05:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[12-Feb-2025 12:19:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[15-Feb-2025 04:18:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[17-Feb-2025 23:49:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[19-Feb-2025 01:51:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[19-Feb-2025 03:27:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[21-Feb-2025 12:50:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[21-Feb-2025 14:03:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[21-Feb-2025 23:08:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[21-Feb-2025 23:08:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[22-Feb-2025 00:47:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[22-Feb-2025 09:11:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[22-Feb-2025 10:02:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[24-Feb-2025 13:44:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[28-Feb-2025 16:07:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[28-Feb-2025 17:45:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[28-Feb-2025 17:50:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[28-Feb-2025 18:01:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[28-Feb-2025 20:17:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[01-Mar-2025 01:34:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[04-Mar-2025 12:13:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[04-Mar-2025 14:41:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[06-Mar-2025 06:02:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[06-Mar-2025 12:48:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[06-Mar-2025 19:34:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[06-Mar-2025 20:47:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9
+[19-Mar-2025 10:54:04 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Caching.php on line 17
+[19-Mar-2025 11:51:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Folders.php on line 14
+[21-Mar-2025 00:57:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/URL.php on line 32
+[21-Mar-2025 05:18:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Errors.php on line 15
+[21-Mar-2025 21:29:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Time.php on line 13
+[21-Mar-2025 22:06:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/src/app/config/Databases.php on line 9

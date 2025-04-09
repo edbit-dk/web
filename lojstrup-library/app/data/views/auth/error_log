@@ -1,0 +1,20 @@
+[18-Sep-2020 18:27:47 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/auth/login.php on line 4
+[18-Sep-2020 18:27:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/auth/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/auth/login.php on line 6
+[18-Sep-2020 18:27:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/auth/register.php on line 4
+[18-Sep-2020 18:27:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/auth/register.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/auth/register.php on line 6
+[07-Dec-2020 07:02:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/auth/login.php on line 4
+[07-Dec-2020 07:02:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/auth/login.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/auth/login.php on line 6
+[07-Dec-2020 07:02:47 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/auth/register.php on line 4
+[07-Dec-2020 07:02:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/auth/register.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/auth/register.php on line 6

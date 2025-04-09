@@ -1,0 +1,104 @@
+[17-Sep-2020 23:00:14 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/about.php on line 6
+[17-Sep-2020 23:00:19 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/cars.php on line 6
+[17-Sep-2020 23:00:24 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/contact.php on line 6
+[17-Sep-2020 23:00:29 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/home.php on line 6
+[22-Feb-2021 09:11:11 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/about.php on line 6
+[22-Feb-2021 09:11:21 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/cars.php on line 6
+[22-Feb-2021 09:11:40 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/contact.php on line 6
+[22-Feb-2021 09:11:50 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/home.php on line 6
+[24-Jul-2021 05:08:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/about.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/about.php on line 6
+[24-Jul-2021 05:08:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/cars.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/cars.php on line 6
+[24-Jul-2021 05:08:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/contact.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/contact.php on line 6
+[24-Jul-2021 05:08:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/home.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/home.php on line 6
+[29-Dec-2021 11:28:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/about.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/about.php on line 6
+[29-Dec-2021 11:28:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/cars.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/cars.php on line 6
+[29-Dec-2021 11:28:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/contact.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/contact.php on line 6
+[29-Dec-2021 11:28:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/home.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/home.php on line 6
+[16-Jul-2022 16:51:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/about.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/about.php on line 6
+[16-Jul-2022 16:51:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/cars.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/cars.php on line 6
+[16-Jul-2022 16:51:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/contact.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/contact.php on line 6
+[16-Jul-2022 16:51:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/home.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/home.php on line 6
+[20-May-2023 02:31:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/about.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/about.php on line 6
+[20-May-2023 02:31:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/cars.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/cars.php on line 6
+[20-May-2023 02:31:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/contact.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/contact.php on line 6
+[20-May-2023 02:31:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/home.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/home.php on line 6
+[16-Nov-2023 10:29:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/about.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/about.php on line 6
+[16-Nov-2023 10:29:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/cars.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/cars.php on line 6
+[16-Nov-2023 10:29:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/contact.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/contact.php on line 6
+[16-Nov-2023 10:29:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/home.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/home.php on line 6
+[14-Apr-2024 03:38:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/about.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/about.php on line 6
+[14-Apr-2024 03:38:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/cars.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/cars.php on line 6
+[14-Apr-2024 03:38:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/contact.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/contact.php on line 6
+[14-Apr-2024 03:38:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/home.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/application/controller/home.php on line 6

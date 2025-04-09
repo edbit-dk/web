@@ -1,0 +1,1 @@
+This folder is for storing dependencies from other vendors like jQuery, composer and so on.

@@ -1,0 +1,6 @@
+[18-Sep-2020 04:39:50 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/tool/backup.php on line 2
+[18-Sep-2020 04:40:00 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/tool/error_log.php on line 2
+[18-Sep-2020 04:40:08 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/tool/upload.php on line 2
+[22-Feb-2021 10:30:50 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/tool/backup.php on line 2
+[22-Feb-2021 10:31:26 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/tool/error_log.php on line 2
+[22-Feb-2021 10:31:48 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/tool/upload.php on line 2

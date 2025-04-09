@@ -1,0 +1,84 @@
+[20-Sep-2020 00:49:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'AjaxUpload' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php on line 15
+[20-Feb-2024 17:42:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'AjaxUpload' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php on line 15
+[20-Feb-2024 18:05:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'AjaxUpload' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php on line 15
+[23-Jul-2024 06:48:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'AjaxUpload' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php on line 15
+[20-Aug-2024 22:27:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'AjaxUpload' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php on line 15
+[24-Aug-2024 12:42:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'AjaxUpload' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php on line 15
+[13-Sep-2024 06:38:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "AjaxUpload" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php on line 15
+[30-Sep-2024 04:24:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "AjaxUpload" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php on line 15
+[30-Sep-2024 09:23:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "AjaxUpload" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php on line 15
+[13-Oct-2024 14:24:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "AjaxUpload" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php on line 15
+[20-Oct-2024 19:01:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "AjaxUpload" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php on line 15
+[03-Nov-2024 00:17:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "AjaxUpload" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php on line 15
+[17-Nov-2024 07:52:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "AjaxUpload" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php on line 15
+[28-Nov-2024 00:57:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "AjaxUpload" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php on line 15
+[04-Dec-2024 06:08:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "AjaxUpload" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php on line 15
+[03-Jan-2025 20:22:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "AjaxUpload" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php on line 15
+[04-Jan-2025 14:54:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "AjaxUpload" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php on line 15
+[01-Feb-2025 22:07:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "AjaxUpload" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php on line 15
+[19-Feb-2025 02:29:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "AjaxUpload" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php on line 15
+[26-Feb-2025 14:09:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "AjaxUpload" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php on line 15
+[06-Mar-2025 04:18:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "AjaxUpload" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/upload/test/example/index.php on line 15

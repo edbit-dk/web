@@ -1,0 +1,296 @@
+[18-Sep-2020 08:21:18 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[18-Sep-2020 08:21:18 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[18-Sep-2020 08:21:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[18-Sep-2020 08:21:18 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 97
+[03-Dec-2021 18:37:16 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[03-Dec-2021 18:37:16 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[03-Dec-2021 18:37:16 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[03-Dec-2021 18:37:16 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 97
+[04-Jan-2022 07:46:23 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[04-Jan-2022 07:46:23 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[04-Jan-2022 07:46:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[04-Jan-2022 07:46:23 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 97
+[14-Feb-2022 20:29:38 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[14-Feb-2022 20:29:38 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[14-Feb-2022 20:29:38 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[14-Feb-2022 20:29:38 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 97
+[27-Mar-2022 06:51:07 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[27-Mar-2022 06:51:07 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[27-Mar-2022 06:51:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[27-Mar-2022 06:51:07 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 97
+[04-May-2022 04:03:29 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[04-May-2022 04:03:29 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[04-May-2022 04:03:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[04-May-2022 04:03:29 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 97
+[17-Jul-2022 05:37:25 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[17-Jul-2022 05:37:25 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[17-Jul-2022 05:37:25 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[17-Jul-2022 05:37:25 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 97
+[18-Aug-2022 01:19:55 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[18-Aug-2022 01:19:55 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[18-Aug-2022 01:19:55 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[18-Aug-2022 01:19:55 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 97
+[20-Feb-2024 17:41:57 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[20-Feb-2024 17:41:57 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[20-Feb-2024 17:41:57 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[20-Feb-2024 17:41:57 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 97
+[20-Feb-2024 18:04:12 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[20-Feb-2024 18:04:12 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[20-Feb-2024 18:04:12 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[20-Feb-2024 18:04:12 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 97
+[24-Jul-2024 11:55:42 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[24-Jul-2024 11:55:42 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[24-Jul-2024 11:55:42 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[24-Jul-2024 11:55:42 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 97
+[15-Aug-2024 13:41:03 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[15-Aug-2024 13:41:03 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[15-Aug-2024 13:41:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[15-Aug-2024 13:41:03 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 97
+[15-Aug-2024 21:22:44 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[15-Aug-2024 21:22:44 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[15-Aug-2024 21:22:44 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[15-Aug-2024 21:22:44 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 97
+[17-Aug-2024 18:15:06 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[17-Aug-2024 18:15:06 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[17-Aug-2024 18:15:06 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[17-Aug-2024 18:15:06 Europe/Copenhagen] PHP Warning:  Invalid argument supplied for foreach() in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 97
+[09-Sep-2024 02:04:55 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[09-Sep-2024 02:04:55 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[09-Sep-2024 02:04:55 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[09-Sep-2024 02:04:55 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[09-Sep-2024 02:04:55 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[09-Sep-2024 02:04:55 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[09-Sep-2024 02:04:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[19-Sep-2024 23:31:06 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[19-Sep-2024 23:31:06 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[19-Sep-2024 23:31:06 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[19-Sep-2024 23:31:06 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[19-Sep-2024 23:31:06 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[19-Sep-2024 23:31:06 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[19-Sep-2024 23:31:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[22-Sep-2024 00:15:45 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[22-Sep-2024 00:15:45 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[22-Sep-2024 00:15:45 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[22-Sep-2024 00:15:45 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[22-Sep-2024 00:15:45 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[22-Sep-2024 00:15:45 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[22-Sep-2024 00:15:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[23-Sep-2024 14:02:02 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[23-Sep-2024 14:02:02 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[23-Sep-2024 14:02:02 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[23-Sep-2024 14:02:02 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[23-Sep-2024 14:02:02 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[23-Sep-2024 14:02:02 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[23-Sep-2024 14:02:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[12-Oct-2024 00:37:58 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[12-Oct-2024 00:37:58 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[12-Oct-2024 00:37:58 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[12-Oct-2024 00:37:58 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[12-Oct-2024 00:37:58 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[12-Oct-2024 00:37:58 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[12-Oct-2024 00:37:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[25-Oct-2024 10:00:20 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[25-Oct-2024 10:00:20 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[25-Oct-2024 10:00:20 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[25-Oct-2024 10:00:20 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[25-Oct-2024 10:00:20 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[25-Oct-2024 10:00:20 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[25-Oct-2024 10:00:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[15-Nov-2024 04:55:25 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[15-Nov-2024 04:55:25 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[15-Nov-2024 04:55:25 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[15-Nov-2024 04:55:25 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[15-Nov-2024 04:55:25 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[15-Nov-2024 04:55:25 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[15-Nov-2024 04:55:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[18-Nov-2024 07:25:42 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[18-Nov-2024 07:25:42 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[18-Nov-2024 07:25:42 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[18-Nov-2024 07:25:42 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[18-Nov-2024 07:25:42 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[18-Nov-2024 07:25:42 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[18-Nov-2024 07:25:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[21-Nov-2024 18:01:09 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[21-Nov-2024 18:01:09 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[21-Nov-2024 18:01:09 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[21-Nov-2024 18:01:09 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[21-Nov-2024 18:01:09 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[21-Nov-2024 18:01:09 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[21-Nov-2024 18:01:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[24-Nov-2024 15:19:25 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[24-Nov-2024 15:19:25 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[24-Nov-2024 15:19:25 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[24-Nov-2024 15:19:25 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[24-Nov-2024 15:19:25 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[24-Nov-2024 15:19:25 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[24-Nov-2024 15:19:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[01-Dec-2024 18:59:31 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[01-Dec-2024 18:59:31 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[01-Dec-2024 18:59:31 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[01-Dec-2024 18:59:31 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[01-Dec-2024 18:59:31 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[01-Dec-2024 18:59:31 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[01-Dec-2024 18:59:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[13-Dec-2024 22:17:47 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[13-Dec-2024 22:17:47 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[13-Dec-2024 22:17:47 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[13-Dec-2024 22:17:47 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[13-Dec-2024 22:17:47 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[13-Dec-2024 22:17:47 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[13-Dec-2024 22:17:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[23-Dec-2024 19:07:11 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[23-Dec-2024 19:07:11 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[23-Dec-2024 19:07:11 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[23-Dec-2024 19:07:11 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[23-Dec-2024 19:07:11 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[23-Dec-2024 19:07:11 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[23-Dec-2024 19:07:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[03-Jan-2025 21:46:28 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[03-Jan-2025 21:46:28 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[03-Jan-2025 21:46:28 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[03-Jan-2025 21:46:28 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[03-Jan-2025 21:46:28 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[03-Jan-2025 21:46:28 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[03-Jan-2025 21:46:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[15-Jan-2025 13:57:51 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[15-Jan-2025 13:57:51 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[15-Jan-2025 13:57:51 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[15-Jan-2025 13:57:51 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[15-Jan-2025 13:57:51 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[15-Jan-2025 13:57:51 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[15-Jan-2025 13:57:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[22-Jan-2025 16:03:39 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[22-Jan-2025 16:03:39 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[22-Jan-2025 16:03:39 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[22-Jan-2025 16:03:39 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[22-Jan-2025 16:03:39 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[22-Jan-2025 16:03:39 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[22-Jan-2025 16:03:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[27-Jan-2025 01:19:36 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[27-Jan-2025 01:19:36 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[27-Jan-2025 01:19:36 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[27-Jan-2025 01:19:36 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[27-Jan-2025 01:19:36 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[27-Jan-2025 01:19:36 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[27-Jan-2025 01:19:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[09-Feb-2025 07:34:00 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[09-Feb-2025 07:34:00 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[09-Feb-2025 07:34:00 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[09-Feb-2025 07:34:00 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[09-Feb-2025 07:34:00 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[09-Feb-2025 07:34:00 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[09-Feb-2025 07:34:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[20-Feb-2025 15:21:27 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[20-Feb-2025 15:21:27 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[20-Feb-2025 15:21:27 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[20-Feb-2025 15:21:27 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[20-Feb-2025 15:21:27 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[20-Feb-2025 15:21:27 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[20-Feb-2025 15:21:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[21-Feb-2025 00:59:21 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[21-Feb-2025 00:59:21 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[21-Feb-2025 00:59:21 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[21-Feb-2025 00:59:21 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[21-Feb-2025 00:59:21 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[21-Feb-2025 00:59:21 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[21-Feb-2025 00:59:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[23-Feb-2025 19:29:49 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[23-Feb-2025 19:29:49 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[23-Feb-2025 19:29:49 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[23-Feb-2025 19:29:49 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[23-Feb-2025 19:29:49 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[23-Feb-2025 19:29:49 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[23-Feb-2025 19:29:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[03-Mar-2025 22:41:43 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[03-Mar-2025 22:41:43 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[03-Mar-2025 22:41:43 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[03-Mar-2025 22:41:43 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[03-Mar-2025 22:41:43 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[03-Mar-2025 22:41:43 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[03-Mar-2025 22:41:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[17-Mar-2025 20:16:46 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[17-Mar-2025 20:16:46 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[17-Mar-2025 20:16:46 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[17-Mar-2025 20:16:46 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[17-Mar-2025 20:16:46 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[17-Mar-2025 20:16:46 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[17-Mar-2025 20:16:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76
+[22-Mar-2025 05:47:46 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[22-Mar-2025 05:47:46 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[22-Mar-2025 05:47:46 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 14
+[22-Mar-2025 05:47:46 Europe/Copenhagen] PHP Warning:  Undefined variable $data in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[22-Mar-2025 05:47:46 Europe/Copenhagen] PHP Warning:  Attempt to read property "news" on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[22-Mar-2025 05:47:46 Europe/Copenhagen] PHP Warning:  foreach() argument must be of type array|object, null given in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 34
+[22-Mar-2025 05:47:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php:76
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/home/index.php on line 76

@@ -1,0 +1,4 @@
+[18-Sep-2020 10:21:41 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/model/design/banner.php on line 2
+[18-Sep-2020 10:21:43 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/model/design/layout.php on line 2
+[22-Feb-2021 10:44:11 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/model/design/banner.php on line 2
+[22-Feb-2021 10:44:51 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/model/design/layout.php on line 2

@@ -1,0 +1,4 @@
+[16-Sep-2020 10:33:58 Europe/Copenhagen] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/edbitdk/portfolio.edbit.dk/gavefabrikken.dk/sections/hvad_kan_vi.php on line 38
+[16-Sep-2020 10:33:58 Europe/Copenhagen] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/edbitdk/portfolio.edbit.dk/gavefabrikken.dk/sections/hvad_kan_vi.php on line 39
+[05-Dec-2020 04:19:34 Europe/Copenhagen] PHP Warning:  count(): Parameter must be an array or an object that implements Countable in /home/edbitdk/portfolio.edbit.dk/gavefabrikken.dk/sections/hvad_kan_vi.php on line 38
+[05-Dec-2020 04:19:34 Europe/Copenhagen] PHP Warning:  shuffle() expects parameter 1 to be array, null given in /home/edbitdk/portfolio.edbit.dk/gavefabrikken.dk/sections/hvad_kan_vi.php on line 39

@@ -1,0 +1,24 @@
+[18-Sep-2020 17:33:04 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPScrud\DB' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/default/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/default/index.php on line 6
+[22-Feb-2021 08:27:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPScrud\DB' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/default/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/default/index.php on line 6
+[22-Jul-2021 06:01:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPScrud\DB' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/default/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/default/index.php on line 6
+[29-Dec-2021 14:25:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPScrud\DB' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/default/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/default/index.php on line 6
+[17-Aug-2022 20:43:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPScrud\DB' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/default/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/default/index.php on line 6
+[01-Nov-2023 10:22:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPScrud\DB' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/default/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/default/index.php on line 6

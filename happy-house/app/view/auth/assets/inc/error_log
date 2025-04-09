@@ -1,0 +1,8 @@
+[19-Sep-2020 17:59:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/assets/inc/_footer.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/assets/inc/_footer.php on line 2
+[19-Sep-2020 17:59:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/assets/inc/_header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/auth/assets/inc/_header.php on line 14

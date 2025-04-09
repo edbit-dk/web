@@ -1,0 +1,532 @@
+[03-Dec-2021 20:02:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[03-Dec-2021 20:02:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_LOGS - assumed 'PATH_LOGS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 20
+[03-Dec-2021 20:02:53 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_SRC - assumed 'PATH_SRC' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[03-Dec-2021 20:02:53 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_ROOT - assumed 'PATH_ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 18
+[03-Dec-2021 20:03:04 Europe/Copenhagen] PHP Warning:  Use of undefined constant Timezone - assumed 'Timezone' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[03-Dec-2021 20:03:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant SSL - assumed 'SSL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[03-Dec-2021 20:03:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_PROJECT_NAME - assumed 'PATH_PROJECT_NAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 39
+[03-Dec-2021 20:03:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant THEME - assumed 'THEME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 44
+[20-Feb-2024 17:42:00 Europe/Copenhagen] PHP Warning:  Use of undefined constant SSL - assumed 'SSL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[20-Feb-2024 17:42:00 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_PROJECT_NAME - assumed 'PATH_PROJECT_NAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 39
+[20-Feb-2024 17:42:00 Europe/Copenhagen] PHP Warning:  Use of undefined constant THEME - assumed 'THEME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 44
+[20-Feb-2024 17:42:01 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[20-Feb-2024 17:42:01 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_LOGS - assumed 'PATH_LOGS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 20
+[20-Feb-2024 17:42:01 Europe/Copenhagen] PHP Warning:  Use of undefined constant Timezone - assumed 'Timezone' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[20-Feb-2024 17:42:01 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_SRC - assumed 'PATH_SRC' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[20-Feb-2024 17:42:01 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_ROOT - assumed 'PATH_ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 18
+[20-Feb-2024 18:04:27 Europe/Copenhagen] PHP Warning:  Use of undefined constant SSL - assumed 'SSL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[20-Feb-2024 18:04:27 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_PROJECT_NAME - assumed 'PATH_PROJECT_NAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 39
+[20-Feb-2024 18:04:27 Europe/Copenhagen] PHP Warning:  Use of undefined constant THEME - assumed 'THEME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 44
+[20-Feb-2024 18:04:28 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[20-Feb-2024 18:04:28 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_LOGS - assumed 'PATH_LOGS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 20
+[20-Feb-2024 18:04:28 Europe/Copenhagen] PHP Warning:  Use of undefined constant Timezone - assumed 'Timezone' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[20-Feb-2024 18:04:28 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_SRC - assumed 'PATH_SRC' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[20-Feb-2024 18:04:28 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_ROOT - assumed 'PATH_ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 18
+[23-Jul-2024 06:48:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant Timezone - assumed 'Timezone' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[23-Jul-2024 06:48:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant SSL - assumed 'SSL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[23-Jul-2024 06:48:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_PROJECT_NAME - assumed 'PATH_PROJECT_NAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 39
+[23-Jul-2024 06:48:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant THEME - assumed 'THEME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 44
+[23-Jul-2024 10:04:36 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[23-Jul-2024 10:04:36 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_LOGS - assumed 'PATH_LOGS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 20
+[23-Jul-2024 10:11:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_SRC - assumed 'PATH_SRC' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[23-Jul-2024 10:11:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_ROOT - assumed 'PATH_ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 18
+[15-Aug-2024 09:27:50 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[15-Aug-2024 09:27:50 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_LOGS - assumed 'PATH_LOGS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 20
+[15-Aug-2024 16:30:27 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_SRC - assumed 'PATH_SRC' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[15-Aug-2024 16:30:27 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_ROOT - assumed 'PATH_ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 18
+[15-Aug-2024 16:59:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_SRC - assumed 'PATH_SRC' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[15-Aug-2024 16:59:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_ROOT - assumed 'PATH_ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 18
+[15-Aug-2024 21:59:57 Europe/Copenhagen] PHP Warning:  Use of undefined constant SSL - assumed 'SSL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[15-Aug-2024 21:59:57 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_PROJECT_NAME - assumed 'PATH_PROJECT_NAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 39
+[15-Aug-2024 21:59:57 Europe/Copenhagen] PHP Warning:  Use of undefined constant THEME - assumed 'THEME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 44
+[15-Aug-2024 22:04:28 Europe/Copenhagen] PHP Warning:  Use of undefined constant Timezone - assumed 'Timezone' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[16-Aug-2024 09:30:34 Europe/Copenhagen] PHP Warning:  Use of undefined constant Timezone - assumed 'Timezone' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[17-Aug-2024 14:22:01 Europe/Copenhagen] PHP Warning:  Use of undefined constant SSL - assumed 'SSL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[17-Aug-2024 14:22:01 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_PROJECT_NAME - assumed 'PATH_PROJECT_NAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 39
+[17-Aug-2024 14:22:01 Europe/Copenhagen] PHP Warning:  Use of undefined constant THEME - assumed 'THEME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 44
+[18-Aug-2024 03:59:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant Timezone - assumed 'Timezone' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[18-Aug-2024 04:18:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant SSL - assumed 'SSL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[18-Aug-2024 04:18:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_PROJECT_NAME - assumed 'PATH_PROJECT_NAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 39
+[18-Aug-2024 04:18:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant THEME - assumed 'THEME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 44
+[18-Aug-2024 08:03:42 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[18-Aug-2024 08:03:42 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_LOGS - assumed 'PATH_LOGS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 20
+[18-Aug-2024 08:11:51 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[18-Aug-2024 08:11:51 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_LOGS - assumed 'PATH_LOGS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 20
+[18-Aug-2024 08:25:26 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_SRC - assumed 'PATH_SRC' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[18-Aug-2024 08:25:26 Europe/Copenhagen] PHP Warning:  Use of undefined constant PATH_ROOT - assumed 'PATH_ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 18
+[10-Sep-2024 05:00:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[10-Sep-2024 05:15:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[10-Sep-2024 07:34:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[10-Sep-2024 07:38:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[22-Sep-2024 00:19:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[22-Sep-2024 00:26:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[22-Sep-2024 00:45:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[22-Sep-2024 00:46:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[22-Sep-2024 01:51:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[22-Sep-2024 02:26:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[22-Sep-2024 02:27:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[22-Sep-2024 02:45:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[22-Sep-2024 02:49:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[22-Sep-2024 09:41:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[22-Sep-2024 13:33:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[22-Sep-2024 20:38:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[24-Sep-2024 21:46:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[25-Sep-2024 05:51:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[25-Sep-2024 08:02:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[29-Sep-2024 03:20:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[29-Sep-2024 04:23:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[29-Sep-2024 09:33:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[29-Sep-2024 09:41:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[05-Oct-2024 05:06:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[05-Oct-2024 05:06:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[05-Oct-2024 05:06:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[05-Oct-2024 05:06:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[16-Oct-2024 23:04:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[19-Oct-2024 05:46:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[19-Oct-2024 06:22:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[19-Oct-2024 14:52:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[19-Oct-2024 15:04:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[27-Oct-2024 19:07:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[27-Oct-2024 22:18:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[28-Oct-2024 04:29:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[31-Oct-2024 18:24:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[31-Oct-2024 20:41:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[01-Nov-2024 03:18:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[01-Nov-2024 03:27:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[12-Nov-2024 10:43:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[12-Nov-2024 10:43:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[12-Nov-2024 10:44:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[12-Nov-2024 10:44:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[16-Nov-2024 08:59:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[17-Nov-2024 01:24:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[17-Nov-2024 04:50:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[17-Nov-2024 05:35:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[17-Nov-2024 10:37:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[17-Nov-2024 11:07:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[18-Nov-2024 04:05:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[19-Nov-2024 18:35:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[21-Nov-2024 14:30:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[22-Nov-2024 06:48:32 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[29-Nov-2024 00:41:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[29-Nov-2024 04:00:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[29-Nov-2024 08:17:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[03-Dec-2024 17:39:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[03-Dec-2024 18:11:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[03-Dec-2024 23:26:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[04-Dec-2024 00:04:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[16-Dec-2024 05:16:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[16-Dec-2024 06:35:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[16-Dec-2024 14:37:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[16-Dec-2024 15:16:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[19-Dec-2024 11:11:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[26-Dec-2024 04:41:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[26-Dec-2024 07:13:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[30-Dec-2024 04:21:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[30-Dec-2024 07:38:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[30-Dec-2024 09:32:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[31-Dec-2024 07:03:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[31-Dec-2024 07:53:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[06-Jan-2025 01:44:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[06-Jan-2025 02:31:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[08-Jan-2025 03:09:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[08-Jan-2025 10:21:04 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[08-Jan-2025 15:09:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[09-Jan-2025 11:53:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[12-Jan-2025 06:24:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[12-Jan-2025 06:57:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[16-Jan-2025 17:23:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[18-Jan-2025 04:58:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[18-Jan-2025 05:29:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[23-Jan-2025 21:03:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[23-Jan-2025 22:10:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[27-Jan-2025 11:43:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[27-Jan-2025 23:33:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[28-Jan-2025 00:31:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[30-Jan-2025 03:58:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[30-Jan-2025 04:44:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[04-Feb-2025 22:42:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[04-Feb-2025 23:19:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[11-Feb-2025 23:32:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[12-Feb-2025 01:06:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[12-Feb-2025 18:01:32 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[16-Feb-2025 10:38:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[16-Feb-2025 10:47:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[19-Feb-2025 03:26:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[19-Feb-2025 18:51:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[20-Feb-2025 21:48:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[21-Feb-2025 23:07:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[22-Feb-2025 13:52:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[24-Feb-2025 02:48:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[24-Feb-2025 06:38:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[24-Feb-2025 07:25:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[28-Feb-2025 01:08:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[28-Feb-2025 01:17:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[28-Feb-2025 12:00:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[28-Feb-2025 13:38:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[28-Feb-2025 19:36:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[03-Mar-2025 19:26:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[08-Mar-2025 08:22:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[08-Mar-2025 12:52:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[08-Mar-2025 23:42:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31
+[11-Mar-2025 15:28:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[13-Mar-2025 09:36:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/ERRORS.php on line 15
+[13-Mar-2025 10:27:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "PATH_SRC" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/PATHS.php on line 15
+[25-Mar-2025 20:15:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "Timezone" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/TIME.php on line 7
+[26-Mar-2025 09:39:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php:31
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/config/URL.php on line 31

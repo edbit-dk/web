@@ -1,0 +1,248 @@
+[18-Sep-2020 08:14:45 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/change.php on line 9
+[18-Sep-2020 08:14:45 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_PASSWORD - assumed 'USER_PASSWORD' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/change.php on line 13
+[18-Sep-2020 08:14:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/change.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/change.php on line 15
+[18-Sep-2020 08:14:56 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function isLoggedIn() on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/forgot.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/forgot.php on line 2
+[18-Sep-2020 08:15:12 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[18-Sep-2020 08:15:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[18-Sep-2020 08:15:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/login.php on line 11
+[18-Sep-2020 08:15:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_NAME - assumed 'USER_NAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/login.php on line 12
+[18-Sep-2020 08:15:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_PASSWORD - assumed 'USER_PASSWORD' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/login.php on line 13
+[18-Sep-2020 08:15:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant TOKEN_NAME - assumed 'TOKEN_NAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/login.php on line 20
+[18-Sep-2020 08:15:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Token' not found in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/login.php:20
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/login.php on line 20
+[18-Sep-2020 08:15:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/profile.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/profile.php on line 9
+[18-Sep-2020 08:16:00 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/register.php on line 12
+[18-Sep-2020 08:16:00 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_CODE - assumed 'USER_CODE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/register.php on line 14
+[18-Sep-2020 08:16:00 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_NAME - assumed 'USER_NAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/register.php on line 24
+[18-Sep-2020 08:16:00 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_EMAIL - assumed 'USER_EMAIL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/register.php on line 34
+[18-Sep-2020 08:16:00 Europe/Copenhagen] PHP Warning:  Use of undefined constant TOKEN_NAME - assumed 'TOKEN_NAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/register.php on line 44
+[18-Sep-2020 08:16:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Token' not found in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/register.php:45
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/register.php on line 45
+[18-Sep-2020 08:16:11 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/settings.php on line 9
+[18-Sep-2020 08:16:11 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_FIRSTNAME - assumed 'USER_FIRSTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/settings.php on line 13
+[18-Sep-2020 08:16:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/settings.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/settings.php on line 15
+[18-Sep-2020 08:16:27 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/uploads.php on line 11
+[18-Sep-2020 08:16:27 Europe/Copenhagen] PHP Warning:  Use of undefined constant TOKEN_NAME - assumed 'TOKEN_NAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/uploads.php on line 43
+[18-Sep-2020 08:16:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Token' not found in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/uploads.php:44
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/uploads.php on line 44
+[22-Feb-2021 09:57:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function isLoggedIn() on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/forgot.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/forgot.php on line 2
+[05-Jul-2021 03:39:26 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/change.php on line 9
+[05-Jul-2021 03:39:26 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_PASSWORD - assumed 'USER_PASSWORD' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/change.php on line 13
+[05-Jul-2021 03:39:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/change.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/change.php on line 15
+[24-Sep-2021 02:48:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function isLoggedIn() on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/forgot.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/forgot.php on line 2
+[03-Dec-2021 18:36:45 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[03-Dec-2021 18:36:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[04-Jan-2022 07:45:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[04-Jan-2022 07:45:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[14-Feb-2022 20:29:26 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[14-Feb-2022 20:29:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[27-Mar-2022 06:50:52 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[27-Mar-2022 06:50:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[04-May-2022 04:03:12 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[04-May-2022 04:03:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[15-Jun-2022 06:22:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function isLoggedIn() on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/forgot.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/forgot.php on line 2
+[17-Jul-2022 05:34:52 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[17-Jul-2022 05:34:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[18-Aug-2022 11:16:12 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[18-Aug-2022 11:16:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[13-Nov-2022 10:28:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function isLoggedIn() on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/forgot.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/forgot.php on line 2
+[16-May-2023 23:23:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function isLoggedIn() on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/forgot.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/forgot.php on line 2
+[16-Nov-2023 10:31:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function isLoggedIn() on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/forgot.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/forgot.php on line 2
+[20-Feb-2024 17:41:57 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[20-Feb-2024 17:41:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[20-Feb-2024 18:04:12 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[20-Feb-2024 18:04:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[14-Apr-2024 03:43:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function isLoggedIn() on null in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/forgot.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/forgot.php on line 2
+[24-Jul-2024 04:16:11 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[24-Jul-2024 04:16:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[15-Aug-2024 20:46:24 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[15-Aug-2024 20:46:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[15-Aug-2024 22:32:21 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[15-Aug-2024 22:32:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[17-Aug-2024 02:46:08 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[17-Aug-2024 02:46:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[20-Aug-2024 19:30:12 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[20-Aug-2024 19:30:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Output' not found in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[09-Sep-2024 01:39:32 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[19-Sep-2024 11:39:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[22-Sep-2024 01:00:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[23-Sep-2024 13:42:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[12-Oct-2024 00:14:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[25-Oct-2024 09:37:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[15-Nov-2024 04:48:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[21-Nov-2024 04:09:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[24-Nov-2024 13:43:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[24-Nov-2024 15:59:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[01-Dec-2024 18:44:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[13-Dec-2024 21:57:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[23-Dec-2024 19:44:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[03-Jan-2025 21:58:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[04-Jan-2025 13:38:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[15-Jan-2025 14:06:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[22-Jan-2025 14:25:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[27-Jan-2025 01:36:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[09-Feb-2025 07:38:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[20-Feb-2025 15:26:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[23-Feb-2025 05:59:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[03-Mar-2025 22:47:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[17-Mar-2025 20:21:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3
+[22-Mar-2025 03:55:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/account/index.php on line 3

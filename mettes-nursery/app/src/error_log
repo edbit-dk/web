@@ -1,0 +1,135 @@
+[03-Dec-2021 20:05:46 Europe/Copenhagen] PHP Warning:  Use of undefined constant LIBS - assumed 'LIBS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[03-Dec-2021 20:05:46 Europe/Copenhagen] PHP Warning:  require_once(LIBSDB.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[03-Dec-2021 20:05:46 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required 'LIBSDB.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[12-Feb-2023 12:33:41 Europe/Copenhagen] PHP Warning:  Use of undefined constant LIBS - assumed 'LIBS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[12-Feb-2023 12:33:41 Europe/Copenhagen] PHP Warning:  require_once(LIBSDB.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[12-Feb-2023 12:33:41 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required 'LIBSDB.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[20-Feb-2024 17:42:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant LIBS - assumed 'LIBS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[20-Feb-2024 17:42:10 Europe/Copenhagen] PHP Warning:  require_once(LIBSDB.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[20-Feb-2024 17:42:10 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required 'LIBSDB.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[20-Feb-2024 18:04:27 Europe/Copenhagen] PHP Warning:  Use of undefined constant LIBS - assumed 'LIBS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[20-Feb-2024 18:04:27 Europe/Copenhagen] PHP Warning:  require_once(LIBSDB.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[20-Feb-2024 18:04:27 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required 'LIBSDB.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[22-Jul-2024 05:50:41 Europe/Copenhagen] PHP Warning:  Use of undefined constant LIBS - assumed 'LIBS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[22-Jul-2024 05:50:41 Europe/Copenhagen] PHP Warning:  require_once(LIBSDB.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[22-Jul-2024 05:50:41 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required 'LIBSDB.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[14-Aug-2024 19:38:41 Europe/Copenhagen] PHP Warning:  Use of undefined constant LIBS - assumed 'LIBS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[14-Aug-2024 19:38:41 Europe/Copenhagen] PHP Warning:  require_once(LIBSDB.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[14-Aug-2024 19:38:41 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required 'LIBSDB.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[15-Aug-2024 10:19:40 Europe/Copenhagen] PHP Warning:  Use of undefined constant LIBS - assumed 'LIBS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[15-Aug-2024 10:19:40 Europe/Copenhagen] PHP Warning:  require_once(LIBSDB.php): failed to open stream: No such file or directory in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[15-Aug-2024 10:19:40 Europe/Copenhagen] PHP Fatal error:  require_once(): Failed opening required 'LIBSDB.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[11-Sep-2024 04:13:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "LIBS" in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php:5
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(15): {closure}('DB')
+#1 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(27): Options->__construct()
+#2 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[19-Sep-2024 22:08:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "LIBS" in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php:5
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(15): {closure}('DB')
+#1 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(27): Options->__construct()
+#2 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[22-Sep-2024 00:47:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "LIBS" in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php:5
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(15): {closure}('DB')
+#1 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(27): Options->__construct()
+#2 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[22-Sep-2024 02:43:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "LIBS" in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php:5
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(15): {closure}('DB')
+#1 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(27): Options->__construct()
+#2 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[22-Sep-2024 14:54:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "LIBS" in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php:5
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(15): {closure}('DB')
+#1 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(27): Options->__construct()
+#2 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[05-Oct-2024 05:07:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "LIBS" in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php:5
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(15): {closure}('DB')
+#1 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(27): Options->__construct()
+#2 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[22-Oct-2024 18:35:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "LIBS" in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php:5
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(15): {closure}('DB')
+#1 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(27): Options->__construct()
+#2 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[27-Oct-2024 16:52:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "LIBS" in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php:5
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(15): {closure}('DB')
+#1 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(27): Options->__construct()
+#2 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[12-Nov-2024 10:46:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "LIBS" in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php:5
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(15): {closure}('DB')
+#1 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(27): Options->__construct()
+#2 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[15-Nov-2024 12:51:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "LIBS" in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php:5
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(15): {closure}('DB')
+#1 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(27): Options->__construct()
+#2 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[19-Nov-2024 00:58:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "LIBS" in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php:5
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(15): {closure}('DB')
+#1 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(27): Options->__construct()
+#2 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[24-Nov-2024 08:03:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "LIBS" in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php:5
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(15): {closure}('DB')
+#1 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(27): Options->__construct()
+#2 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[17-Dec-2024 04:05:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "LIBS" in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php:5
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(15): {closure}('DB')
+#1 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(27): Options->__construct()
+#2 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[18-Dec-2024 11:16:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "LIBS" in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php:5
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(15): {closure}('DB')
+#1 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(27): Options->__construct()
+#2 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[24-Dec-2024 11:31:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "LIBS" in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php:5
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(15): {closure}('DB')
+#1 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(27): Options->__construct()
+#2 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[22-Jan-2025 07:44:04 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "LIBS" in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php:5
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(15): {closure}('DB')
+#1 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(27): Options->__construct()
+#2 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[02-Feb-2025 10:12:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "LIBS" in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php:5
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(15): {closure}('DB')
+#1 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(27): Options->__construct()
+#2 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[18-Feb-2025 08:35:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "LIBS" in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php:5
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(15): {closure}('DB')
+#1 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(27): Options->__construct()
+#2 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5
+[23-Feb-2025 12:46:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "LIBS" in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php:5
+Stack trace:
+#0 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(15): {closure}('DB')
+#1 /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php(27): Options->__construct()
+#2 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/app/src/Bootstrap.php on line 5

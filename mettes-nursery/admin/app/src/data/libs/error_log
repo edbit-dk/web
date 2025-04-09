@@ -1,0 +1,166 @@
+[20-Sep-2020 00:51:03 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[22-Feb-2021 08:33:00 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[22-Jul-2021 06:05:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[29-Dec-2021 14:27:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[17-Aug-2022 20:48:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[20-Feb-2024 17:43:04 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[20-Feb-2024 18:05:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[26-Jul-2024 23:44:56 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[23-Aug-2024 11:25:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[02-Sep-2024 17:43:35 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[02-Sep-2024 17:43:35 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[04-Sep-2024 01:42:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[04-Sep-2024 18:30:49 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32
+[11-Sep-2024 02:41:18 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[11-Sep-2024 02:41:18 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[11-Sep-2024 02:41:41 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32
+[30-Sep-2024 12:45:18 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[30-Sep-2024 12:45:18 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[30-Sep-2024 17:18:14 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32
+[30-Sep-2024 21:46:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[01-Oct-2024 06:25:43 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[01-Oct-2024 06:25:43 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[01-Oct-2024 09:23:27 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32
+[03-Oct-2024 00:19:23 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[03-Oct-2024 00:19:23 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[03-Oct-2024 00:34:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[03-Oct-2024 00:38:04 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32
+[03-Oct-2024 04:23:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[04-Oct-2024 03:26:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[13-Oct-2024 17:21:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[21-Oct-2024 23:35:35 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[21-Oct-2024 23:35:35 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[22-Oct-2024 03:23:56 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32
+[03-Nov-2024 03:32:45 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[03-Nov-2024 03:32:45 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[03-Nov-2024 06:41:59 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32
+[03-Nov-2024 14:04:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[11-Nov-2024 09:34:41 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[11-Nov-2024 09:34:41 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[11-Nov-2024 17:11:54 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[11-Nov-2024 17:11:54 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[11-Nov-2024 20:17:09 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32
+[29-Nov-2024 15:32:54 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[29-Nov-2024 15:32:54 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[29-Nov-2024 16:05:49 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32
+[04-Dec-2024 09:32:35 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[04-Dec-2024 09:32:35 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[04-Dec-2024 13:35:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[05-Dec-2024 06:40:11 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32
+[06-Dec-2024 19:51:15 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[06-Dec-2024 19:51:15 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[08-Dec-2024 16:39:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[08-Dec-2024 21:38:03 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32
+[09-Dec-2024 00:04:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[12-Dec-2024 05:53:51 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[12-Dec-2024 05:53:51 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[12-Dec-2024 06:28:37 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32
+[22-Dec-2024 08:24:50 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[22-Dec-2024 08:24:50 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[22-Dec-2024 09:01:29 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32
+[03-Jan-2025 11:47:54 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[03-Jan-2025 11:47:54 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[03-Jan-2025 11:51:29 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32
+[04-Jan-2025 03:09:25 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[04-Jan-2025 03:09:25 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[11-Jan-2025 04:06:26 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32
+[11-Jan-2025 14:08:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[15-Jan-2025 16:03:03 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[15-Jan-2025 16:03:03 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[15-Jan-2025 16:12:02 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32
+[24-Jan-2025 07:06:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[27-Jan-2025 19:46:50 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[27-Jan-2025 19:46:50 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[27-Jan-2025 19:56:02 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32
+[02-Feb-2025 01:35:23 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[02-Feb-2025 01:35:23 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[07-Feb-2025 07:34:59 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32
+[10-Feb-2025 02:53:22 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[10-Feb-2025 02:53:22 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[10-Feb-2025 03:01:59 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32
+[13-Feb-2025 02:25:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[22-Feb-2025 01:40:07 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[22-Feb-2025 01:40:07 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[22-Feb-2025 01:46:21 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32
+[06-Mar-2025 07:39:56 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[06-Mar-2025 07:39:56 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[06-Mar-2025 16:46:05 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[06-Mar-2025 16:46:05 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[06-Mar-2025 17:48:26 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32
+[07-Mar-2025 01:15:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[07-Mar-2025 16:28:29 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32
+[09-Mar-2025 01:51:28 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[09-Mar-2025 01:51:28 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[11-Mar-2025 11:07:46 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32
+[11-Mar-2025 13:44:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class "Controller" not found in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Router.php on line 3
+[12-Mar-2025 06:33:03 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[12-Mar-2025 06:33:03 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[21-Mar-2025 21:23:30 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $select in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 115
+[21-Mar-2025 21:23:30 Europe/Copenhagen] PHP Deprecated:  Required parameter $searchQuery follows optional parameter $searchTerms in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/DB.php on line 123
+[21-Mar-2025 21:55:49 Europe/Copenhagen] PHP Deprecated:  Required parameter $table follows optional parameter $data in /home/edbitdk/portfolio.edbit.dk/sde/mettes-nursery/admin/app/src/data/libs/Pagination.php on line 32

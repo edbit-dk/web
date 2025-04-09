@@ -1,0 +1,72 @@
+[18-Sep-2020 10:42:34 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/amazon.php on line 2
+[18-Sep-2020 10:42:36 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/amazonus.php on line 2
+[18-Sep-2020 10:42:38 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/ebay.php on line 2
+[18-Sep-2020 10:42:40 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/etsy.php on line 2
+[22-Feb-2021 08:06:56 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/amazon.php on line 2
+[22-Feb-2021 08:07:01 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/amazonus.php on line 2
+[22-Feb-2021 08:07:07 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/ebay.php on line 2
+[22-Feb-2021 08:07:13 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/etsy.php on line 2
+[22-Jul-2021 05:54:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/amazon.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/amazon.php on line 2
+[22-Jul-2021 05:54:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/amazonus.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/amazonus.php on line 2
+[22-Jul-2021 05:54:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/ebay.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/ebay.php on line 2
+[22-Jul-2021 05:54:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/etsy.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/etsy.php on line 2
+[29-Dec-2021 11:34:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/amazon.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/amazon.php on line 2
+[29-Dec-2021 11:34:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/amazonus.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/amazonus.php on line 2
+[29-Dec-2021 11:34:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/ebay.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/ebay.php on line 2
+[29-Dec-2021 11:34:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/etsy.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/etsy.php on line 2
+[17-Aug-2022 19:07:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/amazon.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/amazon.php on line 2
+[17-Aug-2022 19:07:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/amazonus.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/amazonus.php on line 2
+[17-Aug-2022 19:07:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/ebay.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/ebay.php on line 2
+[17-Aug-2022 19:07:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/etsy.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/etsy.php on line 2
+[01-Nov-2023 10:18:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/amazon.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/amazon.php on line 2
+[01-Nov-2023 10:18:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/amazonus.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/amazonus.php on line 2
+[01-Nov-2023 10:18:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/ebay.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/ebay.php on line 2
+[01-Nov-2023 10:18:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/etsy.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/catalog/controller/openbay/etsy.php on line 2

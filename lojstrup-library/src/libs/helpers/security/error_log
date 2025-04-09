@@ -1,0 +1,102 @@
+[18-Sep-2020 18:29:16 Europe/Copenhagen] PHP Fatal error:  Interface 'SingletonInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[22-Feb-2021 08:31:23 Europe/Copenhagen] PHP Fatal error:  Interface 'SingletonInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[22-Jul-2021 06:03:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'SingletonInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[29-Dec-2021 14:27:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'SingletonInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[17-Aug-2022 20:47:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'SingletonInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[20-Feb-2024 17:42:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'SingletonInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[20-Feb-2024 18:05:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'SingletonInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[23-Jul-2024 06:48:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'SingletonInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[21-Aug-2024 03:10:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'SingletonInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[24-Aug-2024 06:23:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'SingletonInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[12-Sep-2024 02:18:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SingletonInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[30-Sep-2024 10:51:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SingletonInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[05-Oct-2024 05:06:56 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SingletonInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[05-Oct-2024 05:46:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SingletonInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[10-Oct-2024 11:30:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SingletonInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[10-Oct-2024 16:45:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SingletonInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[27-Oct-2024 04:30:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SingletonInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[03-Nov-2024 07:50:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SingletonInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[12-Nov-2024 10:45:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SingletonInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[27-Nov-2024 18:28:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SingletonInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[09-Dec-2024 03:48:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SingletonInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[18-Dec-2024 00:03:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SingletonInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[11-Jan-2025 10:08:56 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SingletonInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[05-Feb-2025 05:35:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SingletonInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[13-Feb-2025 03:31:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SingletonInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[26-Feb-2025 08:39:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SingletonInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3
+[11-Mar-2025 17:00:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "SingletonInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/src/libs/helpers/security/Validate.php on line 3

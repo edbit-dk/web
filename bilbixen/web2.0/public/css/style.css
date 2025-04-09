@@ -1,0 +1,15 @@
+/* Custom styles */
+
+/* MAPS */
+#map-canvas {
+    height: 300px; 
+    width: 600px;
+    margin: 0px;
+    padding: 0px
+}
+
+#map {
+    height: 300px; 
+    width: 600px;
+    margin-top: 10px;
+}

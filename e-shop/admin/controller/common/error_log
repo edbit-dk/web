@@ -1,0 +1,132 @@
+[18-Sep-2020 00:18:58 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/column_left.php on line 2
+[18-Sep-2020 00:19:09 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/dashboard.php on line 2
+[18-Sep-2020 00:19:20 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/filemanager.php on line 2
+[18-Sep-2020 00:19:28 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/footer.php on line 2
+[18-Sep-2020 00:19:37 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/forgotten.php on line 2
+[18-Sep-2020 00:19:52 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/header.php on line 2
+[18-Sep-2020 00:19:58 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/login.php on line 2
+[18-Sep-2020 00:20:08 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/logout.php on line 2
+[18-Sep-2020 00:20:17 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/menu.php on line 2
+[18-Sep-2020 00:20:28 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/profile.php on line 2
+[18-Sep-2020 00:20:36 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/reset.php on line 2
+[18-Sep-2020 00:20:46 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/stats.php on line 2
+[22-Feb-2021 09:18:21 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/column_left.php on line 2
+[22-Feb-2021 09:18:40 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/dashboard.php on line 2
+[22-Feb-2021 09:43:45 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/filemanager.php on line 2
+[22-Feb-2021 09:43:53 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/footer.php on line 2
+[22-Feb-2021 09:43:57 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/forgotten.php on line 2
+[22-Feb-2021 09:44:03 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/header.php on line 2
+[22-Feb-2021 09:44:14 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/login.php on line 2
+[22-Feb-2021 09:44:21 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/logout.php on line 2
+[22-Feb-2021 09:44:28 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/menu.php on line 2
+[22-Feb-2021 09:44:31 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/profile.php on line 2
+[22-Feb-2021 09:44:42 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/reset.php on line 2
+[22-Feb-2021 09:44:48 Europe/Copenhagen] PHP Fatal error:  Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/stats.php on line 2
+[24-Jul-2021 05:09:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/column_left.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/column_left.php on line 2
+[24-Jul-2021 05:09:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/dashboard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/dashboard.php on line 2
+[24-Jul-2021 05:09:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/filemanager.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/filemanager.php on line 2
+[24-Jul-2021 05:09:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/footer.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/footer.php on line 2
+[24-Jul-2021 05:09:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/forgotten.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/forgotten.php on line 2
+[24-Jul-2021 05:09:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/header.php on line 2
+[24-Jul-2021 05:09:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/login.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/login.php on line 2
+[24-Jul-2021 05:09:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/logout.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/logout.php on line 2
+[24-Jul-2021 05:09:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/menu.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/menu.php on line 2
+[29-Dec-2021 11:29:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/column_left.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/column_left.php on line 2
+[29-Dec-2021 11:29:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/dashboard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/dashboard.php on line 2
+[29-Dec-2021 11:29:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/filemanager.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/filemanager.php on line 2
+[29-Dec-2021 11:30:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/footer.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/footer.php on line 2
+[29-Dec-2021 11:30:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/forgotten.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/forgotten.php on line 2
+[29-Dec-2021 11:30:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/header.php on line 2
+[29-Dec-2021 11:30:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/login.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/login.php on line 2
+[29-Dec-2021 11:30:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/logout.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/logout.php on line 2
+[29-Dec-2021 11:30:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/menu.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/menu.php on line 2
+[16-Jul-2022 17:05:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/column_left.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/column_left.php on line 2
+[16-Jul-2022 17:05:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/dashboard.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/dashboard.php on line 2
+[16-Jul-2022 17:05:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/filemanager.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/filemanager.php on line 2
+[16-Jul-2022 17:05:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/footer.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/footer.php on line 2
+[16-Jul-2022 17:05:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/forgotten.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/forgotten.php on line 2
+[16-Jul-2022 17:05:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/header.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/header.php on line 2
+[16-Jul-2022 17:05:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/login.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/login.php on line 2
+[16-Jul-2022 17:05:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/logout.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/logout.php on line 2
+[16-Jul-2022 17:05:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Controller' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/menu.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/controller/common/menu.php on line 2

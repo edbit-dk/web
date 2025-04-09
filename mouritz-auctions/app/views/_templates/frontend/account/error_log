@@ -1,0 +1,230 @@
+[19-Sep-2020 07:27:12 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[19-Sep-2020 07:27:12 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_FIRSTNAME - assumed 'USER_FIRSTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 4
+[19-Sep-2020 07:27:12 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_LASTNAME - assumed 'USER_LASTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 5
+[19-Sep-2020 07:27:12 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_EMAIL - assumed 'USER_EMAIL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 6
+[19-Sep-2020 07:27:12 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_PHONE - assumed 'USER_PHONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 7
+[19-Sep-2020 07:27:12 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ADDRESS - assumed 'USER_ADDRESS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 8
+[19-Sep-2020 07:27:12 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ZIPCODE - assumed 'USER_ZIPCODE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 9
+[19-Sep-2020 07:27:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function role() on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 17
+[25-Sep-2021 06:37:38 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[25-Sep-2021 06:37:38 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_FIRSTNAME - assumed 'USER_FIRSTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 4
+[25-Sep-2021 06:37:38 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_LASTNAME - assumed 'USER_LASTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 5
+[25-Sep-2021 06:37:38 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_EMAIL - assumed 'USER_EMAIL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 6
+[25-Sep-2021 06:37:38 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_PHONE - assumed 'USER_PHONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 7
+[25-Sep-2021 06:37:38 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ADDRESS - assumed 'USER_ADDRESS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 8
+[25-Sep-2021 06:37:38 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ZIPCODE - assumed 'USER_ZIPCODE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 9
+[25-Sep-2021 06:37:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function role() on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 17
+[14-Dec-2021 05:12:46 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[14-Dec-2021 05:12:46 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_FIRSTNAME - assumed 'USER_FIRSTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 4
+[14-Dec-2021 05:12:46 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_LASTNAME - assumed 'USER_LASTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 5
+[14-Dec-2021 05:12:46 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_EMAIL - assumed 'USER_EMAIL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 6
+[14-Dec-2021 05:12:46 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_PHONE - assumed 'USER_PHONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 7
+[14-Dec-2021 05:12:46 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ADDRESS - assumed 'USER_ADDRESS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 8
+[14-Dec-2021 05:12:46 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ZIPCODE - assumed 'USER_ZIPCODE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 9
+[14-Dec-2021 05:12:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function role() on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 17
+[17-Jan-2022 00:51:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[17-Jan-2022 00:51:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_FIRSTNAME - assumed 'USER_FIRSTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 4
+[17-Jan-2022 00:51:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_LASTNAME - assumed 'USER_LASTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 5
+[17-Jan-2022 00:51:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_EMAIL - assumed 'USER_EMAIL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 6
+[17-Jan-2022 00:51:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_PHONE - assumed 'USER_PHONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 7
+[17-Jan-2022 00:51:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ADDRESS - assumed 'USER_ADDRESS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 8
+[17-Jan-2022 00:51:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ZIPCODE - assumed 'USER_ZIPCODE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 9
+[17-Jan-2022 00:51:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function role() on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 17
+[03-May-2022 22:52:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[03-May-2022 22:52:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_FIRSTNAME - assumed 'USER_FIRSTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 4
+[03-May-2022 22:52:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_LASTNAME - assumed 'USER_LASTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 5
+[03-May-2022 22:52:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_EMAIL - assumed 'USER_EMAIL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 6
+[03-May-2022 22:52:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_PHONE - assumed 'USER_PHONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 7
+[03-May-2022 22:52:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ADDRESS - assumed 'USER_ADDRESS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 8
+[03-May-2022 22:52:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ZIPCODE - assumed 'USER_ZIPCODE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 9
+[03-May-2022 22:52:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function role() on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 17
+[17-Jul-2022 02:54:57 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[17-Jul-2022 02:54:57 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_FIRSTNAME - assumed 'USER_FIRSTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 4
+[17-Jul-2022 02:54:57 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_LASTNAME - assumed 'USER_LASTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 5
+[17-Jul-2022 02:54:57 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_EMAIL - assumed 'USER_EMAIL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 6
+[17-Jul-2022 02:54:57 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_PHONE - assumed 'USER_PHONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 7
+[17-Jul-2022 02:54:57 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ADDRESS - assumed 'USER_ADDRESS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 8
+[17-Jul-2022 02:54:57 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ZIPCODE - assumed 'USER_ZIPCODE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 9
+[17-Jul-2022 02:54:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function role() on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 17
+[16-Oct-2022 18:27:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[16-Oct-2022 18:27:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_FIRSTNAME - assumed 'USER_FIRSTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 4
+[16-Oct-2022 18:27:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_LASTNAME - assumed 'USER_LASTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 5
+[16-Oct-2022 18:27:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_EMAIL - assumed 'USER_EMAIL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 6
+[16-Oct-2022 18:27:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_PHONE - assumed 'USER_PHONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 7
+[16-Oct-2022 18:27:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ADDRESS - assumed 'USER_ADDRESS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 8
+[16-Oct-2022 18:27:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ZIPCODE - assumed 'USER_ZIPCODE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 9
+[16-Oct-2022 18:27:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function role() on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 17
+[16-May-2023 23:04:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[16-May-2023 23:04:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_FIRSTNAME - assumed 'USER_FIRSTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 4
+[16-May-2023 23:04:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_LASTNAME - assumed 'USER_LASTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 5
+[16-May-2023 23:04:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_EMAIL - assumed 'USER_EMAIL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 6
+[16-May-2023 23:04:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_PHONE - assumed 'USER_PHONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 7
+[16-May-2023 23:04:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ADDRESS - assumed 'USER_ADDRESS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 8
+[16-May-2023 23:04:07 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ZIPCODE - assumed 'USER_ZIPCODE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 9
+[16-May-2023 23:04:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function role() on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 17
+[20-Feb-2024 17:43:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[20-Feb-2024 17:43:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_FIRSTNAME - assumed 'USER_FIRSTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 4
+[20-Feb-2024 17:43:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_LASTNAME - assumed 'USER_LASTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 5
+[20-Feb-2024 17:43:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_EMAIL - assumed 'USER_EMAIL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 6
+[20-Feb-2024 17:43:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_PHONE - assumed 'USER_PHONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 7
+[20-Feb-2024 17:43:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ADDRESS - assumed 'USER_ADDRESS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 8
+[20-Feb-2024 17:43:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ZIPCODE - assumed 'USER_ZIPCODE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 9
+[20-Feb-2024 17:43:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function role() on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 17
+[20-Feb-2024 18:05:26 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[20-Feb-2024 18:05:26 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_FIRSTNAME - assumed 'USER_FIRSTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 4
+[20-Feb-2024 18:05:26 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_LASTNAME - assumed 'USER_LASTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 5
+[20-Feb-2024 18:05:26 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_EMAIL - assumed 'USER_EMAIL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 6
+[20-Feb-2024 18:05:26 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_PHONE - assumed 'USER_PHONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 7
+[20-Feb-2024 18:05:26 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ADDRESS - assumed 'USER_ADDRESS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 8
+[20-Feb-2024 18:05:26 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ZIPCODE - assumed 'USER_ZIPCODE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 9
+[20-Feb-2024 18:05:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function role() on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 17
+[26-Jul-2024 18:04:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[26-Jul-2024 18:04:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_FIRSTNAME - assumed 'USER_FIRSTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 4
+[26-Jul-2024 18:04:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_LASTNAME - assumed 'USER_LASTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 5
+[26-Jul-2024 18:04:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_EMAIL - assumed 'USER_EMAIL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 6
+[26-Jul-2024 18:04:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_PHONE - assumed 'USER_PHONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 7
+[26-Jul-2024 18:04:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ADDRESS - assumed 'USER_ADDRESS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 8
+[26-Jul-2024 18:04:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ZIPCODE - assumed 'USER_ZIPCODE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 9
+[26-Jul-2024 18:04:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function role() on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 17
+[21-Aug-2024 13:36:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[21-Aug-2024 13:36:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_FIRSTNAME - assumed 'USER_FIRSTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 4
+[21-Aug-2024 13:36:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_LASTNAME - assumed 'USER_LASTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 5
+[21-Aug-2024 13:36:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_EMAIL - assumed 'USER_EMAIL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 6
+[21-Aug-2024 13:36:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_PHONE - assumed 'USER_PHONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 7
+[21-Aug-2024 13:36:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ADDRESS - assumed 'USER_ADDRESS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 8
+[21-Aug-2024 13:36:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ZIPCODE - assumed 'USER_ZIPCODE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 9
+[21-Aug-2024 13:36:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function role() on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 17
+[23-Aug-2024 20:17:21 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[23-Aug-2024 20:17:21 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_FIRSTNAME - assumed 'USER_FIRSTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 4
+[23-Aug-2024 20:17:21 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_LASTNAME - assumed 'USER_LASTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 5
+[23-Aug-2024 20:17:21 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_EMAIL - assumed 'USER_EMAIL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 6
+[23-Aug-2024 20:17:21 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_PHONE - assumed 'USER_PHONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 7
+[23-Aug-2024 20:17:21 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ADDRESS - assumed 'USER_ADDRESS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 8
+[23-Aug-2024 20:17:21 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ZIPCODE - assumed 'USER_ZIPCODE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 9
+[23-Aug-2024 20:17:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function role() on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 17
+[29-Aug-2024 11:01:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[29-Aug-2024 11:01:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_FIRSTNAME - assumed 'USER_FIRSTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 4
+[29-Aug-2024 11:01:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_LASTNAME - assumed 'USER_LASTNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 5
+[29-Aug-2024 11:01:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_EMAIL - assumed 'USER_EMAIL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 6
+[29-Aug-2024 11:01:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_PHONE - assumed 'USER_PHONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 7
+[29-Aug-2024 11:01:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ADDRESS - assumed 'USER_ADDRESS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 8
+[29-Aug-2024 11:01:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_ZIPCODE - assumed 'USER_ZIPCODE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 9
+[29-Aug-2024 11:01:32 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function role() on null in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:17
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 17
+[10-Sep-2024 12:59:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[01-Oct-2024 00:02:04 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[03-Oct-2024 00:35:04 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[22-Oct-2024 13:48:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[28-Oct-2024 02:59:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[14-Nov-2024 04:13:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[29-Nov-2024 05:00:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[01-Dec-2024 07:56:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[13-Dec-2024 23:41:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[24-Dec-2024 10:49:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[24-Dec-2024 20:24:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[04-Jan-2025 20:48:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[17-Jan-2025 08:37:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[29-Jan-2025 12:48:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[11-Feb-2025 17:54:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[23-Feb-2025 14:42:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[24-Feb-2025 09:24:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[02-Mar-2025 06:26:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3
+[09-Mar-2025 12:13:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/_templates/frontend/account/header.php on line 3

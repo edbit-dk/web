@@ -1,0 +1,878 @@
+[20-Feb-2024 17:42:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant SSL - assumed 'SSL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[20-Feb-2024 17:42:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant CACHE - assumed 'CACHE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[20-Feb-2024 17:42:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[20-Feb-2024 17:42:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[20-Feb-2024 17:42:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 15
+[20-Feb-2024 17:42:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 18
+[20-Feb-2024 17:42:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 19
+[20-Feb-2024 17:42:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 20
+[20-Feb-2024 17:42:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 23
+[20-Feb-2024 17:42:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 24
+[20-Feb-2024 17:42:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 25
+[20-Feb-2024 17:42:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 29
+[20-Feb-2024 17:42:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 32
+[20-Feb-2024 17:42:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 33
+[20-Feb-2024 17:42:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 36
+[20-Feb-2024 17:42:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 37
+[20-Feb-2024 17:42:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 38
+[20-Feb-2024 17:42:03 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 41
+[20-Feb-2024 17:42:04 Europe/Copenhagen] PHP Warning:  Use of undefined constant DATABASE - assumed 'DATABASE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[20-Feb-2024 17:42:04 Europe/Copenhagen] PHP Warning:  Use of undefined constant UPLOADS - assumed 'UPLOADS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[20-Feb-2024 17:42:04 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[20-Feb-2024 17:42:04 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 18
+[20-Feb-2024 18:04:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant SSL - assumed 'SSL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[20-Feb-2024 18:04:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant DATABASE - assumed 'DATABASE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[20-Feb-2024 18:04:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[20-Feb-2024 18:04:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 15
+[20-Feb-2024 18:04:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 18
+[20-Feb-2024 18:04:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 19
+[20-Feb-2024 18:04:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 20
+[20-Feb-2024 18:04:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 23
+[20-Feb-2024 18:04:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 24
+[20-Feb-2024 18:04:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 25
+[20-Feb-2024 18:04:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 29
+[20-Feb-2024 18:04:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 32
+[20-Feb-2024 18:04:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 33
+[20-Feb-2024 18:04:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 36
+[20-Feb-2024 18:04:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 37
+[20-Feb-2024 18:04:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 38
+[20-Feb-2024 18:04:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 41
+[20-Feb-2024 18:04:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[20-Feb-2024 18:04:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant CACHE - assumed 'CACHE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[20-Feb-2024 18:04:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[20-Feb-2024 18:04:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 18
+[20-Feb-2024 18:04:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant UPLOADS - assumed 'UPLOADS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[26-Jul-2024 09:27:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant DATABASE - assumed 'DATABASE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[26-Jul-2024 09:27:27 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[26-Jul-2024 09:27:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[26-Jul-2024 09:27:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 15
+[26-Jul-2024 09:27:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 18
+[26-Jul-2024 09:27:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 19
+[26-Jul-2024 09:27:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 20
+[26-Jul-2024 09:27:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 23
+[26-Jul-2024 09:27:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 24
+[26-Jul-2024 09:27:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 25
+[26-Jul-2024 09:27:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 29
+[26-Jul-2024 09:27:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 32
+[26-Jul-2024 09:27:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 33
+[26-Jul-2024 09:27:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 36
+[26-Jul-2024 09:27:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 37
+[26-Jul-2024 09:27:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 38
+[26-Jul-2024 09:27:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 41
+[26-Jul-2024 09:27:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[26-Jul-2024 09:27:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 18
+[26-Jul-2024 09:27:38 Europe/Copenhagen] PHP Warning:  Use of undefined constant SSL - assumed 'SSL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[26-Jul-2024 09:27:38 Europe/Copenhagen] PHP Warning:  Use of undefined constant UPLOADS - assumed 'UPLOADS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[26-Jul-2024 13:57:35 Europe/Copenhagen] PHP Warning:  Use of undefined constant CACHE - assumed 'CACHE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[15-Aug-2024 09:43:04 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[15-Aug-2024 10:10:30 Europe/Copenhagen] PHP Warning:  Use of undefined constant DATABASE - assumed 'DATABASE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[15-Aug-2024 13:25:25 Europe/Copenhagen] PHP Warning:  Use of undefined constant CACHE - assumed 'CACHE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[15-Aug-2024 17:51:55 Europe/Copenhagen] PHP Warning:  Use of undefined constant SSL - assumed 'SSL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[15-Aug-2024 18:27:49 Europe/Copenhagen] PHP Warning:  Use of undefined constant UPLOADS - assumed 'UPLOADS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[15-Aug-2024 23:46:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[15-Aug-2024 23:46:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 15
+[15-Aug-2024 23:46:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 18
+[15-Aug-2024 23:46:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 19
+[15-Aug-2024 23:46:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 20
+[15-Aug-2024 23:46:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 23
+[15-Aug-2024 23:46:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 24
+[15-Aug-2024 23:46:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 25
+[15-Aug-2024 23:46:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 29
+[15-Aug-2024 23:46:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 32
+[15-Aug-2024 23:46:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 33
+[15-Aug-2024 23:46:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 36
+[15-Aug-2024 23:46:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 37
+[15-Aug-2024 23:46:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 38
+[15-Aug-2024 23:46:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 41
+[16-Aug-2024 01:30:55 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[16-Aug-2024 01:30:55 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 18
+[16-Aug-2024 02:32:43 Europe/Copenhagen] PHP Warning:  Use of undefined constant UPLOADS - assumed 'UPLOADS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[16-Aug-2024 06:52:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[16-Aug-2024 19:15:51 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[16-Aug-2024 19:15:51 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 18
+[16-Aug-2024 20:53:50 Europe/Copenhagen] PHP Warning:  Use of undefined constant SSL - assumed 'SSL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[17-Aug-2024 00:16:28 Europe/Copenhagen] PHP Warning:  Use of undefined constant DATABASE - assumed 'DATABASE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[17-Aug-2024 01:06:59 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[17-Aug-2024 01:06:59 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 15
+[17-Aug-2024 01:06:59 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 18
+[17-Aug-2024 01:06:59 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 19
+[17-Aug-2024 01:06:59 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 20
+[17-Aug-2024 01:06:59 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 23
+[17-Aug-2024 01:06:59 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 24
+[17-Aug-2024 01:06:59 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 25
+[17-Aug-2024 01:06:59 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 29
+[17-Aug-2024 01:06:59 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 32
+[17-Aug-2024 01:06:59 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 33
+[17-Aug-2024 01:06:59 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 36
+[17-Aug-2024 01:06:59 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 37
+[17-Aug-2024 01:06:59 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 38
+[17-Aug-2024 01:06:59 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 41
+[17-Aug-2024 21:53:15 Europe/Copenhagen] PHP Warning:  Use of undefined constant CACHE - assumed 'CACHE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[20-Aug-2024 11:38:35 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[20-Aug-2024 11:38:35 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 18
+[23-Aug-2024 18:33:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant DATABASE - assumed 'DATABASE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[23-Aug-2024 18:38:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant DEBUG - assumed 'DEBUG' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[23-Aug-2024 18:43:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[23-Aug-2024 18:43:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 15
+[23-Aug-2024 18:43:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 18
+[23-Aug-2024 18:43:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 19
+[23-Aug-2024 18:43:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 20
+[23-Aug-2024 18:43:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 23
+[23-Aug-2024 18:43:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 24
+[23-Aug-2024 18:43:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 25
+[23-Aug-2024 18:43:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 29
+[23-Aug-2024 18:43:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 32
+[23-Aug-2024 18:43:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 33
+[23-Aug-2024 18:43:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 36
+[23-Aug-2024 18:43:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 37
+[23-Aug-2024 18:43:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant APP - assumed 'APP' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 38
+[23-Aug-2024 18:43:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant ROOT - assumed 'ROOT' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 41
+[23-Aug-2024 19:02:21 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[23-Aug-2024 19:02:21 Europe/Copenhagen] PHP Warning:  Use of undefined constant TIMEZONE - assumed 'TIMEZONE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 18
+[23-Aug-2024 19:10:24 Europe/Copenhagen] PHP Warning:  Use of undefined constant SSL - assumed 'SSL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[23-Aug-2024 19:16:29 Europe/Copenhagen] PHP Warning:  Use of undefined constant UPLOADS - assumed 'UPLOADS' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[23-Aug-2024 20:20:47 Europe/Copenhagen] PHP Warning:  Use of undefined constant CACHE - assumed 'CACHE' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[10-Sep-2024 14:48:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[10-Sep-2024 14:50:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[10-Sep-2024 14:52:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[10-Sep-2024 15:15:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[10-Sep-2024 15:25:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[10-Sep-2024 15:40:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[10-Sep-2024 23:00:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[22-Sep-2024 00:17:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[22-Sep-2024 00:28:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[22-Sep-2024 00:33:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[22-Sep-2024 00:46:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[22-Sep-2024 00:52:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[22-Sep-2024 01:14:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[22-Sep-2024 01:23:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[22-Sep-2024 02:14:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[22-Sep-2024 02:18:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[22-Sep-2024 02:28:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[22-Sep-2024 02:33:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[22-Sep-2024 02:54:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[22-Sep-2024 02:55:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[22-Sep-2024 03:24:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[22-Sep-2024 03:26:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[22-Sep-2024 03:52:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[22-Sep-2024 05:56:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[22-Sep-2024 06:11:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[22-Sep-2024 09:17:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[22-Sep-2024 09:20:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[22-Sep-2024 20:28:04 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[24-Sep-2024 23:58:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[25-Sep-2024 02:11:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[25-Sep-2024 02:57:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[25-Sep-2024 03:53:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[25-Sep-2024 04:20:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[25-Sep-2024 09:05:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[25-Sep-2024 09:27:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[30-Sep-2024 00:59:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[30-Sep-2024 01:06:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[30-Sep-2024 01:14:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[30-Sep-2024 11:01:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[30-Sep-2024 11:06:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[30-Sep-2024 12:25:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[30-Sep-2024 22:32:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[05-Oct-2024 05:07:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[05-Oct-2024 05:07:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[20-Oct-2024 04:56:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[20-Oct-2024 06:10:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[20-Oct-2024 08:25:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[20-Oct-2024 22:35:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[20-Oct-2024 22:41:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[20-Oct-2024 22:52:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[21-Oct-2024 10:27:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[27-Oct-2024 18:45:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[27-Oct-2024 19:00:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[27-Oct-2024 22:26:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[28-Oct-2024 00:22:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[28-Oct-2024 01:28:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[28-Oct-2024 01:44:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[28-Oct-2024 05:25:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[08-Nov-2024 09:36:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[08-Nov-2024 10:47:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[08-Nov-2024 20:34:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[09-Nov-2024 21:14:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[09-Nov-2024 21:43:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[10-Nov-2024 02:52:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[10-Nov-2024 18:52:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[12-Nov-2024 10:48:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[12-Nov-2024 10:48:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[16-Nov-2024 18:36:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[16-Nov-2024 22:51:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[17-Nov-2024 12:08:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[17-Nov-2024 15:23:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[17-Nov-2024 16:09:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[18-Nov-2024 10:36:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[20-Nov-2024 20:47:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[21-Nov-2024 21:19:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[25-Nov-2024 15:27:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[25-Nov-2024 15:41:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[25-Nov-2024 22:33:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[26-Nov-2024 13:05:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[26-Nov-2024 13:11:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[26-Nov-2024 15:29:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[28-Nov-2024 12:59:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[28-Nov-2024 22:42:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[29-Nov-2024 02:50:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[29-Nov-2024 03:57:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[29-Nov-2024 04:34:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[29-Nov-2024 05:51:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[29-Nov-2024 07:47:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[29-Nov-2024 08:47:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[08-Dec-2024 23:33:56 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[08-Dec-2024 23:51:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[09-Dec-2024 03:27:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[09-Dec-2024 10:14:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[09-Dec-2024 10:27:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[09-Dec-2024 21:18:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[11-Dec-2024 14:08:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[20-Dec-2024 01:35:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[20-Dec-2024 01:39:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[20-Dec-2024 05:02:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[20-Dec-2024 08:42:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[20-Dec-2024 08:47:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[20-Dec-2024 15:44:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[21-Dec-2024 07:07:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[29-Dec-2024 20:18:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[29-Dec-2024 21:29:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[29-Dec-2024 21:38:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[30-Dec-2024 00:35:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[30-Dec-2024 01:19:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[30-Dec-2024 01:27:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[30-Dec-2024 04:59:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[02-Jan-2025 12:51:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[02-Jan-2025 13:40:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[02-Jan-2025 16:07:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[02-Jan-2025 18:31:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[02-Jan-2025 18:34:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[02-Jan-2025 22:08:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[03-Jan-2025 01:48:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[03-Jan-2025 19:01:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[04-Jan-2025 14:45:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[04-Jan-2025 14:58:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[14-Jan-2025 00:19:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[14-Jan-2025 00:55:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[14-Jan-2025 03:44:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[14-Jan-2025 07:49:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[14-Jan-2025 07:54:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[14-Jan-2025 14:13:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[14-Jan-2025 19:38:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[25-Jan-2025 05:07:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[25-Jan-2025 05:32:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[25-Jan-2025 07:15:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[25-Jan-2025 11:24:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[25-Jan-2025 11:27:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[25-Jan-2025 17:28:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[25-Jan-2025 22:35:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[27-Jan-2025 13:06:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[27-Jan-2025 14:54:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[27-Jan-2025 15:51:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[27-Jan-2025 19:12:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[27-Jan-2025 23:27:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[27-Jan-2025 23:58:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[28-Jan-2025 00:07:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[06-Feb-2025 14:54:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[06-Feb-2025 15:26:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[07-Feb-2025 13:09:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[08-Feb-2025 01:52:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[08-Feb-2025 02:00:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[08-Feb-2025 11:48:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[08-Feb-2025 17:18:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[16-Feb-2025 21:00:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[17-Feb-2025 00:10:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[17-Feb-2025 01:01:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[17-Feb-2025 22:59:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[17-Feb-2025 23:02:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[18-Feb-2025 15:46:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[19-Feb-2025 07:34:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[19-Feb-2025 07:37:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[19-Feb-2025 12:05:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[19-Feb-2025 16:25:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[19-Feb-2025 17:35:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[20-Feb-2025 04:23:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[20-Feb-2025 07:23:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[22-Feb-2025 07:33:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[22-Feb-2025 11:28:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[22-Feb-2025 22:50:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[23-Feb-2025 22:35:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[28-Feb-2025 12:05:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[28-Feb-2025 14:18:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[28-Feb-2025 14:31:56 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[28-Feb-2025 15:46:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[28-Feb-2025 15:48:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[28-Feb-2025 15:52:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[28-Feb-2025 16:51:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[28-Feb-2025 22:13:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[28-Feb-2025 23:39:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[01-Mar-2025 05:26:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[01-Mar-2025 19:41:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[01-Mar-2025 19:47:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[02-Mar-2025 18:07:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[02-Mar-2025 23:46:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18
+[13-Mar-2025 23:58:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DEBUG" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php:15
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Errors.php on line 15
+[14-Mar-2025 00:28:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "DATABASE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Databases.php on line 9
+[15-Mar-2025 00:59:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "APP" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Folders.php on line 14
+[15-Mar-2025 10:43:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "TIMEZONE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Time.php on line 13
+[15-Mar-2025 10:49:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "SSL" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php:32
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/URL.php on line 32
+[16-Mar-2025 16:19:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "UPLOADS" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Uploads.php on line 9
+[17-Mar-2025 01:10:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "CACHE" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/config/Caching.php on line 18

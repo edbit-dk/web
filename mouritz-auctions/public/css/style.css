@@ -1,0 +1,444 @@
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic,800,800italic,300italic,300|Slabo+27px");
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic,800,800italic,300italic,300|Slabo+27px");
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic,800,800italic,300italic,300|Slabo+27px");
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic,800,800italic,300italic,300|Slabo+27px");
+@import url("http://fonts.googleapis.com/css?family=Open+Sans:400,400italic,600,600italic,700,700italic,800,800italic,300italic,300|Slabo+27px");
+/* line 48, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_typography.scss */
+h1, h2, h3, h4, h5, h6 {
+  margin: 0 0 0.75rem;
+  line-height: 1.1; }
+
+/* line 54, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_typography.scss */
+p, [class*='btn-'], input[type="submit"] {
+  margin: 0 0 0.75rem;
+  font-family: inherit;
+  font-size: 1rem;
+  font-weight: normal;
+  line-height: 150%; }
+  /* line 61, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_typography.scss */
+  p.lead, blockquote p, blockquote [class*='btn-'], blockquote input[type="submit"], .lead[class*='btn-'], input.lead[type="submit"] {
+    font-size: 1.133333333rem;
+    line-height: 1.33; }
+
+/* line 69, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_typography.scss */
+ul, ol {
+  padding-left: 1.5rem; }
+  /* line 72, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_typography.scss */
+  ul li, ol li {
+    line-height: 150%; }
+  /* line 76, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_typography.scss */
+  ul.unstyled, ol.unstyled {
+    padding: 0;
+    list-style: none; }
+  /* line 81, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_typography.scss */
+  ul.inline, ol.inline {
+    margin: 0 1rem 0.75rem -1rem;
+    padding: 0;
+    list-style: none;
+    overflow: hidden; }
+    /* line 87, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_typography.scss */
+    ul.inline > li, ol.inline > li {
+      display: block;
+      float: left;
+      margin-left: 1rem;
+      list-style: none; }
+
+/* line 96, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_typography.scss */
+dl {
+  margin: 0 0 0.75rem;
+  line-height: 150%; }
+
+/* line 101, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_typography.scss */
+dt {
+  font-weight: bold; }
+
+/* line 105, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_typography.scss */
+dd {
+  margin: 0 0 0.5rem; }
+
+/* line 110, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_typography.scss */
+blockquote {
+  position: relative;
+  margin: 1.5rem 1rem 1.5rem 3rem; }
+  /* line 118, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_typography.scss */
+  blockquote:before {
+    content: "“";
+    display: block;
+    position: absolute;
+    top: -1rem;
+    left: -3rem;
+    font-size: 5rem;
+    line-height: 1; }
+
+/* line 130, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_typography.scss */
+.text-left {
+  text-align: left; }
+
+/* line 131, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_typography.scss */
+.text-center {
+  text-align: center; }
+
+/* line 132, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_typography.scss */
+.text-right {
+  text-align: right; }
+
+@media only screen and (min-width: 641px) {
+  /* line 139, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_typography.scss */
+  h1 {
+    font-size: 3.160493827rem; }
+
+  /* line 140, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_typography.scss */
+  h2 {
+    font-size: 2.37037037rem; }
+
+  /* line 141, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_typography.scss */
+  h3 {
+    font-size: 1.777777778rem; }
+
+  /* line 142, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_typography.scss */
+  h4 {
+    font-size: 1.333333333rem; }
+
+  /* line 143, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_typography.scss */
+  h5 {
+    font-size: 1rem; }
+
+  /* line 144, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_typography.scss */
+  h6 {
+    font-size: 1rem; }
+
+  /* line 146, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_typography.scss */
+  p.lead, blockquote p, blockquote [class*='btn-'], blockquote input[type="submit"], .lead[class*='btn-'], input.lead[type="submit"] {
+    font-size: 1.333333333rem; }
+ }
+
+/*
+  Box Sizing
+*/
+/* line 19, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/_box_sizing.scss */
+div, article, section, main, footer, header, form, fieldset, pre, code, p, [class*='btn-'], input[type="submit"], input[type="text"], input[type="tel"], input[type="email"], input[type="password"] {
+  box-sizing: border-box; }
+
+/*  Removes default browser settings
+ *  and evens out inconsistencies. */
+/* line 3, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/tables/components/tables.scss */
+table {
+  width: 100%;
+  max-width: 100%;
+  margin-bottom: 1.5625em;
+  border-collapse: collapse;
+  border-spacing: 0; }
+
+/* line 12, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/tables/components/tables.scss */
+th, td {
+  text-align: left;
+  padding: 0.5em; }
+
+/* line 17, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/tables/components/tables.scss */
+th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+  vertical-align: bottom; }
+
+/* line 23, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/tables/components/tables.scss */
+td {
+  border-top: 0.0725em solid #ededed;
+  vertical-align: top; }
+
+/* line 28, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/tables/components/tables.scss */
+tbody tr:nth-child(even) {
+  background-color: #f7f7f7; }
+
+/* line 33, C:/xampp/htdocs/projects/mouritz-com/public/scss/base/tables/components/tables.scss */
+.table-condensed th, .table-condensed td {
+  padding: 0.25em; }
+
+/*
+
+MODULES
+
+
+ */
+/* line 4, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_header.scss */
+.nav-wrapper {
+  margin-bottom: 60px; }
+
+/* line 12, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_header.scss */
+.nav {
+  list-style: none;
+  margin: 0 auto;
+  width: 50%; }
+
+/* line 20, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_header.scss */
+.nav .navItem {
+  float: left !important;
+  margin-left: 2em !important;
+  border-bottom: 1px solid transparent !important;
+  padding-bottom: 5px !important; }
+  /* line 32, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_header.scss */
+  .nav .navItem:hover {
+    -webkit-transform: scale(1.2) !important;
+    -ms-transform: scale(1.2) !important;
+    transform: scale(1.2) !important; }
+  /* line 39, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_header.scss */
+  .nav .navItem a {
+    color: #000 !important;
+    text-decoration: none !important;
+    border-bottom: 1px solid transparent !important; }
+    /* line 44, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_header.scss */
+    .nav .navItem a:hover {
+      border-bottom: 1px solid #ae2828 !important; }
+
+/* line 54, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_header.scss */
+.nav .navItem:first-child {
+  margin-left: 0; }
+
+/* line 62, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_header.scss */
+.logo-wrapper {
+  margin-top: 30px; }
+
+/* line 70, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_header.scss */
+.logoLink {
+  border: none; }
+
+/* line 5, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_auctions.scss */
+.auction-wrapper {
+  min-height: 650px;
+  border: 1px solid #cecece;
+  border-radius: 5px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+  padding-left: 25px;
+  padding-right: 25px;
+  margin-bottom: 20px; }
+
+/* line 23, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_auctions.scss */
+.auction-header {
+  text-align: center; }
+  /* line 26, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_auctions.scss */
+  .auction-header img {
+    max-width: 100%;
+    max-height: 200px; }
+
+/* line 34, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_auctions.scss */
+.auction-header h3 {
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  border-bottom: 1px solid #ae2828;
+  padding-bottom: 25px; }
+  /* line 50, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_auctions.scss */
+  .auction-header h3 a {
+    border-bottom: 1px solid transparent; }
+    /* line 56, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_auctions.scss */
+    .auction-header h3 a:hover {
+      border-bottom: 1px solid #000; }
+
+/* line 75, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_auctions.scss */
+#thumbnails a {
+  margin-right: 20px; }
+
+/* line 83, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_auctions.scss */
+.bids-table tr:nth-child(2) {
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5) !important; }
+
+/* line 3, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_form.scss */
+.login-wrap {
+  text-align: center; }
+
+/* line 12, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_form.scss */
+input[type="text"], input[type="password"], [class*='btn-'], input[type="submit"], select, input[type="date"], input[type="file"] {
+  border: none;
+  border-radius: 5px;
+  width: 60%;
+  padding: 20px 20px; }
+
+/* line 23, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_form.scss */
+input[type="text"], input[type="password"], select, input[type="date"], input[type="file"] {
+  background: #f0eae8; }
+
+/* line 29, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_form.scss */
+input[type="file"] {
+  width: 100%; }
+
+/* line 35, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_form.scss */
+[class*='btn-'], input[type="submit"] {
+  width: 200px;
+  background: #ae2828;
+  color: white; }
+  /* line 44, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_form.scss */
+  [class*='btn-']:hover, input[type="submit"]:hover {
+    box-shadow: inset 0 0 8px rgba(0, 0, 0, 0.5);
+    text-shadow: 1px 1px 5px rgba(0, 0, 0, 0.5);
+    cursor: pointer; }
+  /* line 53, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_form.scss */
+  [class*='btn-']:focus, input[type="submit"]:focus {
+    box-shadow: inset 0 0 8px rgba(0, 0, 0, 0.8);
+    background: #9e2424; }
+
+/* line 3, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_search.scss */
+.search-group {
+  display: inline; }
+
+/* line 8, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_search.scss */
+.search-input {
+  border: none !important;
+  border-right: 1px solid #eee8e7 !important;
+  border-radius: 5px 0 0 5px !important;
+  width: 30% !important;
+  padding: 20px 8px 20px 20px !important;
+  background: #f0eae8 !important; }
+
+/* line 20, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_search.scss */
+.search-icon {
+  font-size: 18px;
+  border: none;
+  color: #ae2828;
+  background: #f0eae8;
+  margin-top: 0;
+  margin-bottom: 0;
+  margin-right: 0;
+  margin-left: -4px;
+  padding: 15px 18px 18px 18px;
+  border-radius: 0 5px 5px 0;
+  border-left: 1px solid #ddd7d5;
+  outline: none; }
+  /* line 37, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_search.scss */
+  .search-icon:hover {
+    box-shadow: inset 0 0 20px rgba(0, 0, 0, 0.15);
+    color: #ff5050;
+    cursor: pointer; }
+  /* line 44, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_search.scss */
+  .search-icon:focus {
+    color: #ffa0a0; }
+
+/* line 52, C:/xampp/htdocs/projects/mouritz-com/public/scss/modules/_search.scss */
+.cats-selector {
+  border: none !important;
+  border-right: 1px solid #eee8e7 !important;
+  border-radius: 5px 0 0 5px !important;
+  width: 30% !important;
+  padding: 20px 8px 20px 20px !important;
+  background: #f0eae8 !important; }
+
+/* line 19, C:/xampp/htdocs/projects/mouritz-com/public/scss/style.scss */
+::selection {
+  background: #ae2828 !important;
+  color: #fff;
+  text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+  padding: 3px; }
+
+/* line 26, C:/xampp/htdocs/projects/mouritz-com/public/scss/style.scss */
+::-moz-selection {
+  background: #ae2828 !important;
+  color: #fff;
+  text-shadow: 2px 2px 10px rgba(0, 0, 0, 0.5);
+  padding: 3px; }
+
+/* line 34, C:/xampp/htdocs/projects/mouritz-com/public/scss/style.scss */
+* {
+  transition: all ease-in 0.2s;
+  outline: none; }
+
+/* line 40, C:/xampp/htdocs/projects/mouritz-com/public/scss/style.scss */
+body {
+  font-family: 'Open Sans', sans-serif;
+  -webkit-font-smoothing: antialiased !important;
+  text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.004); }
+
+/* line 50, C:/xampp/htdocs/projects/mouritz-com/public/scss/style.scss */
+a {
+  cursor: pointer;
+  color: #000;
+  text-decoration: none;
+  margin-bottom: 15px;
+  border-bottom: 1px solid; }
+  /* line 63, C:/xampp/htdocs/projects/mouritz-com/public/scss/style.scss */
+  a:hover {
+    padding-bottom: 2px; }
+
+/* line 73, C:/xampp/htdocs/projects/mouritz-com/public/scss/style.scss */
+.open-sans {
+  font-family: 'Open Sans', sans-serif; }
+
+/* line 78, C:/xampp/htdocs/projects/mouritz-com/public/scss/style.scss */
+.slabo {
+  font-family: 'Slabo 27px', serif; }
+
+/* line 83, C:/xampp/htdocs/projects/mouritz-com/public/scss/style.scss */
+.page-wrapper, .container {
+  max-width: 1100px;
+  margin: 0 auto; }
+
+/* line 89, C:/xampp/htdocs/projects/mouritz-com/public/scss/style.scss */
+th {
+  font-family: 'Slabo 27px', serif;
+  font-weight: 600; }
+
+/* line 97, C:/xampp/htdocs/projects/mouritz-com/public/scss/style.scss */
+pre {
+  max-width: 500px;
+  margin: 50px auto;
+  overflow: auto;
+  text-align: left;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  padding-left: 10px;
+  padding-right: 10px;
+  background: #ebebeb;
+  border: 1px solid #d3d3d3;
+  border-radius: 5px; }
+
+/* line 116, C:/xampp/htdocs/projects/mouritz-com/public/scss/style.scss */
+.heading {
+  font-family: 'Slabo 27px', serif;
+  margin-bottom: 20px;
+  letter-spacing: 1px; }
+
+/* line 126, C:/xampp/htdocs/projects/mouritz-com/public/scss/style.scss */
+.noLi {
+  list-style-type: none; }
+
+/* line 131, C:/xampp/htdocs/projects/mouritz-com/public/scss/style.scss */
+.center {
+  text-align: center; }
+
+/* line 136, C:/xampp/htdocs/projects/mouritz-com/public/scss/style.scss */
+img {
+  max-width: 100%;
+  height: auto; }
+
+/* line 142, C:/xampp/htdocs/projects/mouritz-com/public/scss/style.scss */
+.noMargin-bottom {
+  margin-bottom: 0; }
+
+/* line 152, C:/xampp/htdocs/projects/mouritz-com/public/scss/style.scss */
+#bxslider, #bxslider li {
+  margin: 0; }
+
+/* line 157, C:/xampp/htdocs/projects/mouritz-com/public/scss/style.scss */
+.white {
+  color: #fff; }
+
+/* line 162, C:/xampp/htdocs/projects/mouritz-com/public/scss/style.scss */
+.margin-top {
+  margin-top: attr(data-margin px); }
+
+/* line 167, C:/xampp/htdocs/projects/mouritz-com/public/scss/style.scss */
+table, th, td {
+  outline: none;
+  border: none; }
+
+/* line 173, C:/xampp/htdocs/projects/mouritz-com/public/scss/style.scss */
+th {
+  margin-left: 10px; }
+
+/* line 182, C:/xampp/htdocs/projects/mouritz-com/public/scss/style.scss */
+.bought {
+  color: red;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2); }
+
+/* line 188, C:/xampp/htdocs/projects/mouritz-com/public/scss/style.scss */
+.not-bought {
+  color: green;
+  text-shadow: 2px 2px 2px rgba(0, 0, 0, 0.2); }

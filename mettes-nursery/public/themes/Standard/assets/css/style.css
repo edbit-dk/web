@@ -1,0 +1,317 @@
+/*
+Copyright (C) 2015 thom855j
+
+This program is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 3 of the License, or
+(at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program.  If not, see <http://www.gnu.org/licenses/>.
+*/
+/*
+    Created on : Mar 23, 2015, 4:33:53 PM
+    Author     : thom855j
+*/
+
+/*
+Siden
+selve siden er centret på midten og justeret så der ingen margin er på top og
+bund.
+bold bruges I henhold til designet.
+*/
+body {
+    font-family: Ariel;
+    font-size: 12px;
+    /* color: #D0D6B8;*/
+    line-height: 14px;
+    background:  #D0D6B8;
+}
+
+a {
+    color: #8ab512;
+    font-size: 14px;
+}
+
+.container {
+    background-color: #ffffff;
+}
+
+/*  Titles */
+h1{
+    font-family:   Verdana;
+    font-size: 18px;
+    color: #8AB512;
+}
+
+h2{
+    font-family: Trebuchet MS;
+    font-size: 16px;
+    color: #8AB512;
+}
+
+.product h6{
+    font-size: 18px;
+    color: #595959;
+}
+
+.add-to-cart h5{
+    color: #595959;
+    font-size: 14px;
+    background: #eceee1;
+    padding: 8px;
+    margin-top: 0px;
+    color: #595959;
+    font-weight: normal;
+}
+
+.add-to-cart{
+    text-align: center;   
+    border: solid 1px #eceee1;
+    margin-top: 25px;
+}
+
+.add-to-cart, .add-to-cart input[type="submit"]  {
+    border: solid 1px #90918b;
+    color: #90918b;
+}
+
+.no-border {
+    border: none;
+    background: none;
+}
+ td input[type="number"] {
+    width: 40px;
+}
+
+ input[type="number"] {
+    width: 50px;
+}
+
+.out-of-stock{
+    color: #90918b;
+}
+
+/*
+Mest populære,
+sidenavn,
+indkøbskurv,
+kundel login og
+links. (statiske overskrifter)
+*/
+h3 {
+    font-family: Trebuchet MS;
+    font-size: 14px;
+    color: #8AB512;
+    border-bottom: dotted 2px #8AB512;
+}
+
+h4 {
+    color: #ffffff;
+    font-size: 14px;
+    font-family: Trebuchet MS;
+    padding: 0px;
+    margin-top: 2px;
+    margin-bottom: 2px;
+}
+
+
+
+thead{
+    background-color: #8ab512;
+    color: #ffffff;
+}
+
+.table>tbody>tr>td, .table>thead>tr>th{
+    padding: 3px;
+    font-size: 14px;
+}
+
+.result{
+    border: 1px solid #edeee3;
+}
+
+.padding{
+    padding-left: 0px;
+}
+
+.login input {
+    background-color: #ffffff;
+    background: transparent;
+    border: solid  1.5px #8ab512;
+    margin-top: 5px;
+    color: #8ab512;
+}
+
+/*  Menu */
+.menu {
+    font-family: font - Verdana;
+    font-size: 10px;
+    color: #90918B;
+    bacground: #ECEEE1;
+}
+
+
+.menu a:hover{
+    background: #DFE7C0;
+}
+
+
+/*Navigation*/
+.navbar {
+    border: none;
+    min-height: 25px;
+    border-radius: 0px;
+}
+
+.navbar-nav {
+    margin-left: -15px;
+}
+
+.navbar-default{
+    background-color: #eceee1;
+}
+
+.navfix {
+    margin-bottom: 0px;
+}
+
+.subnav {
+    min-height: 0px;
+    background-color: #f7f8f3;
+}
+
+#navbar > ul > li > a{
+    padding-right: 30px;
+    padding-left: 30px;
+}
+
+.navbar-nav>li>a {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
+#navbar > ul > li.active > a, #subbar > ul > li.active > a{
+    background-color: #dfe7c0;
+}
+
+#navbar > ul > li:hover, #subbar > ul > li:hover{
+    background-color: #dfe7c0;
+}
+
+
+/*  Sidebar-left */
+.popular{
+    color: #8ab512;
+}
+.banner img {
+    width: 100%;
+}
+
+.index img {
+    width: 30%;
+}
+
+img.location {
+    width: 100%;
+}
+
+.links{
+    padding: 5px;
+}
+
+/*Sidebar-right*/
+.bucket input{
+    border: none;
+    font-size: 11px;
+    padding: 0px;
+    margin: 0px;
+}
+
+
+input[type="submit"]
+{
+    background-color: #ffffff;
+    background: transparent;
+    border: solid  1.5px #8ab512;
+    padding: 2px 25px 2px 25px;
+    color: #8ab512;
+}
+
+.bucket input[type="submit"]{
+    border-top: solid  1.5px #ffffff;
+    border-left:  solid  1.5px #ffffff;
+    border-bottom: solid  1.5px #789d10;
+    border-right: solid  1.5px #789d10;
+    color: #ffffff;
+    padding-right: 5px;
+    padding-left: 5px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin-top: 2px;
+    margin-right: 5px;
+}
+
+.login input[type="submit"]
+{
+    background-color: #ffffff;
+    background: transparent;
+    border: solid  1.5px #8ab512;
+    padding: 2px 25px 2px 25px;
+    color: #8ab512;
+    margin-top: -10px;
+}
+
+.login a {
+    margin-left: 10px;
+}
+
+.bucket-titles > * {
+    display: inline-block;
+}
+
+.bucket-titles {
+    background-color: #8ab512;
+    padding-left: 5px;
+    padding-right:  5px;
+
+}
+
+.bucket-titles .last{
+    background-color: #8ab512;
+    float: right;
+}
+
+.bucket-submit {
+    background-color: #8ab512;  
+    min-height:  20px;
+    border-top: #ffffff;
+}
+
+.bucket-submit input{
+    float: right;   
+    color: #ffffff;
+}
+
+footer{
+    background-color: #8bb513;
+    text-align: center;
+    color: #ffffff;
+    padding: 2px;
+    font-size: 13px;
+    margin-top: 20px;
+}
+
+/*Layout*/
+@media (min-width: 1200px){
+    .container {
+        width: 785px;
+    }
+}
+
+

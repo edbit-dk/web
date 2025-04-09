@@ -1,0 +1,6 @@
+[18-Sep-2020 00:29:32 Europe/Copenhagen] PHP Fatal error:  Cannot redeclare mb_ord() in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/vendors/codemanager/lib/diff_match_patch.php on line 2076
+[22-Feb-2021 08:27:14 Europe/Copenhagen] PHP Fatal error:  Cannot redeclare mb_ord() in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/vendors/codemanager/lib/diff_match_patch.php on line 2076
+[22-Jul-2021 06:01:08 Europe/Copenhagen] PHP Fatal error:  Cannot redeclare mb_ord() in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/vendors/codemanager/lib/diff_match_patch.php on line 2071
+[29-Dec-2021 14:25:13 Europe/Copenhagen] PHP Fatal error:  Cannot redeclare mb_ord() in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/vendors/codemanager/lib/diff_match_patch.php on line 2071
+[17-Aug-2022 20:43:17 Europe/Copenhagen] PHP Fatal error:  Cannot redeclare mb_ord() in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/vendors/codemanager/lib/diff_match_patch.php on line 2071
+[01-Nov-2023 10:22:44 Europe/Copenhagen] PHP Fatal error:  Cannot redeclare mb_ord() in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/vendors/codemanager/lib/diff_match_patch.php on line 2071

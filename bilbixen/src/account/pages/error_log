@@ -1,0 +1,142 @@
+[17-Sep-2020 22:59:28 Europe/Copenhagen] PHP Notice:  Undefined variable: handler in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/ads.php on line 18
+[17-Sep-2020 22:59:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/ads.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/ads.php on line 18
+[17-Sep-2020 22:59:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/comments.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/comments.php on line 16
+[17-Sep-2020 22:59:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/messages.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/messages.php on line 4
+[17-Sep-2020 22:59:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/settings.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/settings.php on line 5
+[17-Sep-2020 22:59:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/stats.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/stats.php on line 3
+[17-Sep-2020 22:59:57 Europe/Copenhagen] PHP Notice:  Undefined variable: handler in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/subscribers.php on line 6
+[17-Sep-2020 22:59:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/subscribers.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/subscribers.php on line 6
+[17-Sep-2020 23:00:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/users.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/users.php on line 3
+[22-Feb-2021 09:10:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/comments.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/comments.php on line 16
+[22-Feb-2021 09:10:32 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/messages.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/messages.php on line 4
+[22-Feb-2021 09:10:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/stats.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/stats.php on line 3
+[22-Feb-2021 09:10:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/users.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/users.php on line 3
+[24-Jul-2021 05:07:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/comments.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/comments.php on line 16
+[24-Jul-2021 05:07:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/messages.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/messages.php on line 4
+[24-Jul-2021 05:08:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/stats.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/stats.php on line 3
+[24-Jul-2021 05:08:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/users.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/users.php on line 3
+[29-Dec-2021 11:28:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/comments.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/comments.php on line 16
+[29-Dec-2021 11:28:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/messages.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/messages.php on line 4
+[29-Dec-2021 11:28:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/stats.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/stats.php on line 3
+[29-Dec-2021 11:28:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/users.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/users.php on line 3
+[16-Jul-2022 16:50:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/comments.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/comments.php on line 16
+[16-Jul-2022 16:50:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/messages.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/messages.php on line 4
+[16-Jul-2022 16:50:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/stats.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/stats.php on line 3
+[16-Jul-2022 16:50:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/users.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/users.php on line 3
+[20-May-2023 02:30:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/comments.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/comments.php on line 16
+[20-May-2023 02:30:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/messages.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/messages.php on line 4
+[20-May-2023 02:30:56 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/stats.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/stats.php on line 3
+[20-May-2023 02:30:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/users.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/users.php on line 3
+[16-Nov-2023 10:29:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/comments.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/comments.php on line 16
+[16-Nov-2023 10:29:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/messages.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/messages.php on line 4
+[16-Nov-2023 10:29:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/stats.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/stats.php on line 3
+[16-Nov-2023 10:29:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/users.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/users.php on line 3
+[14-Apr-2024 03:07:49 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/comments.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/comments.php on line 16
+[14-Apr-2024 03:07:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/messages.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/messages.php on line 4
+[14-Apr-2024 03:08:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/stats.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/stats.php on line 3
+[14-Apr-2024 03:38:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/users.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/pages/users.php on line 3

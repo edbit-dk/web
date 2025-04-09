@@ -1,0 +1,21 @@
+.btn-primary {
+    background:#cc0001;
+    border:#cc0001;
+}
+
+.btn-primary:hover {
+    background:#fe0000;
+    border:#cfe0000;
+}
+
+#menu {
+	background-color: #990100;
+	background-image: linear-gradient(to bottom, #fe0000, #990100);
+	background-repeat: repeat-x;
+	border-color: #990100 #990100 #fe0000;
+	min-height: 40px;
+}
+
+#search, #cart {
+	margin-top: 60px;
+}

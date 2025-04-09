@@ -1,0 +1,24 @@
+@charset "utf-8";
+/* CSS Document */
+
+.info{text-align: center;}
+
+.about01 .mg1-3, .about02 .mg1-3{
+width: 21%;
+}
+
+
+.info-wrapper{
+padding: 30px 30px 100px 30px;
+
+}
+
+.about01{padding-bottom: 30px;
+border-bottom: 1px solid #cccccc;
+}
+.about02{padding-top: 30px;
+padding-bottom: 30px;
+border-bottom: 1px solid #cccccc;}
+
+
+

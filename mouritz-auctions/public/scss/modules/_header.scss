@@ -1,0 +1,73 @@
+@import "../base/_variables.scss";
+
+
+.nav-wrapper {
+	margin: {
+		bottom: 60px;
+
+	}
+
+}
+
+.nav {
+	list-style: none;
+	margin: 0 auto;
+	width: 50%;
+
+}
+
+$navScale: scale(1.2);
+.nav .navItem {
+	float: left !important;
+	margin: {
+		left: 2em !important;
+
+	}
+	border-bottom: 1px solid transparent !important;
+	padding: {
+				bottom: 5px !important;
+
+	}
+
+	&:hover {
+			-webkit-transform: $navScale !important;
+			-ms-transform: $navScale !important;
+			transform: $navScale !important;
+
+		}
+
+	a {
+		color: #000 !important;
+		text-decoration: none !important;
+		border-bottom: 1px solid transparent !important;
+
+		&:hover {
+			border-bottom: 1px solid $baseColor !important;
+
+		}
+
+	}
+
+
+}
+
+.nav .navItem:first-child {
+	margin: {
+		left: 0;
+
+	}
+
+}
+
+.logo-wrapper {
+	margin: {
+		top: 30px;
+
+	}
+
+}
+
+.logoLink {
+	border: none;
+
+}

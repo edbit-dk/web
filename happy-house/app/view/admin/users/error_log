@@ -1,0 +1,32 @@
+[18-Sep-2020 17:33:41 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPMultilingual\I18n' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/users/read.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/users/read.php on line 7
+[18-Sep-2020 17:33:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/users/update.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/users/update.php on line 9
+[05-Jul-2021 03:37:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPMultilingual\I18n' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/users/read.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/users/read.php on line 7
+[05-Jul-2021 03:38:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/users/update.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/users/update.php on line 9
+[12-Dec-2021 07:21:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPMultilingual\I18n' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/users/read.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/users/read.php on line 7
+[12-Dec-2021 07:21:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/users/update.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/users/update.php on line 9
+[17-Aug-2022 20:43:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/users/update.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/users/update.php on line 9
+[16-Sep-2022 03:21:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/users/update.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/users/update.php on line 9

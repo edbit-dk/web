@@ -1,0 +1,61 @@
+@import "../base/_variables.scss";
+
+.login-wrap {
+
+	text-align: center;
+
+}
+
+$inputPadding-LeRi: 20px;
+$inputPadding-ToBo: 20px;
+
+input[type="text"], input[type="password"], [class*='btn-'], input[type="submit"], select, input[type="date"], input[type="file"] {
+
+	border: none;
+	border-radius: 5px;
+
+	width: 60%;
+
+	padding: $inputPadding-ToBo $inputPadding-LeRi;
+
+}
+
+input[type="text"], input[type="password"], select, input[type="date"], input[type="file"] {
+
+	background: $inputBg;
+
+}
+
+input[type="file"] {
+
+	width: 100%;
+
+}
+
+[class*='btn-'], input[type="submit"] {
+
+	@extend p;
+
+	width: 200px;
+
+	background: $baseColor;
+	color: white;
+
+	&:hover {
+		
+		box-shadow: inset 0 0 8px rgba(000, 000, 000, .5);
+		text-shadow: 1px 1px 5px rgba(000, 000, 000, .5);
+
+		cursor: pointer;
+
+	}
+
+	&:focus {
+
+		box-shadow: inset 0 0 8px rgba(000, 000, 000, .8);
+
+		background: $baseColor / 1.1;
+
+	}
+
+}

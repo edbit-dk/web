@@ -1,0 +1,4 @@
+[17-Sep-2020 07:59:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/index.php:67
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/bilbixen/src/account/index.php on line 67

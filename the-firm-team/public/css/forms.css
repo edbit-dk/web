@@ -1,0 +1,97 @@
+/*
+FORMS CSS
+*/
+
+/* input boxes */
+/* html5 reset. this is necessary to properly align input fields in html5 */
+input, select, textarea {
+  box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -webkit-box-sizing: border-box;
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+    line-height: 20px;
+}
+
+input {
+/*    display: block;*/
+    margin-bottom: 15px;
+    min-width: 200px;
+    padding: 10px;
+}
+
+input[type="text"],
+input[type="email"],
+input[type="password"] {
+    border: 1px solid #ddd;
+    color: #555;
+    font-weight: bold;
+    /*padding: 10px;    */
+
+    /*
+    border: 0;
+    background-color: #eaedf2;
+    color: #777;
+    font-weight: bold;
+    padding: 15px;
+    */
+}
+
+input[type="submit"] {
+    border: 0;
+    background-color: #2C2F3B;
+    color: #fff;
+    font-weight: bold;
+    /*padding: 10px;*/
+    cursor: pointer;
+}
+.remember-me-checkbox {
+    float: left; min-width: 0; margin: 3px 10px 15px 0;
+}
+.remember-me-label {
+    float:left; min-width: 0; font-size: 12px; color: #888;
+}
+.login-submit-button {
+    float: none; clear: both;
+}
+
+.login-form-password-pattern-reminder {
+    display: block;
+    /*width: 200px;*/
+    color: #999;
+    font-size: 11px;
+
+}
+
+.login-default-box,
+.login-facebook-box {
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+}
+
+a.facebook-login-button,
+a.facebook-register-button {
+    background-color: #3b5998;
+    color: #fff;
+    text-decoration: none;
+    font-size: 16px;
+    font-weight: bolder;
+    padding: 15px 20px;
+    border-radius: 4px;
+}
+
+a.facebook-login-button:hover,
+a.facebook-register-button:hover {
+    background-color: #2f477a;
+}
+
+.register-default-box,
+.register-facebook-box {
+    display: inline-block;
+    width: 300px;
+    vertical-align: top;
+}

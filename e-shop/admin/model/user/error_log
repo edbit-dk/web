@@ -1,0 +1,6 @@
+[18-Sep-2020 10:24:13 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/model/user/api.php on line 2
+[18-Sep-2020 10:24:17 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/model/user/user.php on line 2
+[18-Sep-2020 10:24:21 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/model/user/user_group.php on line 2
+[22-Feb-2021 11:23:21 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/model/user/api.php on line 2
+[22-Feb-2021 11:23:37 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/model/user/user.php on line 2
+[22-Feb-2021 11:23:45 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/model/user/user_group.php on line 2

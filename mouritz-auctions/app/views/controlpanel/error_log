@@ -1,0 +1,162 @@
+[03-Dec-2021 20:10:59 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[03-Dec-2021 20:10:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Input' not found in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 13
+[04-Jan-2022 07:32:17 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[04-Jan-2022 07:32:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Input' not found in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 13
+[14-Feb-2022 20:39:37 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[14-Feb-2022 20:39:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Input' not found in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 13
+[27-Mar-2022 06:49:43 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[27-Mar-2022 06:49:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Input' not found in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 13
+[04-May-2022 04:02:19 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[04-May-2022 04:02:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Input' not found in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 13
+[15-Jun-2022 11:28:14 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[15-Jun-2022 11:28:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Input' not found in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 13
+[17-Jul-2022 05:26:01 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[17-Jul-2022 05:26:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Input' not found in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 13
+[16-May-2023 23:06:12 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[16-May-2023 23:06:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Input' not found in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 13
+[20-Feb-2024 17:42:05 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[20-Feb-2024 17:42:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Input' not found in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 13
+[20-Feb-2024 18:04:34 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[20-Feb-2024 18:04:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Input' not found in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 13
+[25-Jul-2024 12:55:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[25-Jul-2024 12:55:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Input' not found in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 13
+[15-Aug-2024 16:20:46 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[15-Aug-2024 16:20:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Input' not found in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 13
+[16-Aug-2024 10:22:59 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[16-Aug-2024 10:22:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Input' not found in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 13
+[23-Aug-2024 13:02:12 Europe/Copenhagen] PHP Warning:  Use of undefined constant USER_USERNAME - assumed 'USER_USERNAME' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[23-Aug-2024 13:02:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Input' not found in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:13
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 13
+[10-Sep-2024 23:27:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[22-Sep-2024 00:20:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[01-Oct-2024 10:23:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[16-Oct-2024 23:45:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[22-Oct-2024 17:54:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[14-Nov-2024 12:12:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[17-Nov-2024 02:15:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[01-Dec-2024 15:06:32 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[07-Dec-2024 16:19:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[14-Dec-2024 01:54:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[14-Dec-2024 11:12:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[24-Dec-2024 08:24:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[04-Jan-2025 14:18:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[04-Jan-2025 18:00:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[16-Jan-2025 19:25:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[28-Jan-2025 18:13:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[11-Feb-2025 01:33:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[12-Feb-2025 19:19:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[19-Feb-2025 19:41:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[22-Feb-2025 14:42:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[23-Feb-2025 04:18:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[07-Mar-2025 14:46:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6
+[22-Mar-2025 14:13:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "USER_USERNAME" in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/controlpanel/index.php on line 6

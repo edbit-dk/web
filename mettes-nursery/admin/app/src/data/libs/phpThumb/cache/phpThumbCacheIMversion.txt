@@ -1,0 +1,3 @@
+6.5.4-7 2014-02-10 Q16 
+Version: ImageMagick 6.5.4-7 2014-02-10 Q16 OpenMP http://www.imagemagick.org
+Copyright: Copyright (C) 1999-2009 ImageMagick Studio LLC

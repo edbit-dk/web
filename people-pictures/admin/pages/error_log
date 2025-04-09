@@ -1,0 +1,76 @@
+[17-Sep-2020 14:50:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/celebs.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/celebs.php on line 2
+[17-Sep-2020 14:50:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/gallery.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/gallery.php on line 3
+[17-Sep-2020 14:50:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/movies.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/movies.php on line 3
+[17-Sep-2020 14:50:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/news.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/news.php on line 3
+[17-Sep-2020 14:50:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/users.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/users.php on line 2
+[22-Feb-2021 09:54:04 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/celebs.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/celebs.php on line 2
+[22-Feb-2021 09:54:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/users.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/users.php on line 2
+[22-Jul-2021 06:06:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/celebs.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/celebs.php on line 2
+[22-Jul-2021 06:06:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/users.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/users.php on line 2
+[29-Dec-2021 14:28:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/celebs.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/celebs.php on line 2
+[29-Dec-2021 14:28:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/users.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/users.php on line 2
+[16-Oct-2022 09:32:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/celebs.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/celebs.php on line 2
+[16-Oct-2022 09:32:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/users.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/users.php on line 2
+[16-May-2023 23:15:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/celebs.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/celebs.php on line 2
+[16-May-2023 23:16:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/users.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/users.php on line 2
+[16-Nov-2023 10:29:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/celebs.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/celebs.php on line 2
+[16-Nov-2023 10:29:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/users.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/users.php on line 2
+[14-Apr-2024 03:39:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/celebs.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/celebs.php on line 2
+[14-Apr-2024 03:39:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/users.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/people-pictures/admin/pages/users.php on line 2

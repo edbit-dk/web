@@ -1,0 +1,71 @@
+@charset "utf-8";
+/* CSS Document */
+
+.tinynav { display: none }
+img{max-width: 100%;}
+
+@media only screen
+and (max-width: 960px) {
+    .tinynav { display: none }
+
+
+
+
+}
+
+@media only screen
+and (max-width: 768px) {
+    
+
+
+
+
+}
+
+@media only screen
+and (max-width: 600px) {
+    .tinynav { display: block; margin-left: 35%; }
+    #nav { display: none;}
+
+
+
+
+}
+
+@media only screen
+and (max-width: 480px) {
+
+
+
+}
+
+@media (max-width: 600px) {
+  form > div {
+    margin: 0 0 15px 0; 
+  }
+  form > div > label,
+  legend {
+	  width: 100%;
+    float: none;
+    margin: 0 0 5px 0;
+  }
+  form > div > div,
+  form > div > fieldset > div {
+    width: 100%;
+    float: none;
+  }
+  input[type=text],
+  input[type=email],
+  input[type=url],
+  input[type=password],
+  textarea,
+  select {
+    width: 100%; 
+  }
+}
+@media (min-width: 1200px) {
+  form > div > label,
+	legend {
+  	text-align: right;
+  }
+}

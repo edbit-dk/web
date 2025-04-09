@@ -1,0 +1,72 @@
+[18-Sep-2020 17:33:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPMultilingual\I18n' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/create.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/create.php on line 7
+[18-Sep-2020 17:33:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/read.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/read.php on line 9
+[18-Sep-2020 17:33:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPMultilingual\I18n' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/update.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/update.php on line 7
+[05-Jul-2021 03:37:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPMultilingual\I18n' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/create.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/create.php on line 7
+[05-Jul-2021 03:37:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/read.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/read.php on line 9
+[05-Jul-2021 03:37:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPMultilingual\I18n' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/update.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/update.php on line 7
+[12-Dec-2021 07:20:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPMultilingual\I18n' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/create.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/create.php on line 7
+[12-Dec-2021 07:20:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/read.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/read.php on line 9
+[12-Dec-2021 07:20:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPMultilingual\I18n' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/update.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/update.php on line 7
+[12-Jan-2022 16:20:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPMultilingual\I18n' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/create.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/create.php on line 7
+[12-Jan-2022 16:20:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/read.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/read.php on line 9
+[12-Jan-2022 16:20:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPMultilingual\I18n' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/update.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/update.php on line 7
+[17-Aug-2022 20:43:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPMultilingual\I18n' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/create.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/create.php on line 7
+[17-Aug-2022 20:43:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/read.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/read.php on line 9
+[17-Aug-2022 20:43:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPMultilingual\I18n' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/update.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/update.php on line 7
+[16-Sep-2022 03:16:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPMultilingual\I18n' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/create.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/create.php on line 7
+[16-Sep-2022 03:16:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/read.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/read.php on line 9
+[16-Sep-2022 03:20:56 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'thom855j\PHPMultilingual\I18n' not found in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/update.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/happy-house/app/view/admin/menus/update.php on line 7

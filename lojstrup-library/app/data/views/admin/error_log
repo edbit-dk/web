@@ -1,0 +1,40 @@
+[18-Sep-2020 18:27:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/books.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/books.php on line 3
+[18-Sep-2020 18:27:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/comments.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/comments.php on line 3
+[18-Sep-2020 18:27:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/events.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/events.php on line 3
+[18-Sep-2020 18:27:32 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/info.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/info.php on line 3
+[18-Sep-2020 18:27:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/users.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/users.php on line 3
+[07-Dec-2020 07:01:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/books.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/books.php on line 3
+[07-Dec-2020 07:01:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/comments.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/comments.php on line 3
+[07-Dec-2020 07:01:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/events.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/events.php on line 3
+[07-Dec-2020 07:01:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/info.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/info.php on line 3
+[07-Dec-2020 07:01:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/users.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/app/data/views/admin/users.php on line 3

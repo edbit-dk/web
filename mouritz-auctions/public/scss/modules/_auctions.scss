@@ -1,0 +1,86 @@
+@import "../base/_variables.scss";
+
+$auctionTopBotPadding: 40px;
+$auctionLeRiPadding: 25px;
+.auction-wrapper {
+	min-height: 650px;
+	border: 1px solid #cecece;
+	border-radius: 5px;
+	padding: {
+		top: $auctionTopBotPadding;
+		bottom: $auctionTopBotPadding;
+		left: $auctionLeRiPadding;
+		right: $auctionLeRiPadding;
+
+	}
+	margin: {
+		bottom: 20px;
+
+	}
+
+}
+
+.auction-header {
+	text-align: center;
+
+	img {
+		max-width: 100%;
+		max-height: 200px;
+
+	}
+
+}
+
+.auction-header h3 {
+	width: 100%;
+	margin: {
+		left: auto;
+		right: auto;
+
+	}
+	border: {
+		bottom: 1px solid $baseColor;
+
+	}
+	padding: {
+		bottom: 25px;
+
+	}
+
+	a {
+		border: {
+			bottom: 1px solid transparent;
+
+		}
+
+	&:hover {
+		border: {
+			bottom: 1px solid #000;
+
+		}
+
+	}
+
+	}
+
+
+
+}
+
+.auction-content {
+
+
+}
+
+#thumbnails a {
+	margin: {
+		right: 20px;
+
+	}
+
+}
+
+.bids-table tr:nth-child(2) {
+	box-shadow: 0 0 10px rgba(000, 000, 000, 0.5) !important;
+
+}

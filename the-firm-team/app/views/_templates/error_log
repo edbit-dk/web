@@ -1,0 +1,370 @@
+[18-Sep-2020 08:14:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[18-Sep-2020 08:14:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 8
+[18-Sep-2020 08:14:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 9
+[18-Sep-2020 08:14:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 24
+[18-Sep-2020 08:14:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 28
+[18-Sep-2020 08:14:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[18-Sep-2020 08:14:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 18
+[18-Sep-2020 08:14:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 19
+[18-Sep-2020 08:14:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 55
+[18-Sep-2020 08:14:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 56
+[18-Sep-2020 08:14:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 57
+[18-Sep-2020 08:14:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 58
+[18-Sep-2020 08:14:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 59
+[18-Sep-2020 08:14:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 60
+[18-Sep-2020 08:14:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 62
+[05-Jul-2021 03:39:17 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[05-Jul-2021 03:39:17 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 8
+[05-Jul-2021 03:39:17 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 9
+[05-Jul-2021 03:39:17 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 24
+[05-Jul-2021 03:39:17 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 28
+[05-Jul-2021 03:39:20 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[05-Jul-2021 03:39:20 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 18
+[05-Jul-2021 03:39:20 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 19
+[05-Jul-2021 03:39:20 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 55
+[05-Jul-2021 03:39:20 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 56
+[05-Jul-2021 03:39:20 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 57
+[05-Jul-2021 03:39:20 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 58
+[05-Jul-2021 03:39:20 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 59
+[05-Jul-2021 03:39:20 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 60
+[05-Jul-2021 03:39:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 62
+[04-May-2022 07:56:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[04-May-2022 07:56:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 8
+[04-May-2022 07:56:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 9
+[04-May-2022 07:56:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 24
+[04-May-2022 07:56:31 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 28
+[04-May-2022 07:56:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[04-May-2022 07:56:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 18
+[04-May-2022 07:56:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 19
+[04-May-2022 07:56:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 55
+[04-May-2022 07:56:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 56
+[04-May-2022 07:56:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 57
+[04-May-2022 07:56:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 58
+[04-May-2022 07:56:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 59
+[04-May-2022 07:56:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 60
+[04-May-2022 07:56:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 62
+[20-Feb-2024 17:42:17 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[20-Feb-2024 17:42:17 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 18
+[20-Feb-2024 17:42:17 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 19
+[20-Feb-2024 17:42:17 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 55
+[20-Feb-2024 17:42:17 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 56
+[20-Feb-2024 17:42:17 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 57
+[20-Feb-2024 17:42:17 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 58
+[20-Feb-2024 17:42:17 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 59
+[20-Feb-2024 17:42:17 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 60
+[20-Feb-2024 17:42:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 62
+[20-Feb-2024 17:42:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[20-Feb-2024 17:42:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 8
+[20-Feb-2024 17:42:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 9
+[20-Feb-2024 17:42:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 24
+[20-Feb-2024 17:42:18 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 28
+[20-Feb-2024 18:04:21 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[20-Feb-2024 18:04:21 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 18
+[20-Feb-2024 18:04:21 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 19
+[20-Feb-2024 18:04:21 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 55
+[20-Feb-2024 18:04:21 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 56
+[20-Feb-2024 18:04:21 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 57
+[20-Feb-2024 18:04:21 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 58
+[20-Feb-2024 18:04:21 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 59
+[20-Feb-2024 18:04:21 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 60
+[20-Feb-2024 18:04:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 62
+[20-Feb-2024 18:04:22 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[20-Feb-2024 18:04:22 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 8
+[20-Feb-2024 18:04:22 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 9
+[20-Feb-2024 18:04:22 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 24
+[20-Feb-2024 18:04:22 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 28
+[24-Jul-2024 12:10:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[24-Jul-2024 12:10:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 8
+[24-Jul-2024 12:10:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 9
+[24-Jul-2024 12:10:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 24
+[24-Jul-2024 12:10:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 28
+[24-Jul-2024 12:12:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[24-Jul-2024 12:12:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 18
+[24-Jul-2024 12:12:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 19
+[24-Jul-2024 12:12:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 55
+[24-Jul-2024 12:12:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 56
+[24-Jul-2024 12:12:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 57
+[24-Jul-2024 12:12:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 58
+[24-Jul-2024 12:12:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 59
+[24-Jul-2024 12:12:48 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 60
+[24-Jul-2024 12:12:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 62
+[13-Aug-2024 14:06:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[13-Aug-2024 14:06:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 18
+[13-Aug-2024 14:06:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 19
+[13-Aug-2024 14:06:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 55
+[13-Aug-2024 14:06:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 56
+[13-Aug-2024 14:06:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 57
+[13-Aug-2024 14:06:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 58
+[13-Aug-2024 14:06:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 59
+[13-Aug-2024 14:06:09 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 60
+[13-Aug-2024 14:06:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 62
+[18-Aug-2024 02:33:56 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[18-Aug-2024 02:33:56 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 18
+[18-Aug-2024 02:33:56 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 19
+[18-Aug-2024 02:33:56 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 55
+[18-Aug-2024 02:33:56 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 56
+[18-Aug-2024 02:33:56 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 57
+[18-Aug-2024 02:33:56 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 58
+[18-Aug-2024 02:33:56 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 59
+[18-Aug-2024 02:33:56 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 60
+[18-Aug-2024 02:33:56 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 62
+[18-Aug-2024 16:21:05 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[18-Aug-2024 16:21:05 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 8
+[18-Aug-2024 16:21:05 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 9
+[18-Aug-2024 16:21:05 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 24
+[18-Aug-2024 16:21:05 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 28
+[18-Aug-2024 20:20:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[18-Aug-2024 20:20:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 8
+[18-Aug-2024 20:20:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 9
+[18-Aug-2024 20:20:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 24
+[18-Aug-2024 20:20:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 28
+[20-Aug-2024 09:53:46 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[20-Aug-2024 09:53:46 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 18
+[20-Aug-2024 09:53:46 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 19
+[20-Aug-2024 09:53:46 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 55
+[20-Aug-2024 09:53:46 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 56
+[20-Aug-2024 09:53:46 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 57
+[20-Aug-2024 09:53:46 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 58
+[20-Aug-2024 09:53:46 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 59
+[20-Aug-2024 09:53:46 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 60
+[20-Aug-2024 09:53:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Using $this when not in object context in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:62
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 62
+[21-Aug-2024 04:21:20 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[21-Aug-2024 04:21:20 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 8
+[21-Aug-2024 04:21:20 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 9
+[21-Aug-2024 04:21:20 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 24
+[21-Aug-2024 04:21:20 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 28
+[03-Sep-2024 07:27:24 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[03-Sep-2024 07:27:24 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[10-Sep-2024 10:39:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[13-Sep-2024 16:55:27 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[13-Sep-2024 16:55:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[24-Sep-2024 19:08:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[24-Sep-2024 19:27:25 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[24-Sep-2024 19:27:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[25-Sep-2024 00:48:44 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[25-Sep-2024 00:48:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[28-Sep-2024 14:56:18 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[28-Sep-2024 14:56:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[28-Sep-2024 19:58:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[14-Oct-2024 18:55:09 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[14-Oct-2024 18:55:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[18-Oct-2024 15:12:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[22-Oct-2024 09:39:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[25-Oct-2024 16:04:38 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[25-Oct-2024 16:04:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[31-Oct-2024 02:15:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[11-Nov-2024 18:15:51 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[11-Nov-2024 18:15:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[16-Nov-2024 05:30:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[20-Nov-2024 19:09:30 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[20-Nov-2024 19:09:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[24-Nov-2024 22:28:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[26-Nov-2024 00:04:40 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[26-Nov-2024 00:04:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[28-Nov-2024 23:09:50 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[28-Nov-2024 23:09:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[03-Dec-2024 07:17:37 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[08-Dec-2024 10:38:22 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[08-Dec-2024 10:38:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[16-Dec-2024 03:07:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[19-Dec-2024 04:55:55 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[19-Dec-2024 04:55:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[19-Dec-2024 15:36:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[26-Dec-2024 11:09:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[01-Jan-2025 04:01:27 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[01-Jan-2025 04:01:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[06-Jan-2025 12:25:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[11-Jan-2025 22:04:58 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[11-Jan-2025 22:04:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[18-Jan-2025 19:33:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[22-Jan-2025 07:20:19 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[22-Jan-2025 07:20:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[27-Jan-2025 21:08:16 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[27-Jan-2025 21:08:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[30-Jan-2025 22:44:32 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[01-Feb-2025 21:42:58 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[01-Feb-2025 21:42:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[12-Feb-2025 11:41:04 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[12-Feb-2025 22:55:20 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[12-Feb-2025 22:55:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[17-Feb-2025 20:44:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[20-Feb-2025 02:31:29 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[20-Feb-2025 02:31:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[22-Feb-2025 21:15:21 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[22-Feb-2025 21:15:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[23-Feb-2025 13:58:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[24-Feb-2025 00:35:46 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[24-Feb-2025 00:35:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[24-Feb-2025 17:47:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[07-Mar-2025 08:21:46 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[07-Mar-2025 08:21:46 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14
+[09-Mar-2025 18:30:05 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[09-Mar-2025 21:14:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[10-Mar-2025 00:58:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php:7
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/footer.php on line 7
+[20-Mar-2025 18:15:17 Europe/Copenhagen] PHP Warning:  Undefined array key "url" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 7
+[20-Mar-2025 18:15:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/the-firm-team/app/views/_templates/header.php on line 14

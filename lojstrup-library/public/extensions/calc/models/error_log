@@ -1,0 +1,384 @@
+[18-Sep-2020 18:28:28 Europe/Copenhagen] PHP Fatal error:  Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[18-Sep-2020 18:28:30 Europe/Copenhagen] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Calc has a deprecated constructor in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Calc.php on line 9
+[18-Sep-2020 18:28:32 Europe/Copenhagen] PHP Fatal error:  Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[18-Sep-2020 18:28:34 Europe/Copenhagen] PHP Fatal error:  Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[18-Sep-2020 18:28:36 Europe/Copenhagen] PHP Fatal error:  Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[07-Dec-2020 07:04:30 Europe/Copenhagen] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Calc has a deprecated constructor in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Calc.php on line 9
+[22-Feb-2021 08:30:38 Europe/Copenhagen] PHP Fatal error:  Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[22-Feb-2021 08:30:45 Europe/Copenhagen] PHP Fatal error:  Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[22-Feb-2021 08:30:51 Europe/Copenhagen] PHP Fatal error:  Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[22-Feb-2021 08:30:57 Europe/Copenhagen] PHP Fatal error:  Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[22-Jul-2021 06:03:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[22-Jul-2021 06:03:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[22-Jul-2021 06:03:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[22-Jul-2021 06:03:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[29-Dec-2021 14:26:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[29-Dec-2021 14:26:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[29-Dec-2021 14:26:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[29-Dec-2021 14:26:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[17-Aug-2022 20:47:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[17-Aug-2022 20:47:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[17-Aug-2022 20:47:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[17-Aug-2022 20:47:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[20-Feb-2024 17:42:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[20-Feb-2024 17:42:53 Europe/Copenhagen] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Calc has a deprecated constructor in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Calc.php on line 9
+[20-Feb-2024 17:42:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[20-Feb-2024 17:42:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[20-Feb-2024 17:42:53 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[20-Feb-2024 18:05:03 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[20-Feb-2024 18:05:04 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[20-Feb-2024 18:05:04 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[20-Feb-2024 18:05:04 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[20-Feb-2024 18:05:04 Europe/Copenhagen] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Calc has a deprecated constructor in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Calc.php on line 9
+[23-Jul-2024 12:00:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[23-Jul-2024 12:00:30 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[23-Jul-2024 12:01:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[23-Jul-2024 20:05:58 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[23-Jul-2024 20:06:27 Europe/Copenhagen] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Calc has a deprecated constructor in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Calc.php on line 9
+[19-Aug-2024 10:19:01 Europe/Copenhagen] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Calc has a deprecated constructor in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Calc.php on line 9
+[20-Aug-2024 18:00:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[20-Aug-2024 20:13:33 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[20-Aug-2024 20:56:28 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[20-Aug-2024 23:56:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[21-Aug-2024 06:11:50 Europe/Copenhagen] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Calc has a deprecated constructor in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Calc.php on line 9
+[22-Aug-2024 01:05:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[22-Aug-2024 01:58:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[22-Aug-2024 03:42:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[24-Aug-2024 10:54:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface 'OperatorInterface' not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[24-Aug-2024 12:41:44 Europe/Copenhagen] PHP Deprecated:  Methods with the same name as their class will not be constructors in a future version of PHP; Calc has a deprecated constructor in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Calc.php on line 9
+[12-Sep-2024 19:56:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[12-Sep-2024 20:00:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[12-Sep-2024 20:07:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[12-Sep-2024 22:27:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[30-Sep-2024 10:39:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[30-Sep-2024 12:21:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[30-Sep-2024 16:21:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[30-Sep-2024 17:14:31 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[30-Sep-2024 21:59:00 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[01-Oct-2024 14:09:01 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[01-Oct-2024 23:25:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[02-Oct-2024 20:04:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[04-Oct-2024 09:53:32 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[04-Oct-2024 11:01:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[05-Oct-2024 02:04:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[05-Oct-2024 02:57:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[05-Oct-2024 03:28:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[19-Oct-2024 07:06:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[20-Oct-2024 01:51:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[28-Oct-2024 09:05:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[28-Oct-2024 09:38:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[29-Oct-2024 13:57:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[29-Oct-2024 19:02:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[30-Oct-2024 12:51:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[03-Nov-2024 03:23:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[03-Nov-2024 09:45:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[03-Nov-2024 10:39:06 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[03-Nov-2024 12:12:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[22-Nov-2024 06:50:59 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[22-Nov-2024 07:39:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[22-Nov-2024 09:23:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[27-Nov-2024 23:07:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[04-Dec-2024 08:16:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[09-Dec-2024 01:10:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[09-Dec-2024 03:06:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[09-Dec-2024 07:38:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[18-Dec-2024 04:11:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[18-Dec-2024 04:27:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[18-Dec-2024 17:27:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[19-Dec-2024 00:50:56 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[04-Jan-2025 08:49:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[11-Jan-2025 11:01:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[11-Jan-2025 13:24:50 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[11-Jan-2025 17:43:23 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[02-Feb-2025 05:24:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[05-Feb-2025 13:00:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[05-Feb-2025 13:09:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[06-Feb-2025 06:04:12 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[06-Feb-2025 16:18:48 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[12-Feb-2025 12:57:39 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[12-Feb-2025 17:21:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[12-Feb-2025 21:46:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[24-Feb-2025 07:27:42 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9
+[24-Feb-2025 08:31:36 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[24-Feb-2025 10:10:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[26-Feb-2025 12:37:07 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[06-Mar-2025 07:24:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Divider.php on line 9
+[11-Mar-2025 14:19:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Subtractor.php on line 9
+[11-Mar-2025 17:47:26 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Adder.php on line 9
+[11-Mar-2025 23:11:54 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Interface "OperatorInterface" not found in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php:9
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/lojstrup-library/public/extensions/calc/models/Multiplier.php on line 9

@@ -1,0 +1,67 @@
+/*
+TEXT CSS
+*/
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Didact Gothic', sans-serif;
+    font-weight:300;
+    margin: 0.5rem 0 0.5rem;
+    padding-bottom: 10px;
+}
+h1 {
+    font-size:260%;
+}
+h2 {
+    font-size:250%;
+}
+h3 {
+    font-size:200%;
+}
+h4 {
+    font-size:125%;
+}
+h5 {
+    font-size:100%;
+}
+h6 {
+    font-size:80%;
+}
+p {
+    font-size:75%;
+    font-family: 'PT Sans Narrow', sans-serif;
+}
+
+.more-link {
+    color: #269abc;
+}
+
+.title-box {
+    font-size: 25px;
+    padding: 15px;
+    background-color: #1e2029;
+    color: #fff;
+    font-weight: 700;
+}
+
+.title-box a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.logo  h1 {
+    color: #fff;
+    border-left: 2px dotted #fff;
+    border-right: 2px dotted #fff; 
+    max-width: 385px;
+    padding: 20px;
+}
+
+.slide-box h2, .slide-box a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.title {
+      font-style: italic;
+      font-weight: bold;
+}

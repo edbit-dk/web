@@ -1,0 +1,188 @@
+[07-Dec-2021 07:06:43 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[07-Dec-2021 07:06:43 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 9
+[07-Dec-2021 07:06:43 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 11
+[07-Dec-2021 07:06:52 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[12-Jan-2022 14:24:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[12-Jan-2022 14:24:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 9
+[12-Jan-2022 14:24:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 11
+[12-Jan-2022 14:24:12 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[27-Mar-2022 01:40:28 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[27-Mar-2022 01:40:28 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 9
+[27-Mar-2022 01:40:28 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 11
+[27-Mar-2022 01:40:33 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[03-May-2022 22:58:56 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[03-May-2022 22:58:56 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 9
+[03-May-2022 22:58:56 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 11
+[03-May-2022 22:58:58 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[10-May-2022 00:11:56 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[10-May-2022 00:11:56 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 9
+[10-May-2022 00:11:56 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 11
+[10-May-2022 00:11:57 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[15-Jun-2022 11:36:36 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[15-Jun-2022 11:36:36 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 9
+[15-Jun-2022 11:36:36 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 11
+[15-Jun-2022 11:36:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[18-Aug-2022 11:13:44 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[18-Aug-2022 11:13:44 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 9
+[18-Aug-2022 11:13:44 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 11
+[18-Aug-2022 11:13:49 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[20-Feb-2024 17:43:23 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[20-Feb-2024 17:43:24 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[20-Feb-2024 17:43:24 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 9
+[20-Feb-2024 17:43:24 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 11
+[20-Feb-2024 18:05:43 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[20-Feb-2024 18:05:44 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[20-Feb-2024 18:05:44 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 9
+[20-Feb-2024 18:05:44 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 11
+[25-Jul-2024 18:39:57 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[25-Jul-2024 18:39:57 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 9
+[25-Jul-2024 18:39:57 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 11
+[25-Jul-2024 18:39:57 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[21-Aug-2024 13:07:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[21-Aug-2024 13:07:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 9
+[21-Aug-2024 13:07:39 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 11
+[21-Aug-2024 13:16:11 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[10-Sep-2024 12:52:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[10-Sep-2024 22:20:18 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[11-Sep-2024 00:29:19 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[11-Sep-2024 12:22:11 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[30-Sep-2024 23:15:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[02-Oct-2024 19:19:17 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[07-Oct-2024 23:03:22 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[07-Oct-2024 23:11:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[22-Oct-2024 13:12:44 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[24-Oct-2024 01:42:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[14-Nov-2024 02:59:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[15-Nov-2024 03:33:43 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[01-Dec-2024 02:11:13 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[01-Dec-2024 20:47:15 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[11-Dec-2024 06:12:34 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[13-Dec-2024 12:49:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[14-Dec-2024 04:17:55 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[15-Dec-2024 03:30:45 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[18-Dec-2024 14:25:09 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[23-Dec-2024 20:14:51 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[24-Dec-2024 23:04:02 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[04-Jan-2025 07:51:27 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[05-Jan-2025 09:13:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[16-Jan-2025 17:30:38 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[17-Jan-2025 20:26:16 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[28-Jan-2025 22:39:40 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[30-Jan-2025 05:15:25 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[11-Feb-2025 11:05:52 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[12-Feb-2025 06:07:35 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[24-Feb-2025 01:39:20 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[24-Feb-2025 21:44:47 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[09-Mar-2025 07:04:21 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[10-Mar-2025 06:02:08 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[10-Mar-2025 07:37:14 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4
+[13-Mar-2025 04:32:29 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/header.php on line 11
+[20-Mar-2025 00:29:57 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Undefined constant "URL" in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php:4
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/route-66/newsletter/route-66/app/views/_templates/global/bootstrap/footer.php on line 4

@@ -1,0 +1,6 @@
+[18-Sep-2020 10:22:28 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/model/marketing/affiliate.php on line 2
+[18-Sep-2020 10:22:29 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/model/marketing/coupon.php on line 2
+[18-Sep-2020 10:22:31 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/model/marketing/marketing.php on line 2
+[22-Feb-2021 10:54:38 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/model/marketing/affiliate.php on line 2
+[22-Feb-2021 10:55:04 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/model/marketing/coupon.php on line 2
+[22-Feb-2021 10:55:28 Europe/Copenhagen] PHP Fatal error:  Class 'Model' not found in /home/edbitdk/portfolio.edbit.dk/sde/e-shop/admin/model/marketing/marketing.php on line 2

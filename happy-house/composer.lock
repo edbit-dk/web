@@ -1,0 +1,371 @@
+{
+    "_readme": [
+        "This file locks the dependencies of your project to a known state",
+        "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#composer-lock-the-lock-file",
+        "This file is @generated automatically"
+    ],
+    "hash": "c12d601d9d7dce2713bbd5b4abd4a6d7",
+    "packages": [
+        {
+            "name": "phpmailer/phpmailer",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/PHPMailer/PHPMailer.git",
+                "reference": "20b705353a3ea6ca6dc9b245fcf7e999d78728b6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/PHPMailer/PHPMailer/zipball/20b705353a3ea6ca6dc9b245fcf7e999d78728b6",
+                "reference": "20b705353a3ea6ca6dc9b245fcf7e999d78728b6",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.0.0"
+            },
+            "require-dev": {
+                "phpdocumentor/phpdocumentor": "*",
+                "phpunit/phpunit": "4.7.*"
+            },
+            "suggest": {
+                "league/oauth2-client": "Needed for Gmail's XOAUTH2 authentication system"
+            },
+            "type": "library",
+            "autoload": {
+                "classmap": [
+                    "class.phpmailer.php",
+                    "class.phpmaileroauth.php",
+                    "class.phpmaileroauthgoogle.php",
+                    "class.smtp.php",
+                    "class.pop3.php",
+                    "extras/EasyPeasyICS.php",
+                    "extras/ntlm_sasl_client.php"
+                ]
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "LGPL-2.1"
+            ],
+            "authors": [
+                {
+                    "name": "Jim Jagielski",
+                    "email": "jimjag@gmail.com"
+                },
+                {
+                    "name": "Marcus Bointon",
+                    "email": "phpmailer@synchromedia.co.uk"
+                },
+                {
+                    "name": "Andy Prevost",
+                    "email": "codeworxtech@users.sourceforge.net"
+                },
+                {
+                    "name": "Brent R. Matzelle"
+                }
+            ],
+            "description": "PHPMailer is a full-featured email creation and transfer class for PHP",
+            "time": "2015-09-15 06:09:22"
+        },
+        {
+            "name": "thom855j/php-auth-framework",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/thom855j/php-auth-framework.git",
+                "reference": "f4870893b3424dee793f8dc0d1c3fd264157ac83"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/thom855j/php-auth-framework/zipball/f4870893b3424dee793f8dc0d1c3fd264157ac83",
+                "reference": "f4870893b3424dee793f8dc0d1c3fd264157ac83",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0",
+                "thom855j/php-email": "dev-master",
+                "thom855j/php-scrud": "dev-master",
+                "thom855j/php-security": "dev-master"
+            },
+            "type": "project",
+            "autoload": {
+                "psr-4": {
+                    "thom855j\\PHPAuthFramework\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Authentication project for managing users and their permissions ",
+            "keywords": [
+                "Authentication",
+                "auth",
+                "login",
+                "permissions",
+                "user"
+            ],
+            "time": "2015-09-16 14:42:52"
+        },
+        {
+            "name": "thom855j/php-email",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/thom855j/php-email.git",
+                "reference": "646e5df4c182db509ea94495c45c70830c316a81"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/thom855j/php-email/zipball/646e5df4c182db509ea94495c45c70830c316a81",
+                "reference": "646e5df4c182db509ea94495c45c70830c316a81",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0",
+                "phpmailer/phpmailer": "dev-master"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "thom855j\\PHPEmail\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Simple email classes and wrappers",
+            "time": "2015-09-12 10:51:01"
+        },
+        {
+            "name": "thom855j/php-filesystem",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/thom855j/php-filesystem.git",
+                "reference": "e2205583422e415f6ab152a4baf9db61d1be8bf0"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/thom855j/php-filesystem/zipball/e2205583422e415f6ab152a4baf9db61d1be8bf0",
+                "reference": "e2205583422e415f6ab152a4baf9db61d1be8bf0",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "thom855j\\PHPFilesystem\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Simple, useful classes for working with the server filesystem",
+            "time": "2015-09-10 21:34:22"
+        },
+        {
+            "name": "thom855j/php-html",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/thom855j/php-html.git",
+                "reference": "55c71df78304a8cd516b6f359f0319f7d78b1fec"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/thom855j/php-html/zipball/55c71df78304a8cd516b6f359f0319f7d78b1fec",
+                "reference": "55c71df78304a8cd516b6f359f0319f7d78b1fec",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "thom855j\\PHPHtml\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Classes useful for manipulating html and outputs on clientside",
+            "time": "2015-09-10 21:36:13"
+        },
+        {
+            "name": "thom855j/php-http",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/thom855j/php-http.git",
+                "reference": "7df3ef6ab4f919014e763b05894a1d22dff8d21b"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/thom855j/php-http/zipball/7df3ef6ab4f919014e763b05894a1d22dff8d21b",
+                "reference": "7df3ef6ab4f919014e763b05894a1d22dff8d21b",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "thom855j\\PHPHttp\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Classes for manipulating routes and inputs like $_GET and $_POST",
+            "time": "2015-09-14 18:13:07"
+        },
+        {
+            "name": "thom855j/php-multilingual",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/thom855j/php-multilingual.git",
+                "reference": "5c19de363b559a699d416019e5a4b64734be42f6"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/thom855j/php-multilingual/zipball/5c19de363b559a699d416019e5a4b64734be42f6",
+                "reference": "5c19de363b559a699d416019e5a4b64734be42f6",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "thom855j\\PHPMultilingual\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Simple classes for making multilingual websites",
+            "time": "2015-09-13 22:16:46"
+        },
+        {
+            "name": "thom855j/php-mvc-framework",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/thom855j/php-mvc-framework.git",
+                "reference": "0c59d9eef52223769e5dd0dd9d036bc79725146c"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/thom855j/php-mvc-framework/zipball/0c59d9eef52223769e5dd0dd9d036bc79725146c",
+                "reference": "0c59d9eef52223769e5dd0dd9d036bc79725146c",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "thom855j\\PHPMvcFramework\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Useful classes for creating a php mvc app",
+            "time": "2015-09-13 15:52:49"
+        },
+        {
+            "name": "thom855j/php-scrud",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/thom855j/php-scrud.git",
+                "reference": "c6fb37a8069a2e9b696beb32892f72a4b4e0edba"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/thom855j/php-scrud/zipball/c6fb37a8069a2e9b696beb32892f72a4b4e0edba",
+                "reference": "c6fb37a8069a2e9b696beb32892f72a4b4e0edba",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "thom855j\\PHPScrud\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Simple scrud classes for using PDO and more in php",
+            "time": "2015-09-16 14:41:50"
+        },
+        {
+            "name": "thom855j/php-security",
+            "version": "dev-master",
+            "source": {
+                "type": "git",
+                "url": "https://github.com/thom855j/php-security.git",
+                "reference": "c75f1d67b937b3b534ecd0a7422190aae3655e21"
+            },
+            "dist": {
+                "type": "zip",
+                "url": "https://api.github.com/repos/thom855j/php-security/zipball/c75f1d67b937b3b534ecd0a7422190aae3655e21",
+                "reference": "c75f1d67b937b3b534ecd0a7422190aae3655e21",
+                "shasum": ""
+            },
+            "require": {
+                "php": ">=5.4.0"
+            },
+            "type": "library",
+            "autoload": {
+                "psr-4": {
+                    "thom855j\\PHPSecurity\\": "src/"
+                }
+            },
+            "notification-url": "https://packagist.org/downloads/",
+            "license": [
+                "MIT"
+            ],
+            "description": "Simple classes to use in php for security",
+            "time": "2015-09-16 22:40:32"
+        }
+    ],
+    "packages-dev": [],
+    "aliases": [],
+    "minimum-stability": "dev",
+    "stability-flags": {
+        "thom855j/php-security": 20,
+        "thom855j/php-scrud": 20,
+        "thom855j/php-multilingual": 20,
+        "thom855j/php-mvc-framework": 20,
+        "thom855j/php-filesystem": 20,
+        "thom855j/php-auth-framework": 20,
+        "thom855j/php-email": 20,
+        "thom855j/php-html": 20,
+        "thom855j/php-http": 20
+    },
+    "prefer-stable": false,
+    "prefer-lowest": false,
+    "platform": {
+        "php": ">=5.4.0"
+    },
+    "platform-dev": []
+}

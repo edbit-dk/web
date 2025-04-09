@@ -1,0 +1,53 @@
+@charset "utf-8";
+/* CSS Document */
+
+/*  Minigrid based on flexbox  */
+/* Created by Thomas Schønemann-Lange & Sivakuma 2014 */
+
+/*
+mgw = minigrid wrapper
+mg = minigrid
+mgi = minigrid inner
+*/
+
+/*MINIGRID*/
+
+ /* Columns width */
+.mgw{width:100%; display: flex; display: box;}
+.mg1-2{width:50%; display: flex; display: box;}
+.mg1-3{width:33.33333%; display: flex; display: box;}
+.mg2-3{width:66.66666%; display: flex; display: box;}
+.mg1-4{width:25%; display: flex; display: box;}
+.mgi{width: 100%;}
+
+/* Column 1 */
+.mgw.col1 .mgi{margin: 0px;}
+
+
+/* Column 2 */
+.mgw.col2 .mg1-2:first-child  .mgi{margin: 0px 12px 0px 0px;}
+.mgw.col2 .mg1-2:last-child .mgi{margin: 0px 0px 0px 12px;}
+
+/* Column 2 first */
+.mgw.col2 .mg1-3:first-child .mgi{margin: 0px 12px 0px 0px;}
+.mgw.col2 .mg2-3:last-child .mgi{margin: 0px 0px 0px 12px;}
+
+/* Column 2 last */
+.mgw.col2 .mg2-3:first-child .mgi{margin: 0px 12px 0px 0px;}
+.mgw.col2 .mg1-3:last-child .mgi{margin: 0px 0px 0px 12px;}
+
+
+/* Column 3 */
+.mgw.col3 .mg1-3 .mgi{margin: 0px 8px 0px 8px; }
+.mgw.col3 .mg1-3:first-child  .mgi{margin: 0px 16px 0px 0px; }
+.mgw.col3 .mg1-3:last-child .mgi{margin: 0px 0px 0px 16px; }
+
+
+/* Column 4 */
+.mgw.col4 .mg1-4:first-child .mgi{margin: 0px 18px 0px 0px;}
+.mgw.col4 .mg1-4:last-child .mgi {margin: 0px 0px 0px 18px;}
+.mgw.col4 .mg1-4:nth-child(2) .mgi {margin: 0px 12px 0px 6px;}
+.mgw.col4 .mg1-4:nth-child(3) .mgi {margin: 0px 6px 0px 12px;}
+
+
+

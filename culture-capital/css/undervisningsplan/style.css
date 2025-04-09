@@ -1,0 +1,45 @@
+@charset "utf-8";
+/* CSS Document */
+.content-wrapper{
+padding-bottom: 200px;
+}
+
+.content-wrapper .dates p{
+line-height: 170%;
+}
+
+.highlight{font-size: 15px}
+
+.content-holder{padding: 50px 25px 25px 15px;}
+.content-holder .mg2-3 {
+width: 120%;
+}
+
+.content-holder-top{margin-top: -100px;}
+
+.img-holder{width: 25%; padding-right: 10px;}
+
+.columns ul{padding-left: 25px;}
+.right-column{padding-top: 55px;}
+.left-column{padding-top: 20px;}
+
+.content-holder .mg1-3{width: 40%;}
+
+.module h2{ font-size: 21px; padding-left:10px; }
+.module-last{padding-left: 15px;}
+
+.modules {width: 66%; border-right: 1px solid #c2c2c2; }
+.modules img {margin-bottom: -5px; width: 200px;}
+
+.contact01 p{margin: -20px 0px 0px 30px; }
+
+.contact-info{border-bottom: 1px solid #c2c2c2; padding: 15px 0px 35px 0px;}
+
+.dates{margin-left: -45px; font-size: 13px; font-family: 'PT Serif', serif;}
+.dates p{ font-family: 'PT Serif', serif; font-style: italic;}
+
+.medium-bar{
+margin-top: -29px;
+margin-left: 150px;
+}
+.medium-bar img{height: 15px;}

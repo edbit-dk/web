@@ -1,0 +1,2 @@
+[18-Sep-2020 14:51:01 Europe/Copenhagen] PHP Fatal error:  Cannot redeclare getHostName() in /home/edbitdk/portfolio.edbit.dk/alencastre.net/culture-and-capital/js/polyfills/dev/shims/FlashCanvas/proxy.php on line 43
+[25-Sep-2021 07:35:08 Europe/Copenhagen] PHP Fatal error:  Cannot redeclare getHostName() in /home/edbitdk/portfolio.edbit.dk/alencastre.net/culture-and-capital/js/polyfills/dev/shims/FlashCanvas/proxy.php on line 35

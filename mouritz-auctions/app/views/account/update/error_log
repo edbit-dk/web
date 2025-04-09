@@ -1,0 +1,10 @@
+[18-Sep-2020 16:15:32 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/account/update/auction.php on line 15
+[18-Sep-2020 16:15:32 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Input' not found in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/account/update/auction.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/account/update/auction.php on line 92
+[07-Dec-2020 07:12:10 Europe/Copenhagen] PHP Warning:  Use of undefined constant URL - assumed 'URL' (this will throw an Error in a future version of PHP) in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/account/update/auction.php on line 15
+[07-Dec-2020 07:12:10 Europe/Copenhagen] PHP Fatal error:  Uncaught Error: Class 'Input' not found in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/account/update/auction.php:92
+Stack trace:
+#0 {main}
+  thrown in /home/edbitdk/portfolio.edbit.dk/sde/mouritz-auctions/app/views/account/update/auction.php on line 92

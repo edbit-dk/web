@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+.main-wrapper{background: #fff;}
+
+.subpage{padding: 30px 30px 0px 30px;}
+.subpage-img{padding: 20px 0px 0px 30px;}
+
+.subpage-list ul li {
+    /* Bullet color */
+    color: #ee2375;
+    list-style-type: disc;
+	font-size: 25px;
+	padding-bottom: 5px;
+}
+
+.subpage-list{padding: 20px 30px 0px 0px;}
+
+.subpage-bottom{padding-bottom: 50px;}
+
+.subpage-list ul{padding-left: 20px;}
